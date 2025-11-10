@@ -672,7 +672,6 @@
 	
 	
 	
-	
   
  //xsa//adds requiredResource 
   
@@ -826,7 +825,7 @@
 		  "Limited to [1] per Civilization"
 		  ]
 		// costs 1500 in BNW
-	}
+	},
 	
 	
 	
@@ -884,7 +883,7 @@
 			"Never appears as a Barbarian unit"
 		   ],
 		"attackSound": "shot"
-	}
+	},
 	
 	
 	
@@ -1186,7 +1185,7 @@
 			"-99% construction time for any improvements",
 			"Can build [Land] improvements on tiles"
 		]
-	}
+	},
 	
 	
 
@@ -1286,7 +1285,7 @@
 	 "movement": 2
 	 "cost": 0
 	 "hurryCostModifier": 0
- }
+ },
 	
 	
 	
@@ -1380,7 +1379,7 @@
 		],
 
 		"movement": 2
-	}
+	},
 	
 //xsa//unciv godmod
 	{
