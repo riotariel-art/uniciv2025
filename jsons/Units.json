@@ -193,7 +193,7 @@
 			"Ignores Zone of Control", 
 			"Unable to capture cities", 
 			"Never appears as a Barbarian unit",
-			"May withdraw before melee ([80]%)"
+			"Withdraws before melee combat <with 80% chance>"
 		   ],
 		"attackSound": "bombing"
   },
@@ -336,7 +336,7 @@
 		"unitType": "Civilian",
 		"uniques": [
             "Can instantly construct a [Holy site] improvement <by consuming this unit>",
-			"Can [Spread Religion] [4] times",
+			"Can Spread Religion <4 times><after which this unit is consumed>",
 			"Removes other religions when spreading religion", 
 			"May found a religion", 
 			"May enhance a religion", 
@@ -346,7 +346,7 @@
 			"Can move immediately once bought", 
 			"Unbuildable", 
 			"Religious Unit", 
-			"Hidden when religion is disabled", 
+			"Only available <when religion is enabled>", 
 			"Takes your religion over the one in their birth city"
 		],
 		"movement": 2,
