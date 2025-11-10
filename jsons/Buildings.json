@@ -51,8 +51,8 @@
 			
 			"[+100] Unit Supply",
 			"[+1000]% XP gained from combat <for [Military] units>",
-			"[+100]% Yield from every [Terrain] <for [Human player]>",
-			"Quantity of strategic resources produced by the empire [+100]%",
+			"[+100]% Yield from every [Terrain] <for [Human player] Civilizations>",
+//			"Quantity of strategic resources produced by the empire [+100]%",
 			"[+100] population [in this city]",
 			"[+100]% growth [in this city]",
 			"Provides 10 copy of each improved luxury resource near this City",
