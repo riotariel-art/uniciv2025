@@ -1103,7 +1103,8 @@
 		"requiredBuilding": "Divine Gate",
 		"uniques": [
 //xsa			"Unavailable <when number of Completed Policy branches is less than 1>",
-            "[+100]% Great Person generation per [1] social policies adopted",
+            "[+100]% Great Person generation per [1] social policies adopted" <in this city><while the empire is happy>,
+            "[+200]% Great Person generation per [1] social policies adopted" <in this city><during We Love The King Day>,
 			"Only available <in cities with a [Divine Gate]>",
 			"[+100]% Great Person generation [in all cities]",
 			"Moves to new capital when capital changes"]
