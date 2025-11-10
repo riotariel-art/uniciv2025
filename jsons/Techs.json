@@ -749,8 +749,17 @@ xsa tech inhibitor
 			{
 				"name": "1 Ancient Era Tech Inhibit",
 				"row": 11,
+				"prerequisites": [
+                    "Sailing",
+                    "Calendar",
+                    "Writing",
+                    "Trapping",
+                    "The Wheel",
+                    "Masonry",
+                    "Bronze Working"
+                ],
 				"quote": "'Tech Inhibitor, Slower tech upgrades",
-				"uniques": ["[+100]% weight to this choice for AI decisions"]
+				"uniques": ["[+0]% weight to this choice for AI decisions"]
 			}
 		]
 	},
@@ -764,8 +773,15 @@ xsa tech inhibitor
 			{
 				"name": "2 Classical Era Tech Inhibit",
 				"row": 11,
+				"prerequisites": [
+                    "Philosophy",
+                    "Drama and Poetry",
+                    "Currency",
+                    "Engineering",
+                    "Iron Working"
+                ],
 				"quote": "'Tech Inhibitor, Slower tech upgrades",
-				"uniques": ["[+100]% weight to this choice for AI decisions"]
+				"uniques": ["[+0]% weight to this choice for AI decisions"]
 			}
 		]
 	},
@@ -779,8 +795,16 @@ xsa tech inhibitor
 			{
 				"name": "3 Medieval Era Tech Inhibit",
 				"row": 11,
+				"prerequisites": [
+                    "Compass",
+                    "Education",
+                    "Chivalry",
+                    "Machinery",
+                    "Physics",
+                    "Steel"
+                ],
 				"quote": "'Tech Inhibitor, Slower tech upgrades",
-				"uniques": ["[+100]% weight to this choice for AI decisions"]
+				"uniques": ["[+0]% weight to this choice for AI decisions"]
 			}
 		]
 	},
@@ -794,8 +818,15 @@ xsa tech inhibitor
 			{
 				"name": "4 Renaissance Era Tech Inhibit",
 				"row": 11,
+				"prerequisites": [
+                    "Navigation",
+                    "Architecture",
+                    "Economics",
+                    "Metallurgy",
+                    "Chemistry"
+                ],
 				"quote": "'Tech Inhibitor, Slower tech upgrades",
-				"uniques": ["[+100]% weight to this choice for AI decisions"]
+				"uniques": ["[+0]% weight to this choice for AI decisions"]
 			}
 		]
 	},
@@ -809,6 +840,12 @@ xsa tech inhibitor
 			{
 				"name": "5 Industrial Era Tech Inhibit",
 				"row": 11,
+				"prerequisites": [
+                    "Biology",
+                    "Electricity",
+                    "Steam Power",
+                    "Dynamite"
+                ],
 				"quote": "'Tech Inhibitor, Slower tech upgrades",
 				"uniques": ["[+100]% weight to this choice for AI decisions"]
 			}
@@ -824,6 +861,12 @@ xsa tech inhibitor
 			{
 				"name": "6 Modern Era Tech Inhibit",
 				"row": 11,
+				"prerequisites": [
+                    "Plastic",
+                    "Electronics",
+                    "Ballistics",
+                    "Combustion"
+                ],
 				"quote": "'Tech Inhibitor, Slower tech upgrades",
 				"uniques": ["[+100]% weight to this choice for AI decisions"]
 			}
@@ -839,6 +882,12 @@ xsa tech inhibitor
 			{
 				"name": "7 Atomic Era Tech Inhibit",
 				"row": 11,
+				"prerequisites": [
+                    "Ecology",
+                    "Nuclear Fission",
+                    "Rocketry",
+                    "Computers"
+                ],
 				"quote": "'Tech Inhibitor, Slower tech upgrades",
 				"uniques": ["[+100]% weight to this choice for AI decisions"]
 			}
@@ -854,6 +903,13 @@ xsa tech inhibitor
 			{
 				"name": "8 Information Era Tech Inhibit",
 				"row": 11,
+				"prerequisites": [
+                    "Globalization",
+                    "Particle Physics",
+                    "Nuclear Fussion",
+                    "Nanotechnology",
+                    "Stealth"
+                ],
 				"quote": "'Tech Inhibitor, Slower tech upgrades",
 				"uniques": ["[+100]% weight to this choice for AI decisions"]
 			}
