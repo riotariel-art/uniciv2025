@@ -1545,7 +1545,7 @@
     "Can only be built <in [Capital] cities> <hidden from users>", 
 	"[-1000]% Strength <when not at war>", 
 	"[+1000]% Strength <when not at war> <vs [Barbarians]>", 
-	"Damage is ignored when determining unit Strength<for All units>",	
+	"No damage penalty for wounded units",	
 	"Military Units gifted from City-States start with [1000] XP", 
 	"New [All] units start with [1000] XP [in all cities]" 
 	] } ,
@@ -1681,14 +1681,14 @@
 	 "[+1 Production] per [1] population [in all cities]", 
 	 "[+1000000]% [Production] [in all cities]", 
      "[+200000]% [Strategic] resource production",
-	 "[-1000]% tile improvement construction time" 
+	 "[-1000]% construction time for [All] improvements" 
 	 ] },
 
 { "name": "Hax For Everyone!", 
 "isNationalWonder": true, "cost": 1, 
 "uniques": [ 
 	"Destroyed when the city is captured <hidden from users>", 
-	"Can only be built [in capital]", 
+	"Can only be built <in [Capital] cities>", 
 	"\"Borrows\" city names from other civilizations in the game", 
 	"[+1 Gold, +1 Production, +1 Science, +1 Food, +1 Culture, +1 Faith, +1 Happiness] per [1] population [in all cities]", 
 	"Enables conversion of city production to [Gold]", 
@@ -1765,7 +1765,7 @@
 		"uniques": [
 			"Cost increases by [10] per owned city",
 			"Destroyed when the city is captured <hidden from users>",
-			"Hidden when religion is disabled"
+			"Only available <when religion is enabled>",
 			]
 	},
 	{
