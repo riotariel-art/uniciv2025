@@ -861,7 +861,8 @@
 			"[+100] Unit Supply",
 			"[+1000]% XP gained from combat <for [Military] units>",
 			"[+100]% Yield from every [Terrain] <for [Human player] Civilizations>",
-			"Quantity of strategic resources produced by the empire [+100]%",
+			"[+100]% [strategic] resource production",
+            
 			"[+100] population [in this city]",
 			"[+100]% growth [in this city]",
 			"Provides 10 copy of each improved luxury resource near this City",
@@ -1544,7 +1545,7 @@
     "Can only be built <in [Capital] cities>", 
 	"[-1000]% Strength <when not at war>", 
 	"[+1000]% Strength <when not at war> <vs [Barbarians]>", 
-	"No damage penalty for wounded units",	
+	"Damage is ignored when determining unit Strength<for All units>",	
 	"Military Units gifted from City-States start with [1000] XP", 
 	"New [All] units start with [1000] XP [in all cities]" 
 	] } ,
@@ -1679,15 +1680,15 @@
 	 "[+1000]% Strength <when not at war> <vs [Barbarians]>", 
 	 "[+1 Production] per [1] population [in all cities]", 
 	 "[+1000000]% [Production] [in all cities]", 
-	 "Quantity of strategic resources produced by the empire +[200000]%", 
-	 "[-1000]% construction time for All improvements" 
+     "[+200000]% [Strategic] resource production",
+	 "[-1000]% tile improvement construction time" 
 	 ] },
 
 { "name": "Hax For Everyone!", 
 "isNationalWonder": true, "cost": 1, 
 "uniques": [ 
 	"Destroyed when the city is captured", 
-	"Can only be built <in [in capital] cities> <hidden from users>", 
+	"Can only be built [in capital]", 
 	"\"Borrows\" city names from other civilizations in the game", 
 	"[+1 Gold, +1 Production, +1 Science, +1 Food, +1 Culture, +1 Faith, +1 Happiness] per [1] population [in all cities]", 
 	"Enables conversion of city production to [Gold]", 
@@ -1764,7 +1765,7 @@
 		"uniques": [
 			"Cost increases by [10] per owned city",
 			"Destroyed when the city is captured",
-			"Only available <when religion is enabled>"
+			"Hidden when religion is disabled"
 			]
 	},
 	{
@@ -2114,7 +2115,7 @@
 				"Only available <before adopting [Tradition]>",
 				"Only available <before adopting [Liberty]>",
 				"Only available <before adopting [Honor]>",
-				"Only available <before turn number[5]>",
+				"Only available <before [5] turns>",
 				"Only available <in cities with a [Palace]>",
 		  		"Free Social Policy"]
 	},
@@ -2639,7 +2640,7 @@
 			"[50]% [Happiness] [in all cities]",
 			"[50]% [Science] [in all cities]",
 			"[50]% [Culture] [in all cities]",
-			"Quantity of strategic resources produced by the empire +[50]%",
+			"[+100]% [Strategic] resource production",
 			"Moves to new capital when capital changes"]
 	},
 	{
@@ -2663,7 +2664,7 @@
 		"maintenance": 0,
 		"requiredBuilding": "Divine Gate",
 		"uniques": [
-			"Unavailable <whennumber of Completed Policy branches is less than 1>",
+			"Hidden until [1] social policy branches have been completed",
 			"Only available <in cities with a [Divine Gate]>",
 			"[+100]% Great Person generation [in all cities]",
 			"Moves to new capital when capital changes"]
