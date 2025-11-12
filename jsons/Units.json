@@ -171,11 +171,11 @@
 	
 	
 	
-	
+/*	
 	  //xsa//added//airunit
   
-	  {
-	"name": "Zeppelin",
+	{
+	    "name": "Zeppelin",
 		"unitType": "Helicopter",
 		"movement": 5,
 		"strength": 42,
@@ -214,7 +214,7 @@
 		   ],
 		"attackSound": "shot"
 	},
-	
+*/	
 	
 	
 	
@@ -252,7 +252,7 @@
 		],
 		"hurryCostModifier": 20
 	},
-	
+/*	
 	{
 		"name": "Founder",
 		"unitType": "Civilian",
@@ -277,7 +277,7 @@
 		]
 		"hurryCostModifier": 700
 	},
-	
+*/	
 	{
 		"name": "Great Artist",
 		"unitType": "Civilian",
@@ -441,7 +441,8 @@
 			"Never appears as a Barbarian unit",
 			"Only available <in cities with a [MiniCake Sandboxer]>",
 			"Cannot attack",
-			"Founds a new city"
+			"Founds a new city",
+		 		"Only available <for [Human player] Civilizations> <hidden from users>",
 		]
 	},
 	{
@@ -466,7 +467,8 @@
 			"Eliminates combat penalty for attacking across a coast",
 			"Eliminates combat penalty for attacking over a river",
 			"[1] Movement point cost to embark",
-			"[256] additional attacks per turn"
+			"[256] additional attacks per turn",
+		 		"Only available <for [Human player] Civilizations> <hidden from users>",
 		]
 	},
 	{
@@ -495,7 +497,8 @@
 			"Eliminates combat penalty for attacking across a coast",
 			"Eliminates combat penalty for attacking over a river",
 			"[1] Movement point cost to embark",
-			"[256] additional attacks per turn"
+			"[256] additional attacks per turn",
+		 		"Only available <for [Human player] Civilizations> <hidden from users>",
 		]
 	},
 	{
@@ -509,7 +512,8 @@
 			"Only available <in cities with a [MiniCake Sandboxer]>",
 			"Cannot attack",
 			"-99% construction time for any improvements",
-			"Can build [Land] improvements on tiles"
+			"Can build [Land] improvements on tiles",
+		 		"Only available <for [Human player] Civilizations> <hidden from users>",
 		]
 	},
 	
@@ -546,12 +550,13 @@
 		"name": "Stronger General",
 		"unitType": "Class S Great People",
 		"uniques": [ 
-		    "Only available <in cities with a [Build special units]> <hidden from users>",
+//		    "Only available <in cities with a [Build special units]> <hidden from users>",
 			"Empire enters a [50]-turn Golden Age <by consuming this unit>",
 			"[+667]% Strength bonus for [Military] units within [5] tiles",
 			"All adjacent units heal [+100] HP when healing", 
 			"[+100] HP when healing",
-			"Uncapturable"],
+			"Uncapturable",
+		 		"Only available <for [Human player] Civilizations> <hidden from users>",],
 		"movement": 5
 			 "cost": 0
 			 "hurryCostModifier": 0
@@ -560,12 +565,14 @@
 	  "name": "Normal Worker",
 	 "unitType": "Class S Civilian",
 	 "uniques": [ 
-			"Only available <in cities with a [Build special units]> <hidden from users>",
+//			"Only available <in cities with a [Build special units]> <hidden from users>",
 			"Can be purchased for [0] [Gold] [in this city]",
 			"Can build [Land] improvements on tiles",
 			"Can build [Water] improvements on tiles",
 			"[-99]% construction time for [All] improvements",
-			"Uncapturable"],
+			"Uncapturable",
+		 		"Only available <for [Human player] Civilizations> <hidden from users>",
+			 ],
 	 "movement": 2
 			 "cost": 0
 			 "hurryCostModifier": 0
@@ -574,7 +581,7 @@
 	  "name": "Prophet",
 	 "unitType": "Class S Civilian",
 	 "uniques": [ 
-			"Only available <in cities with a [Build special units]> <hidden from users>",
+//			"Only available <in cities with a [Build special units]> <hidden from users>",
 			 "Religious Unit",
     		 "May enhance a religion",
     		 "May found a religion",
@@ -583,7 +590,9 @@
     		 "May enter foreign tiles without open borders",
     		 "Only available <when religion is enabled>",
     		 "Takes your religion over the one in their birth city",
-    		 "Uncapturable"],
+    		 "Uncapturable",
+		 		"Only available <for [Human player] Civilizations> <hidden from users>",
+			 ],
 	        "movement": 2
 			 "cost": 0
 			 "hurryCostModifier": 0
@@ -592,10 +601,12 @@
 	"name": "Invulnerable Trooper",
 	 "unitType": "Class S Trooper",
 	 "uniques": [ 
-	     "Only available <in cities with a [Build special units]> <hidden from users>",
+//	     "Only available <in cities with a [Build special units]> <hidden from users>",
 		 "Can be purchased for [0] [Gold] [in this city]",
 		 "[Invulnerable Trooper] units gain the [More Invulnerability] promotion",
-	     "Uncapturable"]
+	     "Uncapturable",
+		 		"Only available <for [Human player] Civilizations> <hidden from users>",
+			 ]
 	 "strength": 50
 	 "movement": 2
 			 "cost": 0
@@ -604,10 +615,13 @@
  { 
 	 "name": "Normal Settler",
 	 "unitType": "Class S Civilian",
-	 "uniques": [ "Only available <in cities with a [Build special units]> <hidden from users>",
+	 "uniques": [ 
+//		 "Only available <in cities with a [Build special units]> <hidden from users>",
 		 "Founds a new city",
 		 "Can be purchased for [0] [Gold] [in this city]",
-		 "Uncapturable"]
+		 "Uncapturable",
+		 		"Only available <for [Human player] Civilizations> <hidden from users>","
+			 ]
 	 "movement": 2
 	 "cost": 0
 	 "hurryCostModifier": 0
@@ -648,13 +662,14 @@
 	"cost": 99,
 	"hurryCostModifier": 99,
 	"uniques": [
-	  "Uncapturable",
-	  "Never appears as a Barbarian unit",
-	  "Can build [All] improvements at a [+100]% rate",
-	  "Can build [All] improvements on tiles",
-	  "Can instantly construct a [All] improvement",
-	  "Can move immediately once bought",
-	  "May create improvements on water resources" 
+		"Uncapturable",
+		"Never appears as a Barbarian unit",
+		"Can build [All] improvements at a [+100]% rate",
+		"Can build [All] improvements on tiles",
+		"Can instantly construct a [All] improvement",
+		"Can move immediately once bought",
+		"May create improvements on water resources",
+		"Only available <for [Human player] Civilizations> <hidden from users>","
 	  ]
   },
   {
@@ -665,10 +680,12 @@
 	"cost": 99,
 	"hurryCostModifier": 99,
 	"uniques": [
-	  "Uncapturable",
-	  "Never appears as a Barbarian unit",
-	  "Can move immediately once bought",
-	  "Founds a new city" ]
+		"Uncapturable",
+		"Never appears as a Barbarian unit",
+		"Can move immediately once bought",
+		"Founds a new city",
+		"Only available <for [Human player] Civilizations> <hidden from users>","
+	]
   },
   
 	  {
@@ -680,6 +697,7 @@
 		  "uniques":[
   				"Turn this tile into a [Mountain Tunnel] tile <by consuming this unit> <in [Mountain] tiles> <in tiles adjacent to [Mountain] tiles> <costs [+300 Gold] stats> <after discovering [Dynamite]>",			   
   				"Can pass through impassable tiles <hidden from users>",
+		  		"Only available <for [Human player] Civilizations> <hidden from users>","
 		  ]
 	  },
 	  {
@@ -690,7 +708,9 @@
 				"uniques": [
 					"Can build [Water] improvements on tiles",
 					"Can enter ice tiles",
-					"Can build [Remove Ice] improvements on tiles"],
+					"Can build [Remove Ice] improvements on tiles",
+					"Only available <for [Human player] Civilizations> <hidden from users>","
+				],
 			"cost": 325
 		},
 		
@@ -701,7 +721,8 @@
 		"uniques": [
 			"Empire enters a [50]-turn Golden Age <by consuming this unit>",
 //			"Can instantly construct a [Farmyard] improvement <by consuming this unit>",
-			"Great Person - [Food]", "Unbuildable", "Uncapturable"
+			"Great Person - [Food]", "Unbuildable", "Uncapturable",
+			"Only available <for [Human player] Civilizations> <hidden from users>","
 		],
 
 		"movement": 2
@@ -715,7 +736,8 @@
 			"Gain a free [Divine Gate] [in capital] <by consuming this unit>",
 			"Unbuildable",
 			"Uncapturable",
-			"Reveals the entire map"
+			"Reveals the entire map",
+			"Only available <for [Human player] Civilizations> <hidden from users>","
 		],
 		"movement": 2
 	}
