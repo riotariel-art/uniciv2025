@@ -11,7 +11,7 @@
   	"name": "Sons of the Aesir",
 //	"uniqueTo": "Asgarheim",
   	"uniques": [
-     
+      "Only available <for [Human player] Civilizations> <hidden from users>",
       "[-100000]% weight to this choice for AI decisions",
 //	  "Only available <for [Asgarheim] Civilizations>",
 	  "[100]% chance to intercept air attacks",
@@ -50,6 +50,7 @@
     {
         "name": "Exploration",
         "uniques": [
+            "Only available <for [Human player] Civilizations> <hidden from users>",
             "[-100000]% weight to this choice for AI decisions",
             "[This Unit] gains [1] XP <with [20]% chance> <upon discovering a [All] tile> <hidden from users>",
 			"Comment [This Unit gains [1] XP with a 20% chance upon discovering a tile]",
@@ -65,6 +66,7 @@
     {
 		"name": "Mastery of War",
 		"uniques": [
+		    "Only available <for [Human player] Civilizations> <hidden from users>",
 			"[+110]% Strength <when attacking>",
 			"[+130]% Strength <when defending>",
 			"[1] additional attacks per turn",
@@ -75,6 +77,7 @@
 	{
 		"name": "Air Superiority",
 		"uniques": [
+		    "Only available <for [Human player] Civilizations> <hidden from users>",
 			"[+110]% Strength <when attacking>",
 			"Damage taken from interception reduced by [90]%",
 			"[1] additional attacks per turn"
@@ -84,6 +87,7 @@
 	{
 		"name": "Panacea's Gift",
 		"uniques": [
+		    "Only available <for [Human player] Civilizations> <hidden from users>",
 			"Heals [40] damage if it kills a unit",
 			"May heal outside of friendly territory",
 			"Unit will heal every turn, even if it performs an action",
@@ -94,6 +98,7 @@
 	{
 		"name": "Founder's Frontier",
 		"uniques": [
+		    "Only available <for [Human player] Civilizations> <hidden from users>",
 			"[+60]% Strength <when defending>",
 			"May heal outside of friendly territory",
 			"Unit will heal every turn, even if it performs an action"
@@ -103,6 +108,7 @@
 	{
 		"name": "Civilian Assistance",
 		"uniques": [
+		    "Only available <for [Human player] Civilizations> <hidden from users>",
 			"All adjacent units heal [+60] HP when healing",
 			"[+15]% Strength bonus for [Military] units within [3] tiles"
 		]
@@ -111,6 +117,7 @@
 	{
 		"name": "Enhanced Vision",
 		"uniques": [
+		    "Only available <for [Human player] Civilizations> <hidden from users>",
 			"[+2] Sight",
 			"[+3] Movement",
 			"+1 Sight <when embarked>",
@@ -122,6 +129,7 @@
 	{
 		"name": "Better Wayfinding",
 		"uniques": [
+		    "Only available <for [Human player] Civilizations> <hidden from users>",
 			"[+5] Sight",
 			"[+1] Movement",
 			"Can see invisible [Submarine] units",
@@ -132,6 +140,7 @@
 	{
 		"name": "Improved Radar",
 		"uniques": [
+		    "Only available <for [Human player] Civilizations> <hidden from users>",
 			"[+4] Range",
 			"[+4] Sight",
 			"[+4] Sight", "Can see over obstacles"
@@ -141,6 +150,7 @@
 	{
 		"name": "Brilliant Detonation",
 		"uniques": [
+		    "Only available <for [Human player] Civilizations> <hidden from users>",
 			"[+365]% Strength <when attacking>",
 			"Damage taken from interception reduced by [90]%",
 			"[+5] Range",
@@ -153,6 +163,7 @@
 	{
 		"name": "Capture Master",
 		"uniques": [
+		    "Only available <for [Human player] Civilizations> <hidden from users>",
 			"May capture killed [{non-air} {Military}] units",
 			"May capture killed [{Aircraft} {Military}] units"
 		]
@@ -161,6 +172,7 @@
 {
 		"name": "Adaptive Warfare", // only for Khan
 		"uniques": [
+		    "Only available <for [Human player] Civilizations> <hidden from users>",
 			"[+50]% Strength <during the [Ancient era]>",
 			"[+65]% Strength <during the [Classical era]>",
 			"[+75]% Strength <during the [Medieval era]>",
@@ -182,7 +194,9 @@
 
    { 
      "name": "Omnipotence",
-     "uniques": ["All adjacent units heal [+99] HP when healing",
+     "uniques": [
+         "Only available <for [Human player] Civilizations> <hidden from users>",
+         "All adjacent units heal [+99] HP when healing",
         "[+250]% XP gained from combat", 
         "Ranged attacks may be performed over obstacles",
         "Can see invisible [All] units <with [999]% chance>", 
@@ -197,13 +211,18 @@
    },
    { 
      "name": "Pillage-cheat",
-     "uniques": ["[+100]% Health from pillaging tiles",
+     "uniques": [
+         "Only available <for [Human player] Civilizations> <hidden from users>",
+         "[+100]% Health from pillaging tiles",
      "No movement cost to pillage",
-     "[+100]% Yield from pillaging tiles"]
+     "[+100]% Yield from pillaging tiles"
+     ]
    },
    {
      "name": "More Invulnerability",
-     "uniques": ["All adjacent units heal [+100] HP when healing",
+     "uniques": [
+         "Only available <for [Human player] Civilizations> <hidden from users>",
+         "All adjacent units heal [+100] HP when healing",
         "[+250]% XP gained from combat",
         "Ranged attacks may be performed over obstacles", 
         "Can see invisible [All] units", 
@@ -219,12 +238,16 @@
    {
       "name": "Slavery-888",
       "uniques": [
-		 "May capture killed [All] units <with [999]% chance>",
+		
+		"Only available <for [Human player] Civilizations> <hidden from users>",
+		"May capture killed [All] units <with [999]% chance>",
 		 "Uncapturable"]
    },
    {
       "name": "Knowledgeable"
-	   "uniques": ["[666]% XP gained from combat"]
+	   "uniques": [
+	       "Only available <for [Human player] Civilizations> <hidden from users>",
+	       "[666]% XP gained from combat"]
    }
    
    
@@ -242,13 +265,16 @@
     {
 		"name": "Great Admiral",
 		"uniques": [
-		    "Double movement in [Coast]", 
+		   "Only available <for [Human player] Civilizations> <hidden from users>",
+		   "Double movement in [Coast]", 
 		    "Double movement in [Ocean]", 
 		    "Double movement in [Lakes]"]
 	},
     {
 		"name": "Ignore Zone of Control",
-		"uniques": ["Ignores Zone of Control"]
+		"uniques": [
+		    "Only available <for [Human player] Civilizations> <hidden from users>",
+		    "Ignores Zone of Control"]
 	},
 
 	
@@ -257,11 +283,15 @@
 	//xsa//more challenges
 	{
 		"name": "No Move",
-		"uniques": ["Cannot move"],
+		"uniques": [
+		    "Cannot move"
+		    ],
 	},
 	{
 		"name": "Totally Blind",
-		"uniques": ["No Sight"],
+		"uniques": [
+		    "No Sight"
+		    ],
 	}
   
 
