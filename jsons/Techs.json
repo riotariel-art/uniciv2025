@@ -2,18 +2,20 @@
 
 //xsa//
 /*
-xsa tech inhibitor
- 0， 1， 2，	 3		Ancient
- 4， 5，		 6		Classical
- 7， 8，		 9		Medieval
-10，11，		12		Renaissance
-13，14，		15		Industrial
-16，17，		18		Modern
-19，20，		21		Atomic
-22，23，		24		Information
-25，			  		Future
+xsa tech inhibitor		
+ 0， 1， 2，	 3		Ancient			   UnlockInhibitor Era 1 Ancient
+ 4， 5，		 6		Classical		   UnlockInhibitor Era 2 Classical
+ 7， 8，		 9		Medieval		   UnlockInhibitor Era 3 Medieval
+10，11，		12		Renaissance		   UnlockInhibitor Era 4 Renaissance
+13，14，		15		Industrial		   UnlockInhibitor Era 5 Industrial
+16，17，		18		Modern			   UnlockInhibitor Era 6 Modern
+19，20，		21		Atomic			   UnlockInhibitor Era 7 Atomic
+22，23，		24		Information		   UnlockInhibitor Era 8 Information
+25，			  		Future			   UnlockInhibitor Era 9 Future
 */
 
+//xsa//Unlocker
+//xsa//more challenges
 
 [
 	{
@@ -29,7 +31,15 @@ xsa tech inhibitor
 				"quote": "'Where tillage begins, other arts follow. The farmers therefore are the founders of human civilization.' - Daniel Webster",
 				"uniques": ["Starting tech"]
 			},
-			{
+			{//xsa//Unlocker
+				"name": "xsaUnlocker",
+				"row": 12,
+				"quote": "'Cheat tech",
+				"uniques": [
+					"[-999999]% weight to this choice for AI decisions",
+					"Only available <for [Human player] Civilizations> <hidden from users>"]
+			},
+			{//xsa//more challenges
 				"name": "AI Treats",
 				"row": 11,
 				"quote": "'Cheat tech",
@@ -759,7 +769,7 @@ xsa tech inhibitor
                     "Bronze Working"
                 ],
 				"quote": "'Tech Inhibitor, Slower tech upgrades",
-				"uniques": ["[+0]% weight to this choice for AI decisions"]
+				"uniques": ["[+100]% weight to this choice for AI decisions"]
 			}
 		]
 	},
@@ -781,7 +791,7 @@ xsa tech inhibitor
                     "Iron Working"
                 ],
 				"quote": "'Tech Inhibitor, Slower tech upgrades",
-				"uniques": ["[+0]% weight to this choice for AI decisions"]
+				"uniques": ["[+100]% weight to this choice for AI decisions"]
 			}
 		]
 	},
@@ -804,7 +814,7 @@ xsa tech inhibitor
                     "Steel"
                 ],
 				"quote": "'Tech Inhibitor, Slower tech upgrades",
-				"uniques": ["[+0]% weight to this choice for AI decisions"]
+				"uniques": ["[+100]% weight to this choice for AI decisions"]
 			}
 		]
 	},
@@ -826,7 +836,7 @@ xsa tech inhibitor
                     "Chemistry"
                 ],
 				"quote": "'Tech Inhibitor, Slower tech upgrades",
-				"uniques": ["[+0]% weight to this choice for AI decisions"]
+				"uniques": ["[+100]% weight to this choice for AI decisions"]
 			}
 		]
 	},
