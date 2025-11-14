@@ -74,7 +74,7 @@
 		"culture": 1,
 		"isNationalWonder": true,
 		"uniques": [
-			"Only available <if [MiniCake Wonder] is constructed>",
+			"Only available <if [MiniCake Wonder] is constructed> <hidden from users>",
 			"Only available <if [Colosseum] is constructed in all [non-[Puppeted]] cities>", 
 			"Cost increases by [30] per owned city"],
 		"requiredTech": "Horseback Riding"
@@ -87,7 +87,7 @@
 		"isNationalWonder": true,
 		"percentStatBonus": {"science": 50},
 		"uniques": [
-			"Only available <if [MiniCake Wonder] is constructed>",
+			"Only available <if [MiniCake Wonder] is constructed> <hidden from users>",
 			"Only available <if [Library] is constructed in all [non-[Puppeted]] cities>", 
 			"Cost increases by [30] per owned city"],
 		"requiredTech": "Philosophy"
@@ -98,7 +98,7 @@
 		"culture": 1,
 		"isNationalWonder": true,
 		"uniques": [
-			"Only available <if [MiniCake Wonder] is constructed>",
+			"Only available <if [MiniCake Wonder] is constructed> <hidden from users>",
 			"Only available <if [Monument] is constructed in all [non-[Puppeted]] cities>", 
 			"[+25]% Great Person generation [in this city]", 
 			"Cost increases by [30] per owned city"],
@@ -110,7 +110,7 @@
 		"culture": 1,
 		"isNationalWonder": true,
 		"uniques": [
-			"Only available <if [MiniCake Wonder] is constructed>",
+			"Only available <if [MiniCake Wonder] is constructed> <hidden from users>",
 			"Only available <if [Barracks] is constructed in all [non-[Puppeted]] cities>", 
 			"All newly-trained [non-[Air]] units [in this city] receive the [Morale] promotion",
 			"Cost increases by [30] per owned city"],
@@ -122,7 +122,7 @@
 		"culture": 1,
 		"faith": 8,
 		"uniques": [
-			"Only available <if [MiniCake Wonder] is constructed>",
+			"Only available <if [MiniCake Wonder] is constructed> <hidden from users>",
 			"Only available <if [Temple] is constructed in all [non-[Puppeted]] cities>", 
 			"Cost increases by [30] per owned city",
 			"[+100]% Natural religion spread [in this city]", 
@@ -138,7 +138,7 @@
 		"culture": 1,
 		"isNationalWonder": true,
 		"uniques": [
-			"Only available <if [MiniCake Wonder] is constructed>",
+			"Only available <if [MiniCake Wonder] is constructed> <hidden from users>",
 			"Only available <if [Market] is constructed in all [non-[Puppeted]] cities>", 
 			"Cost increases by [30] per owned city"],
 		"requiredTech": "Guilds"
@@ -150,7 +150,7 @@
 		"culture": 1,
 		"isNationalWonder": true,
 		"uniques": [
-			"Only available <if [MiniCake Wonder] is constructed>",
+			"Only available <if [MiniCake Wonder] is constructed> <hidden from users>",
 			"Only available <if [University] is constructed in all [non-[Puppeted]] cities>", 
 			"Free Technology", 
 			"Cost increases by [30] per owned city"],
@@ -163,7 +163,7 @@
 		"culture": 1,
 		"isNationalWonder": true,
 		"uniques": [
-			"Only available <if [MiniCake Wonder] is constructed>",
+			"Only available <if [MiniCake Wonder] is constructed> <hidden from users>",
 			"Only available <if [Workshop] is constructed in all [non-[Puppeted]] cities>", 
 			"Cost increases by [30] per owned city"],
 		"requiredTech": "Machinery"
@@ -175,7 +175,7 @@
 		"culture": 5,
 		"isNationalWonder": true,
 		"uniques": [
-			"Only available <if [MiniCake Wonder] is constructed>",
+			"Only available <if [MiniCake Wonder] is constructed> <hidden from users>",
 			"Only available <if [Opera House] is constructed in all [non-[Puppeted]] cities>", 
 			"Cost increases by [30] per owned city"],
 		"requiredTech": "Architecture"
@@ -186,7 +186,7 @@
 		"culture": 1,
 		"isNationalWonder": true,
 		"uniques": [
-			"Only available <if [MiniCake Wonder] is constructed>",
+			"Only available <if [MiniCake Wonder] is constructed> <hidden from users>",
 			"Only available <when espionage is enabled>",
 			"New spies start with [1] level(s)",
 			"Promotes all spies [1] time(s)",
@@ -201,7 +201,7 @@
 		"cost": 750,
 		"isNationalWonder": true,
 		"uniques": [
-		"Only available <if [MiniCake Wonder] is constructed>","
+		"Only available <if [MiniCake Wonder] is constructed> <hidden from users>","
 			Enables nuclear weapon", 
 			"Triggers a global alert upon completion", 
 			"Cannot be hurried"],
@@ -212,7 +212,7 @@
 		"cost": 750,
 		"isNationalWonder": true,
 		"uniques": [
-			"Only available <if [MiniCake Wonder] is constructed>",
+			"Only available <if [MiniCake Wonder] is constructed> <hidden from users>",
 			"Enables construction of Spaceship parts", 
 			"Triggers a global alert upon completion", 
 			"Only available <when [Scientific] Victory is enabled>", 
@@ -227,7 +227,7 @@
 		"cost": 1500,
 		"isNationalWonder": true,
 		"uniques": [
-			"Only available <if [MiniCake Wonder] is constructed>",
+			"Only available <if [MiniCake Wonder] is constructed> <hidden from users>",
 			"Unavailable <when number of [Completed Policy branches] is less than [5]>", 
 			"Triggers a global alert upon build start",
 			"Triggers a Cultural Victory upon completion", 
@@ -268,7 +268,7 @@
 		"isWonder": true,
 		"greatPersonPoints": {"Great Engineer": 1},
 		"uniques": [
-			"Only available <if [MiniCake Wonder] is constructed>",
+			"Only available <if [MiniCake Wonder] is constructed> <hidden from users>",
 			"[+10]% [Food] [in all cities]", 
 			"[+15]% Production when constructing [Archery] units [in this city]",
 			"[+15]% Production when constructing [Ranged Gunpowder] units [in this city]"],
@@ -294,7 +294,7 @@
 		"isWonder": true,
 		"requiredTech": "Writing",
 		"uniques": [ 
-			"Only available <if [MiniCake Wonder] is constructed>",
+			"Only available <if [MiniCake Wonder] is constructed> <hidden from users>",
 			"Free Technology", 
 			"Gain a free [Library] [in this city]"],
 		"quote": "'Libraries are as the shrine where all the relics of the ancient saints, full of true virtue, and all that without delusion or imposture are preserved and reposed.' - Sir Francis Bacon"
@@ -305,7 +305,7 @@
 		"greatPersonPoints": {"Great Engineer": 1},
 		"isWonder": true,
 		"uniques": [
-			"Only available <if [MiniCake Wonder] is constructed>",
+			"Only available <if [MiniCake Wonder] is constructed> <hidden from users>",
 			"Can build [all] improvements at a [+25]% rate",
 			"[2] free [Worker] units appear"],
 		"requiredTech": "Masonry",
@@ -317,7 +317,7 @@
 		"greatPersonPoints": {"Great Merchant": 1},
 		"isWonder": true,
 		"uniques": [
-			"Only available <if [MiniCake Wonder] is constructed>",
+			"Only available <if [MiniCake Wonder] is constructed> <hidden from users>",
 			"Gain [100] [Gold] <upon expending a [Great Person] unit> <(modified by game speed)>",
 			"[+2 Gold] from [Marble] tiles [in this city]", 
 			"[+2 Gold] from [Stone] tiles [in this city]"],
@@ -329,7 +329,7 @@
 		"culture": 1,
 		"isWonder": true,
 		"uniques": [
-			"Only available <if [MiniCake Wonder] is constructed>",
+			"Only available <if [MiniCake Wonder] is constructed> <hidden from users>",
 			"[+15]% Strength <for [All] units> <vs cities> <when attacking>"],
 		"requiredTech": "Bronze Working",
 		"quote": "'He spoke, the son of Kronos, and nodded his head with the dark brows, and the immortally anointed hair of the great god swept from his divine head, and all Olympos was shaken' - The Iliad"
@@ -342,7 +342,7 @@
 		"greatPersonPoints": {"Great Merchant": 1},
 		"isWonder": true,
 		"uniques": [
-			"Only available <if [MiniCake Wonder] is constructed>",
+			"Only available <if [MiniCake Wonder] is constructed> <hidden from users>",
 			"Must be next to [Coast]", 
 			"[+1] Movement <for [{Military} {Water}] units>",
 			"[+1] Sight <for [{Military} {Water}] units>", 
@@ -358,7 +358,7 @@
 		"isWonder": true,
 		"requiredTech": "Mathematics",
 		"uniques": [
-			"Only available <if [MiniCake Wonder] is constructed>",
+			"Only available <if [MiniCake Wonder] is constructed> <hidden from users>",
 			"Gain a free [Garden] [in this city]"
 			],
 		"quote": "'I think that if ever a mortal heard the word of God it would be in a garden at the cool of the day.' - F. Frankfort Moore"
@@ -380,7 +380,7 @@
 		"greatPersonPoints": {"Great Scientist": 1},
 		"isWonder": true,
 		"uniques": [
-			"Only available <if [MiniCake Wonder] is constructed>",
+			"Only available <if [MiniCake Wonder] is constructed> <hidden from users>",
 			"Free Social Policy"
 			],
 		"requiredTech": "Philosophy",
@@ -392,7 +392,7 @@
 		"isWonder": true,
 		"greatPersonPoints": {"Great Engineer": 1},
 		"uniques": [
-			"Only available <if [MiniCake Wonder] is constructed>",
+			"Only available <if [MiniCake Wonder] is constructed> <hidden from users>",
 			"Must be next to [Desert]", 
 			"[+1 Food, +1 Production, +1 Gold] from [Desert] tiles without [Flood plains] [in this city]", 
 			"Gain a free [Amphitheater] [in this city]", 
@@ -406,7 +406,7 @@
 		"greatPersonPoints": {"Great Engineer": 1},
 		"isWonder": true,
 		"uniques": [
-			"Only available <if [MiniCake Wonder] is constructed>",
+			"Only available <if [MiniCake Wonder] is constructed> <hidden from users>",
 			"Enemy [Land] units must spend [1] extra movement points when inside your territory <before discovering [Dynamite]> <Suppress warning [*contains a conditional on a unit movement unique*]>",
 			"Gain a free [Walls] [in this city]"],
 		"requiredTech": "Engineering",
@@ -420,7 +420,7 @@
 		"greatPersonPoints": {"Great Merchant": 1},
 		"isWonder": true,
 		"uniques": [
-			"Only available <if [MiniCake Wonder] is constructed>",
+			"Only available <if [MiniCake Wonder] is constructed> <hidden from users>",
 			"Must be next to [Coast]", 
 			"[+1 Gold] from [Water] tiles [in this city]"],
 		"requiredTech": "Iron Working",
@@ -432,7 +432,7 @@
 		"greatPersonPoints": {"Great Artist": 1},
 		"isWonder": true,
 		"uniques": [
-			"Only available <if [MiniCake Wonder] is constructed>",
+			"Only available <if [MiniCake Wonder] is constructed> <hidden from users>",
 			"Gain a free [Temple] [in this city]", 
 			"Free [Great Prophet] appears", 
 			"Only available <when religion is enabled>"],
@@ -446,7 +446,7 @@
 		"greatPersonPoints": {"Great Engineer": 1},
 		"isWonder": true,
 		"uniques": [
-			"Only available <if [MiniCake Wonder] is constructed>",
+			"Only available <if [MiniCake Wonder] is constructed> <hidden from users>",
 			"Gain a free [Mosque] [in this city]", 
 			"Only available <when religion is enabled>",
 			"All newly-trained [Missionary] units [in this city] receive the [Devout] promotion",
@@ -461,7 +461,7 @@
 		"greatPersonPoints": {"Great Engineer": 1},
 		"isWonder": true,
 		"uniques": [
-			"Only available <if [MiniCake Wonder] is constructed>",
+			"Only available <if [MiniCake Wonder] is constructed> <hidden from users>",
 			"[+50]% Golden Age length"
 			],
 		"requiredTech": "Civil Service",
@@ -474,7 +474,7 @@
 		"greatPersonPoints": {"Great Merchant": 1},
 		"isWonder": true,
 		"uniques": [
-			"Only available <if [MiniCake Wonder] is constructed>",
+			"Only available <if [MiniCake Wonder] is constructed> <hidden from users>",
 			"[+25]% [Gold] from Trade Routes", 
 			"Must have an owned [{non-[Natural Wonder]} {Mountain}] within [2] tiles"],
 		"requiredTech": "Guilds",
@@ -486,7 +486,7 @@
 		"greatPersonPoints": {"Great Engineer": 1},
 		"isWonder": true,
 		"uniques": [
-			"Only available <if [MiniCake Wonder] is constructed>",
+			"Only available <if [MiniCake Wonder] is constructed> <hidden from users>",
 			"[-25]% Culture cost of natural border growth [in all cities]",
 			"[-25]% Gold cost of acquiring tiles [in all cities]"],
 		"requiredTech": "Education",
@@ -499,7 +499,7 @@
 		"isWonder": true,
 		"percentStatBonus": {"culture": 20},
 		"uniques": [
-			"Only available <if [MiniCake Wonder] is constructed>",
+			"Only available <if [MiniCake Wonder] is constructed> <hidden from users>",
 			"All newly-trained [relevant] units [in this city] receive the [Drill I] promotion",
 			"Gain a free [Castle] [in this city]"],
 		"requiredTech": "Chivalry",
@@ -523,7 +523,7 @@
 		"isWonder": true,
 		"greatPersonPoints": {"Great Artist": 2},
 		"uniques": [
-			"Only available <if [MiniCake Wonder] is constructed>",
+			"Only available <if [MiniCake Wonder] is constructed> <hidden from users>",
 			"[+25]% [Culture] [in all cities]"
 			],
 		"requiredTech": "Acoustics",
@@ -535,7 +535,7 @@
 		"isWonder": true,
 		"greatPersonPoints": {"Great Artist": 1},
 		"uniques": [
-			"Only available <if [MiniCake Wonder] is constructed>",
+			"Only available <if [MiniCake Wonder] is constructed> <hidden from users>",
 			"[-10]% Unhappiness from [Population] [in all non-occupied cities]"
 			],
 		"requiredTech": "Banking",
@@ -547,7 +547,7 @@
 		"isWonder": true,
 		"greatPersonPoints": {"Great Artist": 1},
 		"uniques": [
-			"Only available <if [MiniCake Wonder] is constructed>",
+			"Only available <if [MiniCake Wonder] is constructed> <hidden from users>",
 			"[+25]% Great Person generation [in all cities]", 
 			"Free Great Person"
 			],
@@ -560,7 +560,7 @@
 		"isWonder": true,
 		"greatPersonPoints": {"Great Engineer": 2},
 		"uniques": [
-			"Only available <if [MiniCake Wonder] is constructed>",
+			"Only available <if [MiniCake Wonder] is constructed> <hidden from users>",
 			"[+15]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>",
 			"Gain a free [Castle] [in this city]"
 			],
@@ -574,7 +574,7 @@
 		"greatPersonPoints": {"Great Artist": 2},
 		"isWonder": true,
 		"uniques": [
-			"Only available <if [MiniCake Wonder] is constructed>",
+			"Only available <if [MiniCake Wonder] is constructed> <hidden from users>",
 			"Empire enters golden age"
 			],
 		"requiredTech": "Architecture",
@@ -586,7 +586,7 @@
 		"greatPersonPoints": {"Great Scientist": 2},
 		"isWonder": true,
 		"uniques": [
-			"Only available <if [MiniCake Wonder] is constructed>",
+			"Only available <if [MiniCake Wonder] is constructed> <hidden from users>",
 			"Free [Great Scientist] appears",
 			"Science gained from research agreements [+50]%"
 			],
@@ -599,7 +599,7 @@
 		"cityStrength": 12,
 		"isWonder": true,
 		"uniques": [
-			"Only available <if [MiniCake Wonder] is constructed>",
+			"Only available <if [MiniCake Wonder] is constructed> <hidden from users>",
 			"[+25]% City Strength from defensive buildings"
 			],
 		"requiredTech": "Metallurgy",
@@ -611,7 +611,7 @@
 		"greatPersonPoints": {"Great Artist": 2},
 		"isWonder": true,
 		"uniques": [
-			"Only available <if [MiniCake Wonder] is constructed>",
+			"Only available <if [MiniCake Wonder] is constructed> <hidden from users>",
 			"[2] free [Great Artist] units appear"
 			],
 		"requiredTech": "Archaeology",
@@ -624,7 +624,7 @@
 		"greatPersonPoints": {"Great Merchant": 2},
 		"isWonder": true,
 		"uniques": [
-			"Only available <if [MiniCake Wonder] is constructed>",
+			"Only available <if [MiniCake Wonder] is constructed> <hidden from users>",
 			"[Gold] cost of purchasing items in cities [-15]%"
 			],
 		"requiredTech": "Industrialization",
@@ -636,7 +636,7 @@
 		"greatPersonPoints": {"Great Scientist": 2},
 		"isWonder": true,
 		"uniques": [
-			"Only available <if [MiniCake Wonder] is constructed>",
+			"Only available <if [MiniCake Wonder] is constructed> <hidden from users>",
 			"Free [Great General] appears", 
 			"New [Military] units start with [15] XP [in this city]"
 			],
@@ -650,7 +650,7 @@
 		"greatPersonPoints": {"Great Merchant": 2},
 		"isWonder": true,
 		"uniques": [
-			"Only available <if [MiniCake Wonder] is constructed>",
+			"Only available <if [MiniCake Wonder] is constructed> <hidden from users>",
 			"[+1 Happiness] per [2] social policies adopted"
 			],
 		"requiredTech": "Radio",
@@ -662,7 +662,7 @@
 		"isWonder": true,
 		"greatPersonPoints": {"Great Engineer": 2},
 		"uniques": [
-			"Only available <if [MiniCake Wonder] is constructed>",
+			"Only available <if [MiniCake Wonder] is constructed> <hidden from users>",
 			"[+1 Production] from every specialist [in all cities]"
 			],
 		"requiredTech": "Replaceable Parts",
@@ -676,7 +676,7 @@
 		"greatPersonPoints": {"Great Merchant": 1},
 		"isWonder": true,
 		"uniques": [
-			"Only available <if [MiniCake Wonder] is constructed>",
+			"Only available <if [MiniCake Wonder] is constructed> <hidden from users>",
 			"[+1 Happiness, +2 Culture, +3 Gold] from every [Castle]",
 			"Must have an owned [{non-[Natural Wonder]} {Mountain}] within [2] tiles"],
 		"requiredTech": "Railroads",
@@ -688,7 +688,7 @@
 		"isWonder": true,
 		"greatPersonPoints": {"Great Artist": 2},
 		"uniques": [
-			"Only available <if [MiniCake Wonder] is constructed>",
+			"Only available <if [MiniCake Wonder] is constructed> <hidden from users>",
 			"[-10]% Culture cost of adopting new Policies"
 			],
 		"requiredTech": "Plastics",
@@ -700,7 +700,7 @@
 		"culture": 3,
 		"greatPersonPoints": {"Great Engineer": 2},
 		"uniques": [
-			"Only available <if [MiniCake Wonder] is constructed>",
+			"Only available <if [MiniCake Wonder] is constructed> <hidden from users>",
 			"[-33]% Gold cost of upgrading <for [Military] units>"
 			],
 		"requiredTech": "Combined Arms",
@@ -712,7 +712,7 @@
 		"greatPersonPoints": {"Great Artist": 2},
 		"percentStatBonus": {"culture": 50},
 		"uniques": [
-			"Only available <if [MiniCake Wonder] is constructed>",
+			"Only available <if [MiniCake Wonder] is constructed> <hidden from users>",
 			"Free Social Policy",
 			"Must be next to [Coast]"
 			],
@@ -723,7 +723,7 @@
 		"name": "Great Firewall",
 		"isWonder": true,
 		"uniques": [
-			"Only available <if [MiniCake Wonder] is constructed>",
+			"Only available <if [MiniCake Wonder] is constructed> <hidden from users>",
 			"Only available <when espionage is enabled>", 
 			"[-99]% enemy spy effectiveness [in this city]",
 			"[-25]% enemy spy effectiveness [in all cities]"
@@ -736,7 +736,7 @@
 		"isWonder": true,
 		"greatPersonPoints": {"Great Merchant": 1},
 		"uniques": [
-			"Only available <if [MiniCake Wonder] is constructed>",
+			"Only available <if [MiniCake Wonder] is constructed> <hidden from users>",
 			"[+1] population [in all cities]", 
 			"[+1 Happiness] [in all cities]", 
 			"Gain a free [Broadcast Tower] [in all cities]"
@@ -749,7 +749,7 @@
 		"isWonder": true,
 		"greatPersonPoints": {"Great Scientist": 1},
 		"uniques": [
-			"Only available <if [MiniCake Wonder] is constructed>",
+			"Only available <if [MiniCake Wonder] is constructed> <hidden from users>",
 			"[2] free [Great Scientist] units appear",
 			"[+25]% Production when constructing [Spaceship part] units [in this city]",
 			"Gain a free [Spaceship Factory] [in this city]"
@@ -764,7 +764,7 @@
 		"greatPersonPoints": {"Great Merchant": 2},
 		"requiredTech": "Globalization",
 		"uniques": [
-			"Only available <if [MiniCake Wonder] is constructed>",
+			"Only available <if [MiniCake Wonder] is constructed> <hidden from users>",
 			"Triggers voting for the Diplomatic Victory", 
 			"Only available <when [Diplomatic] Victory is enabled>", 
 			"Triggers a global alert upon completion"
@@ -916,8 +916,7 @@
 			"[-50]% Unhappiness from [Population] [in all cities]",
 			"[+100]% [Happiness] [in all cities]",
 			
-			"Can see over obstacles",
-			"Can see invisible [All] units",
+
 			"Gain control over [all] tiles in a [5]-tile radius",
 			
 			"Discover [xsaUnlocker]",
@@ -947,8 +946,7 @@
 				"Unbuildable <hidden from users>",
 				"Can be purchased for [0] [Gold] [in all cities] <hidden from users>",
 				"Can be purchased for [0] [Faith] [in all cities] <hidden from users>",
-				"Can be purchased for [0] [Culture] [in all cities] <hidden from
-				users>",
+				"Can be purchased for [0] [Culture] [in all cities] <hidden from users>",
 				"Destroyed when the city is captured <hidden from users>"
 			],
 	},	
@@ -2425,7 +2423,7 @@
 							"requiredBuilding": "MiniCake Challenges",
 		"cost": 0,
 		"uniques": [
-		        "Never Destroyed when the city is captured <hidden from users>",
+		        "Destroyed when the city is captured <hidden from users>",
 		        "Unsellable",
 		        "Only available <before discovering [AI Treats]>",
 				"Only available <before adopting [Challenges]>",
@@ -2442,6 +2440,7 @@
 							"requiredBuilding": "MiniCake Challenges",
 				"cost": 1,
 				"uniques": [
+		            "Destroyed when the city is captured <hidden from users>",
 				    "[41]% growth [in this city] <during We Love The King Day>",
 	    			"Nullifies [Science] [in this city] <during We Love The King Day>",
 					"Nullifies [Production] [in this city] <during We Love The King Day>",
@@ -2959,16 +2958,16 @@
 		"hurryCostModifier": 1,
 		"maintenance": 0,
 		"uniques": [
-			"Adopt [Tradition]<before adopting [Tradition]",
-			"Adopt [Liberty]<before adopting [Liberty]",
-			"Adopt [Honor]<before adopting [Honor]",
-			"Adopt [Piety]<before adopting [Piety]",
-			"Adopt [Patronage]<before adopting [Patronage]",
-			"Adopt [Commerce]<before adopting [Commerce]",
-			"Adopt [Rationalism]<before adopting [Rationalism]",
-			"Adopt [Freedom]<before adopting [Freedom]",
-			"Adopt [Autocracy]<before adopting [Autocracy]",
-			"Adopt [Order]<before adopting [Order]",
+			"Adopt [Tradition]<before adopting [Tradition]>",
+			"Adopt [Liberty]<before adopting [Liberty]>",
+			"Adopt [Honor]<before adopting [Honor]>",
+			"Adopt [Piety]<before adopting [Piety]>",
+			"Adopt [Patronage]<before adopting [Patronage]>",
+			"Adopt [Commerce]<before adopting [Commerce]>",
+			"Adopt [Rationalism]<before adopting [Rationalism]>",
+			"Adopt [Freedom]<before adopting [Freedom]>",
+			"Adopt [Autocracy]<before adopting [Autocracy]>",
+			"Adopt [Order]<before adopting [Order]>",
 			"Unbuildable <hidden from users>",
 			"Moves to new capital when capital changes <hidden from users>"	
 		]
@@ -2982,13 +2981,13 @@
 		"hurryCostModifier": 1,
 		"maintenance": 0,
 		"uniques": [
-			"Adopt [Tradition]<before adopting [Tradition]",
-			"Adopt [Aristocracy]<before adopting [Aristocracy]",
-			"Adopt [Legalism]<before adopting [Legalism]",
-			"Adopt [Oligarchy]<before adopting [Oligarchy]",
-			"Adopt [Landed Elite]<before adopting [Landed Elite]",
-			"Adopt [Monarchy]<before adopting [Monarchy]",
-			"Adopt [Tradition Complete]<before adopting [Tradition Complete]",
+			"Adopt [Tradition]<before adopting [Tradition]>",
+			"Adopt [Aristocracy]<before adopting [Aristocracy]>",
+			"Adopt [Legalism]<before adopting [Legalism]>",
+			"Adopt [Oligarchy]<before adopting [Oligarchy]>",
+			"Adopt [Landed Elite]<before adopting [Landed Elite]>",
+			"Adopt [Monarchy]<before adopting [Monarchy]>",
+//			"Adopt [Tradition Complete]<before adopting [Tradition Complete]>",
 			"Unbuildable <hidden from users>",
 			"Moves to new capital when capital changes <hidden from users>"	
 		]
@@ -3000,13 +2999,13 @@
 		"hurryCostModifier": 1,
 		"maintenance": 0,
 		"uniques": [
-			"Adopt [Liberty]<before adopting [Liberty]",
-			"Adopt [Republic]<before adopting [Republic]",
-			"Adopt [Citizenship]<before adopting [Citizenship]",
-			"Adopt [Collective Rule]<before adopting [Collective Rule]",
-			"Adopt [Representation]<before adopting [Representation]",
-			"Adopt [Meritocracy]<before adopting [Meritocracy]",
-			"Adopt [Liberty Complete]<before adopting [Liberty Complete]",
+			"Adopt [Liberty]<before adopting [Liberty]>",
+			"Adopt [Republic]<before adopting [Republic]>",
+			"Adopt [Citizenship]<before adopting [Citizenship]>",
+			"Adopt [Collective Rule]<before adopting [Collective Rule]>",
+			"Adopt [Representation]<before adopting [Representation]>",
+			"Adopt [Meritocracy]<before adopting [Meritocracy]>",
+//			"Adopt [Liberty Complete]<before adopting [Liberty Complete]>",
 			"Unbuildable <hidden from users>",
 			"Moves to new capital when capital changes <hidden from users>"	
 		]
@@ -3018,13 +3017,13 @@
 		"hurryCostModifier": 1,
 		"maintenance": 0,
 		"uniques": [
-			"Adopt [Honor]<before adopting [Honor]",
-			"Adopt [Warrior Code]<before adopting [Warrior Code]",
-			"Adopt [Discipline]<before adopting [Discipline]",
-			"Adopt [Military Tradition]<before adopting [Military Tradition]",
-			"Adopt [Military Caste]<before adopting [Military Caste]",
-			"Adopt [Professional Army]<before adopting [Professional Army]",
-			"Adopt [Honor Complete]<before adopting [Honor Complete]",
+			"Adopt [Honor]<before adopting [Honor]>",
+			"Adopt [Warrior Code]<before adopting [Warrior Code]>",
+			"Adopt [Discipline]<before adopting [Discipline]>",
+			"Adopt [Military Tradition]<before adopting [Military Tradition]>",
+			"Adopt [Military Caste]<before adopting [Military Caste]>",
+			"Adopt [Professional Army]<before adopting [Professional Army]>",
+//			"Adopt [Honor Complete]<before adopting [Honor Complete]>",
 			"Unbuildable <hidden from users>",
 			"Moves to new capital when capital changes <hidden from users>"	
 		]
@@ -3036,13 +3035,13 @@
 		"hurryCostModifier": 1,
 		"maintenance": 0,
 		"uniques": [
-			"Adopt [Piety]<before adopting [Piety]",
-			"Adopt [Organized Religion]<before adopting [Organized Religion]",
-			"Adopt [Mandate Of Heaven]<before adopting [Mandate Of Heaven]",
-			"Adopt [Theocracy]<before adopting [Theocracy]",
-			"Adopt [Reformation]<before adopting [Reformation]",
-			"Adopt [Free Religion]<before adopting [Free Religion]",
-			"Adopt [Piety Complete]<before adopting [Piety Complete]",
+			"Adopt [Piety]<before adopting [Piety]>",
+			"Adopt [Organized Religion]<before adopting [Organized Religion]>",
+			"Adopt [Mandate Of Heaven]<before adopting [Mandate Of Heaven]>",
+			"Adopt [Theocracy]<before adopting [Theocracy]>",
+			"Adopt [Reformation]<before adopting [Reformation]>",
+			"Adopt [Free Religion]<before adopting [Free Religion]>",
+//			"Adopt [Piety Complete]<before adopting [Piety Complete]>",
 			"Unbuildable <hidden from users>",
 			"Moves to new capital when capital changes <hidden from users>"	
 		]
@@ -3054,13 +3053,13 @@
 		"hurryCostModifier": 1,
 		"maintenance": 0,
 		"uniques": [
-			"Adopt [Patronage]<before adopting [Patronage]",
-			"Adopt [Philantropy]<before adopting [Philantropy]",
-			"Adopt [Aesthetics]<before adopting [Aesthetics]",
-			"Adopt [Scholasticism]<before adopting [Scholasticism]",
-			"Adopt [Cultural Diplomacy]<before adopting [Cultural Diplomacy]",
-			"Adopt [Educated Elite]<before adopting [Educated Elite]",
-			"Adopt [Patronage Complete]<before adopting [Patronage Complete]",
+			"Adopt [Patronage]<before adopting [Patronage]>",
+			"Adopt [Philantropy]<before adopting [Philantropy]>",
+			"Adopt [Aesthetics]<before adopting [Aesthetics]>",
+			"Adopt [Scholasticism]<before adopting [Scholasticism]>",
+			"Adopt [Cultural Diplomacy]<before adopting [Cultural Diplomacy]>",
+			"Adopt [Educated Elite]<before adopting [Educated Elite]>",
+//			"Adopt [Patronage Complete]<before adopting [Patronage Complete]>",
 			"Unbuildable <hidden from users>",
 			"Moves to new capital when capital changes <hidden from users>"	
 		]
@@ -3072,13 +3071,13 @@
 		"hurryCostModifier": 1,
 		"maintenance": 0,
 		"uniques": [			
-			"Adopt [Commerce]<before adopting [Commerce]",
-			"Adopt [Naval Tradition]<before adopting [Naval Tradition]",
-			"Adopt [Trade Unions]<before adopting [Trade Unions]",
-			"Adopt [Merchant Navy]<before adopting [Merchant Navy]",
-			"Adopt [Mercantilism]<before adopting [Mercantilism]",
-			"Adopt [Protectionism]<before adopting [Protectionism]",
-			"Adopt [Commerce Complete]<before adopting [Commerce Complete]",
+			"Adopt [Commerce]<before adopting [Commerce]>",
+			"Adopt [Naval Tradition]<before adopting [Naval Tradition]>",
+			"Adopt [Trade Unions]<before adopting [Trade Unions]>",
+			"Adopt [Merchant Navy]<before adopting [Merchant Navy]>",
+			"Adopt [Mercantilism]<before adopting [Mercantilism]>",
+			"Adopt [Protectionism]<before adopting [Protectionism]>",
+//			"Adopt [Commerce Complete]<before adopting [Commerce Complete]>",
 			"Unbuildable <hidden from users>",
 			"Moves to new capital when capital changes <hidden from users>"	
 		]
@@ -3090,13 +3089,13 @@
 		"hurryCostModifier": 1,
 		"maintenance": 0,
 		"uniques": [
-			"Adopt [Rationalism]<before adopting [Rationalism]",
-			"Adopt [Secularism]<before adopting [Secularism]",
-			"Adopt [Humanism]<before adopting [Humanism]",
-			"Adopt [Free Thought]<before adopting [Free Thought]",
-			"Adopt [Scientific Revolution]<before adopting [Scientific Revolution]",
-			"Adopt [Sovereignty]<before adopting [Sovereignty]",
-			"Adopt [Rationalism Complete]<before adopting [Rationalism Complete]",
+			"Adopt [Rationalism]<before adopting [Rationalism]>",
+			"Adopt [Secularism]<before adopting [Secularism]>",
+			"Adopt [Humanism]<before adopting [Humanism]>",
+			"Adopt [Free Thought]<before adopting [Free Thought]>",
+			"Adopt [Scientific Revolution]<before adopting [Scientific Revolution]>",
+			"Adopt [Sovereignty]<before adopting [Sovereignty]>",
+//			"Adopt [Rationalism Complete]<before adopting [Rationalism Complete]>",
 			"Unbuildable <hidden from users>",
 			"Moves to new capital when capital changes <hidden from users>"	
 		]
@@ -3108,13 +3107,13 @@
 		"hurryCostModifier": 1,
 		"maintenance": 0,
 		"uniques": [
-			"Adopt [Freedom]<before adopting [Freedom]",
-			"Adopt [Constitution]<before adopting [Constitution]",
-			"Adopt [Universal Suffrage]<before adopting [Universal Suffrage]",
-			"Adopt [Civil Society]<before adopting [Civil Society]",
-			"Adopt [Free Speech]<before adopting [Free Speech]",
-			"Adopt [Democracy]<before adopting [Democracy]",
-			"Adopt [Freedom Complete]<before adopting [Freedom Complete]",
+			"Adopt [Freedom]<before adopting [Freedom]>",
+			"Adopt [Constitution]<before adopting [Constitution]>",
+			"Adopt [Universal Suffrage]<before adopting [Universal Suffrage]>",
+			"Adopt [Civil Society]<before adopting [Civil Society]>",
+			"Adopt [Free Speech]<before adopting [Free Speech]>",
+			"Adopt [Democracy]<before adopting [Democracy]>",
+//			"Adopt [Freedom Complete]<before adopting [Freedom Complete]>",
 			"Unbuildable <hidden from users>",
 			"Moves to new capital when capital changes <hidden from users>"	
 		]
@@ -3126,13 +3125,13 @@
 		"hurryCostModifier": 1,
 		"maintenance": 0,
 		"uniques": [
-			"Adopt [Autocracy]<before adopting [Autocracy]",
-			"Adopt [Populism]<before adopting [Populism]",
-			"Adopt [Militarism]<before adopting [Militarism]",
-			"Adopt [Fascism]<before adopting [Fascism]",
-			"Adopt [Police State]<before adopting [Police State]",
-			"Adopt [Total War]<before adopting [Total War]",
-			"Adopt [Autocracy Complete]<before adopting [Autocracy Complete]",
+			"Adopt [Autocracy]<before adopting [Autocracy]>",
+			"Adopt [Populism]<before adopting [Populism]>",
+			"Adopt [Militarism]<before adopting [Militarism]>",
+			"Adopt [Fascism]<before adopting [Fascism]>",
+			"Adopt [Police State]<before adopting [Police State]>",
+			"Adopt [Total War]<before adopting [Total War]>",
+//			"Adopt [Autocracy Complete]<before adopting [Autocracy Complete]>",
 			"Unbuildable <hidden from users>",
 			"Moves to new capital when capital changes <hidden from users>"	
 		]
@@ -3144,13 +3143,13 @@
 		"hurryCostModifier": 1,
 		"maintenance": 0,
 		"uniques": [
-			"Adopt [Order]<before adopting [Order]",
-			"Adopt [United Front]<before adopting [United Front]",
-			"Adopt [Planned Economy]<before adopting [Planned Economy]",
-			"Adopt [Nationalism]<before adopting [Nationalism]",
-			"Adopt [Socialism]<before adopting [Socialism]",
-			"Adopt [Communism]<before adopting [Communism]",
-			"Adopt [Order Complete]<before adopting [Order Complete]",
+			"Adopt [Order]<before adopting [Order]>",
+			"Adopt [United Front]<before adopting [United Front]>",
+			"Adopt [Planned Economy]<before adopting [Planned Economy]>",
+			"Adopt [Nationalism]<before adopting [Nationalism]>",
+			"Adopt [Socialism]<before adopting [Socialism]>",
+			"Adopt [Communism]<before adopting [Communism]>",
+//			"Adopt [Order Complete]<before adopting [Order Complete]>",
 			"Unbuildable <hidden from users>",
 			"Moves to new capital when capital changes <hidden from users>"	
 		]
