@@ -433,6 +433,7 @@
 	
 		{
 		"name": "Sandbox Shelter",
+				"requiredBuilding": "MiniCake Sandboxer",
 		"unitType": "Sandboxer",
 		"movement": 512,
 		"cost": 1,
@@ -447,6 +448,7 @@
 	},
 	{
 		"name": "Sandbox Melee",
+				"requiredBuilding": "MiniCake Sandboxer",
 		"unitType": "Sandboxer",
 		"strength": 32767,
 		"movement": 512,
@@ -473,6 +475,7 @@
 	},
 	{
 		"name": "Sandbox Shooter",
+				"requiredBuilding": "MiniCake Sandboxer",
 		"unitType": "Sandboxer",
 		"strength": 32767,
 		"rangedStrength": 32767,
@@ -503,6 +506,7 @@
 	},
 	{
 		"name": "Sandbox Road Builder",
+				"requiredBuilding": "MiniCake Sandboxer",
 		"unitType": "Sandboxer",
 		"movement": 512,
 		"cost": 1,
@@ -548,6 +552,7 @@
 
  {
 		"name": "Stronger General",
+				"requiredBuilding": "MiniCake UCheat",
 		"unitType": "Class S Great People",
 		"uniques": [ 
 //		    "Only available <in cities with a [Build special units]> <hidden from users>",
@@ -563,6 +568,7 @@
  },
  {
 	  "name": "Normal Worker",
+				"requiredBuilding": "MiniCake UCheat",
 	 "unitType": "Class S Civilian",
 	 "uniques": [ 
 //			"Only available <in cities with a [Build special units]> <hidden from users>",
@@ -579,6 +585,7 @@
  },
  {
 	  "name": "Prophet",
+				"requiredBuilding": "MiniCake UCheat",
 	 "unitType": "Class S Civilian",
 	 "uniques": [ 
 //			"Only available <in cities with a [Build special units]> <hidden from users>",
@@ -599,6 +606,7 @@
  },
  {
 	"name": "Invulnerable Trooper",
+				"requiredBuilding": "MiniCake UCheat",
 	 "unitType": "Class S Trooper",
 	 "uniques": [ 
 //	     "Only available <in cities with a [Build special units]> <hidden from users>",
@@ -614,6 +622,7 @@
  },
  { 
 	 "name": "Normal Settler",
+				"requiredBuilding": "MiniCake UCheat",
 	 "unitType": "Class S Civilian",
 	 "uniques": [ 
 //		 "Only available <in cities with a [Build special units]> <hidden from users>",
@@ -713,7 +722,8 @@
 				],
 			"cost": 325
 		},
-		
+
+/*		
 	{
 		"name": "Great People",
 		"unitType": "Civilian",
@@ -727,6 +737,8 @@
 
 		"movement": 2
 	},
+*/
+
 	
 //xsa//unciv godmod
 	{
