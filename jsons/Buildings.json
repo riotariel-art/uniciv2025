@@ -37,6 +37,31 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 [
 	
 	
@@ -766,7 +791,7 @@
 		"isNationalWonder": true,
 		"uniques": [
 			"Can be purchased with [Gold] [in capital]",
-			"Moves to new capital when capital changes",
+			"Moves to new capital when capital changes<hidden from users>",
 			"Only available <when espionage is enabled>",
 			"Gain a free [Constabulary] [in all cities] <after discovering [Banking]>",
 			"Gain a free [Police Station] [in all cities] <after discovering [Electricity]>",
@@ -830,7 +855,7 @@
 			"Nullifies [Faith] [in all cities]",
 			"[+1 Culture] per every [1] [Faith]",
 			"Cannot be purchased <after founding a Pantheon>",
-			"Can only be built <in [Capital] cities> <hidden from users>"
+			"Can only be built <in [Capital] cities> <hidden from users>",
 			"Unbuildable <hidden from users>",
 			"Can be purchased for [0] [Gold] [in all cities] <hidden from users>",
 			"Can be purchased for [0] [Faith] [in all cities] <hidden from users>",
@@ -863,7 +888,7 @@
 				"Can be purchased for [0] [Gold] [in all cities] <hidden from users>",
 				"Can be purchased for [0] [Faith] [in all cities] <hidden from users>",
 				"Can be purchased for [0] [Culture] [in all cities] <hidden from users>",
-		  
+			"Can only be built <in [Capital] cities> <hidden from users>"
 //			"Unbuildable <for [AI player]>",
 			"Limited to [1] per Civilization <hidden from users>",
 //			"Unbuildable <for [AI player] Civilizations>",
@@ -888,11 +913,15 @@
 			"[1] free [Worker] units appear",
 			"Free [Worker] appears <for [Human player] Civilizations>",
 			
-			"[-50]% Unhappiness from [Population] [in this city]",
-			"[+1000]% [Happiness] [in this city]",
+			"[-50]% Unhappiness from [Population] [in all cities]",
+			"[+100]% [Happiness] [in all cities]",
+			
+			"Can see over obstacles",
+			"Can see invisible [All] units",
+			"Gain control over [all] tiles in a [5]-tile radius",
 			
 			"Discover [xsaUnlocker]",
-			"Moves to new capital when capital changes",
+			"Moves to new capital when capital changes<hidden from users>",
 			"Destroyed when the city is captured <hidden from users>"
 			],
 	},
@@ -944,6 +973,7 @@
 		"hurryCostModifier": 1,
 		"maintenance": 0,
 		"uniques": [
+		    	"Can only be built <in [Capital] cities> <hidden from users>",
 				"Unbuildable <hidden from users>",
 				"Can be purchased for [0] [Gold] [in all cities] <hidden from users>",
 				"Can be purchased for [0] [Faith] [in all cities] <hidden from users>",
@@ -951,7 +981,22 @@
 				"Destroyed when the city is captured <hidden from users>"
 			],
 	},
-	
+	{
+		"name": "MiniCake Cities",
+		"requiredBuilding": "MiniCake Main",
+		"cost": 1,
+		"hurryCostModifier": 1,
+		"maintenance": 0,
+		"uniques": [
+		        "Unavailable <if [Palace] is constructed><hidden from users>",
+				"Unbuildable <hidden from users>",
+				"Can be purchased for [0] [Gold] [in all cities] <hidden from users>",
+				"Can be purchased for [0] [Faith] [in all cities] <hidden from users>",
+				"Can be purchased for [0] [Culture] [in all cities] <hidden from users>",
+				"Destroyed when the city is captured <hidden from users>"
+			],
+	},
+
 	{
 		"name": "MiniCake Hack",
 		"requiredBuilding": "MiniCake Main",
@@ -969,6 +1014,21 @@
 	
 	{
 		"name": "MiniCake cSandbox",
+		"requiredBuilding": "MiniCake Main",
+		"cost": 1,
+		"hurryCostModifier": 1,
+		"maintenance": 0,
+		"uniques": [
+				"Unbuildable <hidden from users>",
+				"Can be purchased for [0] [Gold] [in all cities] <hidden from users>",
+				"Can be purchased for [0] [Faith] [in all cities] <hidden from users>",
+				"Can be purchased for [0] [Culture] [in all cities] <hidden from users>",
+				"Destroyed when the city is captured <hidden from users>"
+			],
+	},
+	
+	{
+		"name": "MiniCake cFocus",
 		"requiredBuilding": "MiniCake Main",
 		"cost": 1,
 		"hurryCostModifier": 1,
@@ -1096,12 +1156,31 @@
 
 	{
 		"name": "MiniCake Free Normal Building",
-//		"requiredBuilding": "MiniCake Main",
+		"requiredBuilding": "MiniCake Main",
 		"cost": 1,
 		"hurryCostModifier": 1,
 		"maintenance": 0,
 		"uniques": [
 
+    			"Only available <for [Human player] Civilizations> <hidden from users>",
+				"Unbuildable <hidden from users>",
+				"Can be purchased for [0] [Gold] [in all cities] <hidden from users>",
+				"Can be purchased for [0] [Faith] [in all cities] <hidden from users>",
+				"Can be purchased for [0] [Culture] [in all cities] <hidden from users>",
+				"Destroyed when the city is captured <hidden from users>"
+			],
+	},
+	{
+		"name": "MiniCake Free Religious Building",
+		"requiredBuilding": "MiniCake Main",
+		"cost": 1,
+		"hurryCostModifier": 1,
+		"maintenance": 0,
+		"uniques": [
+            	"Gain a free [Cathedral] [in this city]",
+            	"Gain a free [Monastery] [in this city]",
+            	"Gain a free [Mosque] [in this city]",
+            	"Gain a free [Pagoda] [in this city]",
     			"Only available <for [Human player] Civilizations> <hidden from users>",
 				"Unbuildable <hidden from users>",
 				"Can be purchased for [0] [Gold] [in all cities] <hidden from users>",
@@ -1129,8 +1208,8 @@
 			"Gain a free [Hermitage] [in this city]",
 			"Gain a free [National Intelligence Agency] [in this city]",
 			"Gain a free [Manhattan Project] [in this city]",
-			"Gain a free [Apollo Program] [in this city]",
-			"Gain a free [Utopia Project] [in this city]",
+//			"Gain a free [Apollo Program] [in this city]",
+//			"Gain a free [Utopia Project] [in this city]",
 
 				"Unbuildable <hidden from users>",
 				"Can be purchased for [0] [Gold] [in all cities] <hidden from users>",
@@ -1186,7 +1265,7 @@
 			"Gain a free [Great Firewall] [in this city]",
 			"Gain a free [CN Tower] [in this city]",
 			"Gain a free [Hubble Space Telescope] [in this city]",
-			"Gain a free [United Nations] [in this city]",
+//			"Gain a free [United Nations] [in this city]",
 
 				"Unbuildable <hidden from users>",
 				"Can be purchased for [0] [Gold] [in all cities] <hidden from users>",
@@ -1223,79 +1302,103 @@
 	
 	//xsa001//city specialization
 	{
-		"name": "Manufacturing Capital",
+		"name": "Minicake Capitol",
 		"requiredBuilding": "MiniCake Capital",
 		"cost": 400,
-		"production": 100,
-		"isNationalWonder": true,
-		"percentStatBonus": {"production": 100},
+		"production": 300,
+		"gold": 300,
+		"culture": 300,
+		"faith": 300,
+		"science": 300,
+		"food": 300,
+/*
+        "percentStatBonus": {"production": 100},
+		"percentStatBonus": {"gold": 100},
+		"percentStatBonus": {"culture": 100},
+		"percentStatBonus": {"faith": 100},
+		"percentStatBonus": {"science": 100},
+		"percentStatBonus": {"food": 100},
+*/
 		"uniques": [
-			"Cost increases by [10] per owned city"
+			"Cost increases by [10] per owned city <hidden from users>",
 			"Destroyed when the city is captured <hidden from users>"
 			],
 		"requiredTech": "Construction"
 	},
 	{
-		"name": "Economic Capital",
-		"requiredBuilding": "MiniCake Capital",
+		"name": "Manufacturing Specialization",
+		"requiredBuilding": "MiniCake cities",
+		"cost": 400,
+		"production": 100,
+//		"isNationalWonder": true,
+		"percentStatBonus": {"production": 100},
+		"uniques": [
+			"Cost increases by [10] per owned city <hidden from users>",
+			"Destroyed when the city is captured <hidden from users>"
+			],
+		"requiredTech": "Construction"
+	},
+	{
+		"name": "Economic Specialization",
+		"requiredBuilding": "MiniCake cities",
 		"cost": 400,
 		"gold": 100,
-		"isNationalWonder": true,
+//		"isNationalWonder": true,
 		"percentStatBonus": {"gold": 100},
 		"uniques": [
-			"Cost increases by [10] per owned city"
+			"Cost increases by [10] per owned city <hidden from users>",
 			"Destroyed when the city is captured <hidden from users>"
 			],
 		"requiredTech": "Currency"
 	},
 	{
-		"name": "Cultural Capital",
-		"requiredBuilding": "MiniCake Capital",
+		"name": "Cultural Specialization",
+//		"requiredBuilding": "MiniCake cities",
 		"cost": 400,
 		"culture": 100,
 		"isNationalWonder": true,
 		"percentStatBonus": {"culture": 100},
 		"uniques": [
-			"Cost increases by [10] per owned city"
+			"Cost increases by [10] per owned city <hidden from users>",
 			"Destroyed when the city is captured <hidden from users>"
 			],
 		"requiredTech": "Philosophy"
 	},
 	{
-		"name": "Religious Capital",
-		"requiredBuilding": "MiniCake Capital",
+		"name": "Religious Specialization",
+		"requiredBuilding": "MiniCake cities",
 		"cost": 400,
 		"faith": 100,
-		"isNationalWonder": true,
+//		"isNationalWonder": true,
 		"percentStatBonus": {"faith": 100},
 		"uniques": [
-			"Cost increases by [10] per owned city"
+			"Cost increases by [10] per owned city <hidden from users>",
 			"Destroyed when the city is captured <hidden from users>"
 			],
 		"requiredTech": "Calendar"
 	},
 	{
-		"name": "Scientific Capital",
-		"requiredBuilding": "MiniCake Capital",
+		"name": "Scientific Specialization",
+		"requiredBuilding": "MiniCake cities",
 		"cost": 300,
 		"science": 100,
-		"isNationalWonder": true,
+//		"isNationalWonder": true,
 		"percentStatBonus": {"science": 100},
 		"uniques": [
-			"Cost increases by [10] per owned city"
+			"Cost increases by [10] per owned city <hidden from users>",
 			"Destroyed when the city is captured <hidden from users>"
 			],
 		"requiredTech": "Education"
 	},
 	{
-		"name": "Agricultural Capital",
-		"requiredBuilding": "MiniCake Capital",
+		"name": "Agricultural Specialization",
+		"requiredBuilding": "MiniCake cities",
 		"cost": 400,
 		"food": 100,
-		"isNationalWonder": true,
+//		"isNationalWonder": true,
 		"percentStatBonus": {"food": 100},
 		"uniques": [
-			"Cost increases by [10] per owned city"
+			"Cost increases by [10] per owned city <hidden from users>",
 			"Destroyed when the city is captured <hidden from users>"
 			],
 		"requiredTech": "Agriculture"
@@ -1379,7 +1482,7 @@
 	  "May buy [All] units for [0] [Faith] [in all cities]",
 	  "May heal outside of friendly territory",
 	  "Military Units gifted from City-States start with [100000] XP",
-	  "Moves to new capital when capital changes",
+	  "Moves to new capital when capital changes<hidden from users>",
 	  "New [All] units start with [100000] XP [in all cities]",
 	  "No damage penalty for wounded units",
 	  "No defensive terrain penalty",
@@ -1437,7 +1540,7 @@
 	  "May buy [All] units for [0] [Faith] [in all cities]",
 	  "May heal outside of friendly territory",
 	  "Military Units gifted from City-States start with [1000000] XP",
-	  "Moves to new capital when capital changes",
+	  "Moves to new capital when capital changes<hidden from users>",
 	  "New [All] units start with [1000000] XP [in all cities]",
 	  "No damage penalty for wounded units",
 	  "No defensive terrain penalty",
@@ -1508,7 +1611,7 @@
 	  "May buy [All] units for [0] [Faith] [in all cities]",
 	  "May heal outside of friendly territory",
 	  "Military Units gifted from City-States start with [1000000] XP",
-	  "Moves to new capital when capital changes",
+	  "Moves to new capital when capital changes<hidden from users>",
 	  "New [All] units start with [1000000] XP [in all cities]",
 	  "No damage penalty for wounded units",
 	  "No defensive terrain penalty",
@@ -1941,7 +2044,7 @@
 		"hurryCostModifier": 1,
 		"maintenance": 1,
 		"uniques": [
-			"Cost increases by [10] per owned city",
+			"Cost increases by [10] per owned city<hidden from users>",
 			"Destroyed when the city is captured <hidden from users>"
 			]
 	},
@@ -1954,7 +2057,7 @@
 		"hurryCostModifier": 1,
 		"maintenance": 1,
 		"uniques": [
-			"Cost increases by [10] per owned city",
+			"Cost increases by [10] per owned city<hidden from users>",
 			"Destroyed when the city is captured <hidden from users>"
 			]
 	},
@@ -1967,7 +2070,7 @@
 		"hurryCostModifier": 1,
 		"maintenance": 1,
 		"uniques": [
-			"Cost increases by [10] per owned city",
+			"Cost increases by [10] per owned city<hidden from users>",
 			"Destroyed when the city is captured <hidden from users>",
 			"Only available <when religion is enabled>",
 			]
@@ -1981,7 +2084,7 @@
 		"hurryCostModifier": 1,
 		"maintenance": 1,
 		"uniques": [
-			"Cost increases by [10] per owned city",
+			"Cost increases by [10] per owned city<hidden from users>",
 			"Destroyed when the city is captured <hidden from users>"
 			]
 	},
@@ -1994,7 +2097,7 @@
 		"hurryCostModifier": 1,
 		"maintenance": 1,
 		"uniques": [
-			"Cost increases by [10] per owned city",
+			"Cost increases by [10] per owned city<hidden from users>",
 			"Destroyed when the city is captured <hidden from users>"
 			]
 	},
@@ -2006,7 +2109,7 @@
 		"hurryCostModifier": 1,
 		"maintenance": 1,
 		"uniques": [
-			"Cost increases by [10] per owned city",
+			"Cost increases by [10] per owned city<hidden from users>",
 			"Destroyed when the city is captured <hidden from users>",
 			"New [Military] units start with [9999] XP [in this city]"		]
 	},
@@ -2020,7 +2123,7 @@
 		"hurryCostModifier": 1,
 		"maintenance": 1,
 		"uniques": [
-			"Cost increases by [10] per owned city",
+			"Cost increases by [10] per owned city<hidden from users>",
 			"Destroyed when the city is captured <hidden from users>"
 			]
 	},
@@ -2033,7 +2136,7 @@
 		"hurryCostModifier": 1,
 		"maintenance": 1,
 		"uniques": [
-			"Cost increases by [10] per owned city",
+			"Cost increases by [10] per owned city<hidden from users>",
 			"Destroyed when the city is captured <hidden from users>"
 			]
 	},
@@ -2046,7 +2149,7 @@
 		"hurryCostModifier": 1,
 		"maintenance": 1,
 		"uniques": [
-			"Cost increases by [10] per owned city",
+			"Cost increases by [10] per owned city<hidden from users>",
 			"Destroyed when the city is captured <hidden from users>"
 			]
 	},
@@ -2059,7 +2162,7 @@
 		"hurryCostModifier": 1,
 		"maintenance": 1,
 		"uniques": [
-			"Cost increases by [10] per owned city",
+			"Cost increases by [10] per owned city<hidden from users>",
 			"Destroyed when the city is captured <hidden from users>"
 			]
 	},
@@ -2072,7 +2175,7 @@
 		"hurryCostModifier": 1,
 		"maintenance": 1,
 		"uniques": [
-			"Cost increases by [10] per owned city",
+			"Cost increases by [10] per owned city<hidden from users>",
 			"Destroyed when the city is captured <hidden from users>"
 			]
 	},
@@ -2085,10 +2188,10 @@
 		"hurryCostModifier": 1,
 		"maintenance": 1,
 		"uniques": [
-			"Cost increases by [10] per owned city",
+			"Cost increases by [10] per owned city<hidden from users>",
 			"Destroyed when the city is captured <hidden from users>"
 			]
-	}
+	},
 
 
 
@@ -2114,6 +2217,7 @@
 	
 	{
 		"name":"Focus on Military Production",
+					"requiredBuilding": "MiniCake cFocus",
 		"cost":200,
 		"requiredTech":"Civil Service",
 		"uniques":[
@@ -2128,6 +2232,7 @@
 	},
 	{
 		"name":"Focus on Wonder Construction",
+							"requiredBuilding": "MiniCake cFocus",
 		"cost":200,
 		"requiredTech":"Civil Service",
 		"uniques":[
@@ -2142,6 +2247,7 @@
 	},
 	{
 		"name":"Focus on Feeding the People",
+							"requiredBuilding": "MiniCake cFocus",
 		"cost":200,
 		"requiredTech":"Civil Service",
 	"percentStatBonus": {
@@ -2160,6 +2266,7 @@
 	},
 	{
 		"name":"Focus on Growing our Wealth",
+							"requiredBuilding": "MiniCake cFocus",
 		"cost":200,
 		"requiredTech":"Civil Service",
 		"uniques":[
@@ -2175,6 +2282,7 @@
 	}
 	{
 		"name":"Focus on National Production",
+							"requiredBuilding": "MiniCake cFocus",
 		"cost":200,
 	"percentStatBonus": {
 		"production": 30
@@ -2193,6 +2301,7 @@
 	},
 	{
 		"name":"Focus on Social Exchange",
+							"requiredBuilding": "MiniCake cFocus",
 		"cost":200,
 		"requiredTech":"Civil Service",
 		"percentStatBonus": {
@@ -2313,23 +2422,33 @@
 	},
 	{
 		"name": "Activate Challenges",
+							"requiredBuilding": "MiniCake Challenges",
 		"cost": 0,
-		"uniques": ["Never Destroyed when the city is captured <hidden from users>","Unsellable","Only available <before discovering [AI Treats]>",
+		"uniques": [
+		        "Never Destroyed when the city is captured <hidden from users>",
+		        "Unsellable",
+		        "Only available <before discovering [AI Treats]>",
 				"Only available <before adopting [Challenges]>",
 				"Only available <before adopting [Tradition]>",
 				"Only available <before adopting [Liberty]>",
 				"Only available <before adopting [Honor]>",
 				"Only available <before turn number [5]>",
 				"Only available <in cities with a [Palace]>",
-		 		"Free Social Policy"]
+		 		"Free Social Policy"
+		 	]
 	},
 		{
 				"name": "Party",
+							"requiredBuilding": "MiniCake Challenges",
 				"cost": 1,
-				"uniques": ["[41]% growth [in this city] <during We Love The King Day>","Nullifies [Science] [in this city] <during We Love The King Day>",
-						"Nullifies [Production] [in this city] <during We Love The King Day>","Nullifies [Gold] [in this city] <during We Love The King Day>","[+15]% [Culture] [in this city] <during We Love The King Day>"
-	]
-}
+				"uniques": [
+				    "[41]% growth [in this city] <during We Love The King Day>",
+	    			"Nullifies [Science] [in this city] <during We Love The King Day>",
+					"Nullifies [Production] [in this city] <during We Love The King Day>",
+					"Nullifies [Gold] [in this city] <during We Love The King Day>",
+					"[+15]% [Culture] [in this city] <during We Love The King Day>"
+        	]
+    },
 
 
 
