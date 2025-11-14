@@ -1039,6 +1039,20 @@
 				"Destroyed when the city is captured <hidden from users>"
 			],
 	},
+	{
+		"name": "MiniCake Challenges",
+		"requiredBuilding": "MiniCake Main",
+		"cost": 1,
+		"hurryCostModifier": 1,
+		"maintenance": 0,
+		"uniques": [
+				"Unbuildable <hidden from users>",
+				"Can be purchased for [0] [Gold] [in all cities] <hidden from users>",
+				"Can be purchased for [0] [Faith] [in all cities] <hidden from users>",
+				"Can be purchased for [0] [Culture] [in all cities] <hidden from users>",
+				"Destroyed when the city is captured <hidden from users>"
+			],
+	},
 	
 	{
 		"name": "MiniCake Sandboxer",
@@ -1325,7 +1339,7 @@
 	},
 	{
 		"name": "Manufacturing Specialization",
-		"requiredBuilding": "MiniCake cities",
+		"requiredBuilding": "MiniCake Cities",
 		"cost": 400,
 		"production": 100,
 //		"isNationalWonder": true,
@@ -1338,7 +1352,7 @@
 	},
 	{
 		"name": "Economic Specialization",
-		"requiredBuilding": "MiniCake cities",
+		"requiredBuilding": "MiniCake Cities",
 		"cost": 400,
 		"gold": 100,
 //		"isNationalWonder": true,
@@ -1351,10 +1365,10 @@
 	},
 	{
 		"name": "Cultural Specialization",
-//		"requiredBuilding": "MiniCake cities",
+		"requiredBuilding": "MiniCake Cities",
 		"cost": 400,
 		"culture": 100,
-		"isNationalWonder": true,
+//		"isNationalWonder": true,
 		"percentStatBonus": {"culture": 100},
 		"uniques": [
 			"Cost increases by [10] per owned city <hidden from users>",
@@ -1364,7 +1378,7 @@
 	},
 	{
 		"name": "Religious Specialization",
-		"requiredBuilding": "MiniCake cities",
+		"requiredBuilding": "MiniCake Cities",
 		"cost": 400,
 		"faith": 100,
 //		"isNationalWonder": true,
@@ -1377,7 +1391,7 @@
 	},
 	{
 		"name": "Scientific Specialization",
-		"requiredBuilding": "MiniCake cities",
+		"requiredBuilding": "MiniCake Cities",
 		"cost": 300,
 		"science": 100,
 //		"isNationalWonder": true,
@@ -1390,7 +1404,7 @@
 	},
 	{
 		"name": "Agricultural Specialization",
-		"requiredBuilding": "MiniCake cities",
+		"requiredBuilding": "MiniCake Cities",
 		"cost": 400,
 		"food": 100,
 //		"isNationalWonder": true,
