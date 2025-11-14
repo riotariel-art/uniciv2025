@@ -943,10 +943,12 @@
 		"hurryCostModifier": 1,
 		"maintenance": 0,
 		"uniques": [
+				"Only available <in cities with a [MiniCake Main]> <hidden from users>",
 				"Unbuildable <hidden from users>",
 				"Can be purchased for [0] [Gold] [in all cities] <hidden from users>",
 				"Can be purchased for [0] [Faith] [in all cities] <hidden from users>",
 				"Can be purchased for [0] [Culture] [in all cities] <hidden from users>",
+				"Moves to new capital when capital changes<hidden from users>",
 				"Destroyed when the city is captured <hidden from users>"
 			],
 	},	
@@ -957,10 +959,12 @@
 		"hurryCostModifier": 1,
 		"maintenance": 0,
 		"uniques": [
+				"Only available <in cities with a [MiniCake Main]> <hidden from users>",
 				"Unbuildable <hidden from users>",
 				"Can be purchased for [0] [Gold] [in all cities] <hidden from users>",
 				"Can be purchased for [0] [Faith] [in all cities] <hidden from users>",
 				"Can be purchased for [0] [Culture] [in all cities] <hidden from users>",
+				"Moves to new capital when capital changes<hidden from users>",
 				"Destroyed when the city is captured <hidden from users>"
 			],
 	},
@@ -971,11 +975,13 @@
 		"hurryCostModifier": 1,
 		"maintenance": 0,
 		"uniques": [
-		    	"Can only be built <in [Capital] cities> <hidden from users>",
+				"Only available <in cities with a [MiniCake Main]> <hidden from users>",
+				"Can only be built <in [Capital] cities> <hidden from users>",
 				"Unbuildable <hidden from users>",
 				"Can be purchased for [0] [Gold] [in all cities] <hidden from users>",
 				"Can be purchased for [0] [Faith] [in all cities] <hidden from users>",
 				"Can be purchased for [0] [Culture] [in all cities] <hidden from users>",
+				"Moves to new capital when capital changes<hidden from users>",
 				"Destroyed when the city is captured <hidden from users>"
 			],
 	},
@@ -986,7 +992,8 @@
 		"hurryCostModifier": 1,
 		"maintenance": 0,
 		"uniques": [
-		        "Unavailable <if [Palace] is constructed><hidden from users>",
+				"Only available <in cities with a [MiniCake Main]> <hidden from users>",
+				"Unavailable <if [Palace] is constructed><hidden from users>",
 				"Unbuildable <hidden from users>",
 				"Can be purchased for [0] [Gold] [in all cities] <hidden from users>",
 				"Can be purchased for [0] [Faith] [in all cities] <hidden from users>",
@@ -1002,10 +1009,12 @@
 		"hurryCostModifier": 1,
 		"maintenance": 0,
 		"uniques": [
+				"Only available <in cities with a [MiniCake Main]> <hidden from users>",
 				"Unbuildable <hidden from users>",
 				"Can be purchased for [0] [Gold] [in all cities] <hidden from users>",
 				"Can be purchased for [0] [Faith] [in all cities] <hidden from users>",
 				"Can be purchased for [0] [Culture] [in all cities] <hidden from users>",
+				"Moves to new capital when capital changes<hidden from users>",
 				"Destroyed when the city is captured <hidden from users>"
 			],
 	},
@@ -1017,10 +1026,12 @@
 		"hurryCostModifier": 1,
 		"maintenance": 0,
 		"uniques": [
+				"Only available <in cities with a [MiniCake Main]> <hidden from users>",
 				"Unbuildable <hidden from users>",
 				"Can be purchased for [0] [Gold] [in all cities] <hidden from users>",
 				"Can be purchased for [0] [Faith] [in all cities] <hidden from users>",
 				"Can be purchased for [0] [Culture] [in all cities] <hidden from users>",
+				"Moves to new capital when capital changes<hidden from users>",
 				"Destroyed when the city is captured <hidden from users>"
 			],
 	},
@@ -1032,10 +1043,12 @@
 		"hurryCostModifier": 1,
 		"maintenance": 0,
 		"uniques": [
+				"Only available <in cities with a [MiniCake Main]> <hidden from users>",
 				"Unbuildable <hidden from users>",
 				"Can be purchased for [0] [Gold] [in all cities] <hidden from users>",
 				"Can be purchased for [0] [Faith] [in all cities] <hidden from users>",
 				"Can be purchased for [0] [Culture] [in all cities] <hidden from users>",
+				"Moves to new capital when capital changes<hidden from users>",
 				"Destroyed when the city is captured <hidden from users>"
 			],
 	},
@@ -1046,10 +1059,12 @@
 		"hurryCostModifier": 1,
 		"maintenance": 0,
 		"uniques": [
+				"Only available <in cities with a [MiniCake Main]> <hidden from users>",
 				"Unbuildable <hidden from users>",
 				"Can be purchased for [0] [Gold] [in all cities] <hidden from users>",
 				"Can be purchased for [0] [Faith] [in all cities] <hidden from users>",
 				"Can be purchased for [0] [Culture] [in all cities] <hidden from users>",
+				"Moves to new capital when capital changes<hidden from users>",
 				"Destroyed when the city is captured <hidden from users>"
 			],
 	},
@@ -1061,10 +1076,12 @@
 		"hurryCostModifier": 1,
 		"maintenance": 0,
 		"uniques": [
+				"Only available <in cities with a [MiniCake Main]> <hidden from users>",
 				"Unbuildable <hidden from users>",
 				"Can be purchased for [0] [Gold] [in all cities] <hidden from users>",
 				"Can be purchased for [0] [Faith] [in all cities] <hidden from users>",
 				"Can be purchased for [0] [Culture] [in all cities] <hidden from users>",
+				"Moves to new capital when capital changes<hidden from users>",
 				"Destroyed when the city is captured <hidden from users>"
 			],
 	},
@@ -1076,10 +1093,12 @@
 		"hurryCostModifier": 1,
 		"maintenance": 0,
 		"uniques": [
+				"Only available <in cities with a [MiniCake Main]> <hidden from users>",
 				"Unbuildable <hidden from users>",
 				"Can be purchased for [0] [Gold] [in all cities] <hidden from users>",
 				"Can be purchased for [0] [Faith] [in all cities] <hidden from users>",
 				"Can be purchased for [0] [Culture] [in all cities] <hidden from users>",
+				"Moves to new capital when capital changes<hidden from users>",
 				"Destroyed when the city is captured <hidden from users>"
 			],
 	},
@@ -1091,10 +1110,12 @@
 		"hurryCostModifier": 1,
 		"maintenance": 0,
 		"uniques": [
+				"Only available <in cities with a [MiniCake Main]> <hidden from users>",
 				"Unbuildable <hidden from users>",
 				"Can be purchased for [0] [Gold] [in all cities] <hidden from users>",
 				"Can be purchased for [0] [Faith] [in all cities] <hidden from users>",
 				"Can be purchased for [0] [Culture] [in all cities] <hidden from users>",
+				"Moves to new capital when capital changes<hidden from users>",
 				"Destroyed when the city is captured <hidden from users>"
 			],
 	},
@@ -1107,10 +1128,12 @@
 		"hurryCostModifier": 1,
 		"maintenance": 0,
 		"uniques": [
+				"Only available <in cities with a [MiniCake Main]> <hidden from users>",
 				"Unbuildable <hidden from users>",
 				"Can be purchased for [0] [Gold] [in all cities] <hidden from users>",
 				"Can be purchased for [0] [Faith] [in all cities] <hidden from users>",
 				"Can be purchased for [0] [Culture] [in all cities] <hidden from users>",
+				"Moves to new capital when capital changes<hidden from users>",
 				"Destroyed when the city is captured <hidden from users>"
 			],
 	},	
@@ -1121,10 +1144,12 @@
 		"hurryCostModifier": 1,
 		"maintenance": 0,
 		"uniques": [
+				"Only available <in cities with a [MiniCake Main]> <hidden from users>",
 				"Unbuildable <hidden from users>",
 				"Can be purchased for [0] [Gold] [in all cities] <hidden from users>",
 				"Can be purchased for [0] [Faith] [in all cities] <hidden from users>",
 				"Can be purchased for [0] [Culture] [in all cities] <hidden from users>",
+				"Moves to new capital when capital changes<hidden from users>",
 				"Destroyed when the city is captured <hidden from users>"
 			],
 	},	
@@ -1135,10 +1160,12 @@
 		"hurryCostModifier": 1,
 		"maintenance": 0,
 		"uniques": [
+				"Only available <in cities with a [MiniCake Main]> <hidden from users>",
 				"Unbuildable <hidden from users>",
 				"Can be purchased for [0] [Gold] [in all cities] <hidden from users>",
 				"Can be purchased for [0] [Faith] [in all cities] <hidden from users>",
 				"Can be purchased for [0] [Culture] [in all cities] <hidden from users>",
+				"Moves to new capital when capital changes<hidden from users>",
 				"Destroyed when the city is captured <hidden from users>"
 			],
 	},	
@@ -1174,7 +1201,8 @@
 		"maintenance": 0,
 		"uniques": [
 
-    			"Only available <for [Human player] Civilizations> <hidden from users>",
+				"Only available <in cities with a [MiniCake Main]> <hidden from users>",
+				"Only available <for [Human player] Civilizations> <hidden from users>",
 				"Unbuildable <hidden from users>",
 				"Can be purchased for [0] [Gold] [in all cities] <hidden from users>",
 				"Can be purchased for [0] [Faith] [in all cities] <hidden from users>",
@@ -1189,11 +1217,12 @@
 		"hurryCostModifier": 1,
 		"maintenance": 0,
 		"uniques": [
-            	"Gain a free [Cathedral] [in this city]",
-            	"Gain a free [Monastery] [in this city]",
-            	"Gain a free [Mosque] [in this city]",
-            	"Gain a free [Pagoda] [in this city]",
-    			"Only available <for [Human player] Civilizations> <hidden from users>",
+				"Only available <in cities with a [MiniCake Main]> <hidden from users>",
+				"Gain a free [Cathedral] [in this city]",
+				"Gain a free [Monastery] [in this city]",
+				"Gain a free [Mosque] [in this city]",
+				"Gain a free [Pagoda] [in this city]",
+				"Only available <for [Human player] Civilizations> <hidden from users>",
 				"Unbuildable <hidden from users>",
 				"Can be purchased for [0] [Gold] [in all cities] <hidden from users>",
 				"Can be purchased for [0] [Faith] [in all cities] <hidden from users>",
@@ -1208,6 +1237,7 @@
 		"hurryCostModifier": 1,
 		"maintenance": 0,
 		"uniques": [
+				"Only available <in cities with a [MiniCake Main]> <hidden from users>",
 
 			"Gain a free [Circus Maximus] [in this city]",
 			"Gain a free [National College] [in this city]",
@@ -1227,6 +1257,7 @@
 				"Can be purchased for [0] [Gold] [in all cities] <hidden from users>",
 				"Can be purchased for [0] [Faith] [in all cities] <hidden from users>",
 				"Can be purchased for [0] [Culture] [in all cities] <hidden from users>",
+				"Moves to new capital when capital changes<hidden from users>",
 				"Destroyed when the city is captured <hidden from users>"
 			],
 	},	
@@ -1238,6 +1269,7 @@
 		"maintenance": 0,
 		"uniques": [
 
+			"Only available <in cities with a [MiniCake Main]> <hidden from users>",
 			"Gain a free [Temple of Artemis] [in this city]",
 			"Gain a free [Stonehenge] [in this city]",
 			"Gain a free [The Great Library] [in this city]",
@@ -1283,6 +1315,7 @@
 				"Can be purchased for [0] [Gold] [in all cities] <hidden from users>",
 				"Can be purchased for [0] [Faith] [in all cities] <hidden from users>",
 				"Can be purchased for [0] [Culture] [in all cities] <hidden from users>",
+				"Moves to new capital when capital changes<hidden from users>",
 				"Destroyed when the city is captured <hidden from users>"
 			],
 	},	
@@ -1324,7 +1357,7 @@
 		"science": 300,
 		"food": 300,
 /*
-        "percentStatBonus": {"production": 100},
+		"percentStatBonus": {"production": 100},
 		"percentStatBonus": {"gold": 100},
 		"percentStatBonus": {"culture": 100},
 		"percentStatBonus": {"faith": 100},
@@ -1334,7 +1367,8 @@
 		"uniques": [
 			"Only available <in cities with a [MiniCake Capital]> <hidden from users>",
 			"Cost increases by [10] per owned city <hidden from users>",
-			"Destroyed when the city is captured <hidden from users>"
+				"Moves to new capital when capital changes<hidden from users>",
+				"Destroyed when the city is captured <hidden from users>"
 			],
 		"requiredTech": "Construction"
 	},
@@ -1461,60 +1495,61 @@
 	
 		//xsa002//cheaty cheat of Asgarheim
 	
-  {
+	{
 	"name": "Twilight of the Gods",
 	"requiredBuilding": "MiniCake True",
 	"cityStrength": 100,
 	"cityHealth": 100,
 	"isNationalWonder": true,
 	"uniques": [
-	  "[+100]% spy effectiveness [in all cities]",
-	  "[+100]% Strength <during a Golden Age>",
-	  "[+100]% Strength <vs [All] units>",
-	  "[+100]% Strength <when at war>",
-	  "[+100]% Strength <while the empire is happy>",
-	  "[+100]% resources gifted by City-States",
-	  "[-100]% City-State Influence degradation",
-	  "[5] additional attacks per turn",
-	  "[0] Movement point cost to disembark",
-	  "[0] Movement point cost to embark",
-	  "All newly-trained [All] units [in all cities] receive the [Sons of the Aesir] promotion",
-	  "Can be purchased for [0] [Faith] [in all cities] <hidden from users>",
-	  "Can only be built <in [Capital] cities> <hidden from users>",
-	  "Can spend Gold to annex or puppet a City-State that has been your Ally for [1] turns",
-	  "Cities are razed [10] times as fast",
-	  "City-State territory always counts as friendly territory",
-	  "Connects trade routes over water",
-	  "Destroyed when the city is captured <hidden from users>",
-	  "Enables [All] units to enter ocean tiles",
-	  "Enables Defensive Pacts",
-	  "Enables Open Borders agreements",
-	  "Enables Research agreements",
-	  "Enables construction of Spaceship parts",
-	  "Enables conversion of city production to [Culture]",
-	  "Enables conversion of city production to [Gold]",
-	  "Enables conversion of city production to [Science]",
-	  "Enemy [All] units must spend [3] extra movement points when inside your territory",
-	  "Gifts of Gold to City-States generate [+100]% more Influence",
-	  "Influence of all other civilizations with all city-states degrades [100]% faster",
-	  "May buy [All] buildings for [0] [Faith] [in all cities]",
-	  "May buy [All] units for [0] [Faith] [in all cities]",
-	  "May heal outside of friendly territory",
-	  "Military Units gifted from City-States start with [100000] XP",
-	  "Moves to new capital when capital changes<hidden from users>",
-	  "New [All] units start with [100000] XP [in all cities]",
-	  "No damage penalty for wounded units",
-	  "No defensive terrain penalty",
-	  "No movement cost to pillage",
-	  "Ranged attacks may be performed over obstacles",
-	  "Removes extra unhappiness from annexed cities",
-	  "Resting point for Influence with City-States is increased by [1000]",
-	  "Roads connect tiles across rivers",
+		"Only available <in cities with a [MiniCake True]> <hidden from users>",
+		"[+100]% spy effectiveness [in all cities]",
+		"[+100]% Strength <during a Golden Age>",
+		"[+100]% Strength <vs [All] units>",
+		"[+100]% Strength <when at war>",
+		"[+100]% Strength <while the empire is happy>",
+		"[+100]% resources gifted by City-States",
+		"[-100]% City-State Influence degradation",
+		"[5] additional attacks per turn",
+		"[0] Movement point cost to disembark",
+		"[0] Movement point cost to embark",
+		"All newly-trained [All] units [in all cities] receive the [Sons of the Aesir] promotion",
+		"Can be purchased for [0] [Faith] [in all cities] <hidden from users>",
+		"Can only be built <in [Capital] cities> <hidden from users>",
+		"Can spend Gold to annex or puppet a City-State that has been your Ally for [1] turns",
+		"Cities are razed [10] times as fast",
+		"City-State territory always counts as friendly territory",
+		"Connects trade routes over water",
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>",
+		"Enables [All] units to enter ocean tiles",
+		"Enables Defensive Pacts",
+		"Enables Open Borders agreements",
+		"Enables Research agreements",
+		"Enables construction of Spaceship parts",
+		"Enables conversion of city production to [Culture]",
+		"Enables conversion of city production to [Gold]",
+		"Enables conversion of city production to [Science]",
+		"Enemy [All] units must spend [3] extra movement points when inside your territory",
+		"Gifts of Gold to City-States generate [+100]% more Influence",
+		"Influence of all other civilizations with all city-states degrades [100]% faster",
+		"May buy [All] buildings for [0] [Faith] [in all cities]",
+		"May buy [All] units for [0] [Faith] [in all cities]",
+		"May heal outside of friendly territory",
+		"Military Units gifted from City-States start with [100000] XP",
+		"New [All] units start with [100000] XP [in all cities]",
+		"No damage penalty for wounded units",
+		"No defensive terrain penalty",
+		"No movement cost to pillage",
+		"Ranged attacks may be performed over obstacles",
+		"Removes extra unhappiness from annexed cities",
+		"Resting point for Influence with City-States is increased by [1000]",
+		"Roads connect tiles across rivers",
 		"Only available <if [MiniCake True] is constructed>",
-	  "Unbuildable <hidden from users>",
-	  "When defeating a [All] unit, earn [100] Gold and recruit it" ]
-  },
-  {
+		"Unbuildable <hidden from users>",
+		"When defeating a [All] unit, earn [100] Gold and recruit it" ]
+	},
+	{
 	"name": "Glory of the Aesir",
 	"requiredBuilding": "MiniCake True",
 	"cityStrength": 1000,
@@ -1526,280 +1561,300 @@
 	"science": 10000,
 	"isNationalWonder": true,
 	"uniques": [
-	  "[+1000]% spy effectiveness [in all cities]",
-	  "[+1000]% Strength <during a Golden Age>",
-	  "[+1000]% Strength <vs [All] units>",
-	  "[+1000]% Strength <when at war>",
-	  "[+1000]% Strength <while the empire is happy>",
-	  "[+1000]% resources gifted by City-States",
-	  "[-1000]% City-State Influence degradation",
-	  "[5] additional attacks per turn",
-	  "[0] Movement point cost to disembark",
-	  "[0] Movement point cost to embark",
-	  "All newly-trained [All] units [in all cities] receive the [Sons of the Aesir] promotion",
-	  "Can be purchased for [0] [Faith] [in all cities] <hidden from users>",
-	  "Can only be built <in [Capital] cities> <hidden from users>",
-	  "Can spend Gold to annex or puppet a City-State that has been your Ally for [0] turns",
-	  "Cities are razed [100] times as fast",
-	  "City-State territory always counts as friendly territory",
-	  "Connects trade routes over water",
-	  "Destroyed when the city is captured <hidden from users>",
-	  "Enables [All] units to enter ocean tiles",
-	  "Enables Defensive Pacts",
-	  "Enables Open Borders agreements",
-	  "Enables Research agreements",
-	  "Enables construction of Spaceship parts",
-	  "Enables conversion of city production to [Culture]",
-	  "Enables conversion of city production to [Gold]",
-	  "Enables conversion of city production to [Science]",
-	  "Enemy [All] units must spend [5] extra movement points when inside your territory",
-	  "Gifts of Gold to City-States generate [+1000]% more Influence",
-	  "Influence of all other civilizations with all city-states degrades [1000]% faster",
-	  "May buy [All] buildings for [0] [Faith] [in all cities]",
-	  "May buy [All] units for [0] [Faith] [in all cities]",
-	  "May heal outside of friendly territory",
-	  "Military Units gifted from City-States start with [1000000] XP",
-	  "Moves to new capital when capital changes<hidden from users>",
-	  "New [All] units start with [1000000] XP [in all cities]",
-	  "No damage penalty for wounded units",
-	  "No defensive terrain penalty",
-	  "No movement cost to pillage",
-	  "Ranged attacks may be performed over obstacles",
-	  "Removes extra unhappiness from annexed cities",
-	  "Resting point for Influence with City-States is increased by [1000]",
-	  "Roads connect tiles across rivers",
-	  "Only available <if [MiniCake True] is constructed>",
-	  "Unbuildable <hidden from users>",
-	  "When defeating a [All] unit, earn [1000] Gold and recruit it",
-	  
-	  "[-1000]% Culture cost of adopting new Policies",
-	  "[-1000]% Unhappiness from [Population] [in all cities]",
-	  "[-1000]% construction time for [All] improvements",
-	  "[-1000]% maintenance costs",
-	  "[+1000]% [Culture] [in all cities]",
-	  "[+1000]% [Faith] [in all cities]",
-	  "[+1000]% [Food] [in all cities]",
-	  "[+1000]% [Gold] [in all cities]",
-	  "[+1000]% [Happiness] [in all cities]",
-	  "[+1000]% [Production] [in all cities]",
-	  "[+1000]% [Science] [in all cities]",
-	  "[+1000]% Golden Age length",
-	  "[+1000]% Natural religion spread [in all cities]",
-	  "[+1000]% growth [in all cities]",
-	  "May choose [2] additional belief(s) of any type when [enhancing] a religion",
-	  "May choose [2] additional belief(s) of any type when [founding] a religion",
-	  "No Maintenance costs for improvements in [All] tiles" ]
-  },
-  {
+		"Only available <in cities with a [MiniCake True]> <hidden from users>",
+		"[+1000]% spy effectiveness [in all cities]",
+		"[+1000]% Strength <during a Golden Age>",
+		"[+1000]% Strength <vs [All] units>",
+		"[+1000]% Strength <when at war>",
+		"[+1000]% Strength <while the empire is happy>",
+		"[+1000]% resources gifted by City-States",
+		"[-1000]% City-State Influence degradation",
+		"[5] additional attacks per turn",
+		"[0] Movement point cost to disembark",
+		"[0] Movement point cost to embark",
+		"All newly-trained [All] units [in all cities] receive the [Sons of the Aesir] promotion",
+		"Can be purchased for [0] [Faith] [in all cities] <hidden from users>",
+		"Can only be built <in [Capital] cities> <hidden from users>",
+		"Can spend Gold to annex or puppet a City-State that has been your Ally for [0] turns",
+		"Cities are razed [100] times as fast",
+		"City-State territory always counts as friendly territory",
+		"Connects trade routes over water",
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>",
+		"Enables [All] units to enter ocean tiles",
+		"Enables Defensive Pacts",
+		"Enables Open Borders agreements",
+		"Enables Research agreements",
+		"Enables construction of Spaceship parts",
+		"Enables conversion of city production to [Culture]",
+		"Enables conversion of city production to [Gold]",
+		"Enables conversion of city production to [Science]",
+		"Enemy [All] units must spend [5] extra movement points when inside your territory",
+		"Gifts of Gold to City-States generate [+1000]% more Influence",
+		"Influence of all other civilizations with all city-states degrades [1000]% faster",
+		"May buy [All] buildings for [0] [Faith] [in all cities]",
+		"May buy [All] units for [0] [Faith] [in all cities]",
+		"May heal outside of friendly territory",
+		"Military Units gifted from City-States start with [1000000] XP",
+		"New [All] units start with [1000000] XP [in all cities]",
+		"No damage penalty for wounded units",
+		"No defensive terrain penalty",
+		"No movement cost to pillage",
+		"Ranged attacks may be performed over obstacles",
+		"Removes extra unhappiness from annexed cities",
+		"Resting point for Influence with City-States is increased by [1000]",
+		"Roads connect tiles across rivers",
+		"Only available <if [MiniCake True] is constructed>",
+		"Unbuildable <hidden from users>",
+		"When defeating a [All] unit, earn [1000] Gold and recruit it",
+		
+		"[-1000]% Culture cost of adopting new Policies",
+		"[-1000]% Unhappiness from [Population] [in all cities]",
+		"[-1000]% construction time for [All] improvements",
+		"[-1000]% maintenance costs",
+		"[+1000]% [Culture] [in all cities]",
+		"[+1000]% [Faith] [in all cities]",
+		"[+1000]% [Food] [in all cities]",
+		"[+1000]% [Gold] [in all cities]",
+		"[+1000]% [Happiness] [in all cities]",
+		"[+1000]% [Production] [in all cities]",
+		"[+1000]% [Science] [in all cities]",
+		"[+1000]% Golden Age length",
+		"[+1000]% Natural religion spread [in all cities]",
+		"[+1000]% growth [in all cities]",
+		"May choose [2] additional belief(s) of any type when [enhancing] a religion",
+		"May choose [2] additional belief(s) of any type when [founding] a religion",
+		"No Maintenance costs for improvements in [All] tiles" ]
+	},
+	{
 	"name": "True Asgarheim",
 	"requiredBuilding": "MiniCake True",
 	"cityStrength": 100000,
 	"cityHealth": 100000,
 	"isNationalWonder": true,
 	"uniques": [
-	  "[+100000]% spy effectiveness [in all cities]",
-	  "[+100000]% Strength <during a Golden Age>",
-	  "[+100000]% Strength <vs [All] units>",
-	  "[+100000]% Strength <when at war>",
-	  "[+100000]% Strength <while the empire is happy>",
-	  "[+100000]% resources gifted by City-States",
-	  "[-100000]% City-State Influence degradation",
-	  "[5] additional attacks per turn",
-	  "[0] Movement point cost to disembark",
-	  "[0] Movement point cost to embark",
-	  "All newly-trained [All] units [in all cities] receive the [Sons of the Aesir] promotion",
-	  "Can be purchased for [0] [Faith] [in all cities] <hidden from users>",
-	  "Can only be built <in [Capital] cities> <hidden from users>",
-	  "Can spend Gold to annex or puppet a City-State that has been your Ally for [0] turns",
-	  "Cities are razed [100000] times as fast",
-	  "City-State territory always counts as friendly territory",
-	  "Connects trade routes over water",
-	  "Destroyed when the city is captured <hidden from users>",
-	  "Enables [All] units to enter ocean tiles",
-	  "Enables Defensive Pacts",
-	  "Enables Open Borders agreements",
-	  "Enables Research agreements",
-	  "Enables construction of Spaceship parts",
-	  "Enables conversion of city production to [Culture]",
-	  "Enables conversion of city production to [Gold]",
-	  "Enables conversion of city production to [Science]",
-	  "Enemy [All] units must spend [10] extra movement points when inside your territory",
-	  "Gifts of Gold to City-States generate [+100000]% more Influence",
-	  "Influence of all other civilizations with all city-states degrades [1000]% faster",
-	  "May buy [All] buildings for [0] [Faith] [in all cities]",
-	  "May buy [All] units for [0] [Faith] [in all cities]",
-	  "May heal outside of friendly territory",
-	  "Military Units gifted from City-States start with [1000000] XP",
-	  "Moves to new capital when capital changes<hidden from users>",
-	  "New [All] units start with [1000000] XP [in all cities]",
-	  "No damage penalty for wounded units",
-	  "No defensive terrain penalty",
-	  "No movement cost to pillage",
-	  "Ranged attacks may be performed over obstacles",
-	  "Removes extra unhappiness from annexed cities",
-	  "Resting point for Influence with City-States is increased by [100000]",
-	  "Roads connect tiles across rivers",
+		"Only available <in cities with a [MiniCake True]> <hidden from users>",
+		"[+100000]% spy effectiveness [in all cities]",
+		"[+100000]% Strength <during a Golden Age>",
+		"[+100000]% Strength <vs [All] units>",
+		"[+100000]% Strength <when at war>",
+		"[+100000]% Strength <while the empire is happy>",
+		"[+100000]% resources gifted by City-States",
+		"[-100000]% City-State Influence degradation",
+		"[5] additional attacks per turn",
+		"[0] Movement point cost to disembark",
+		"[0] Movement point cost to embark",
+		"All newly-trained [All] units [in all cities] receive the [Sons of the Aesir] promotion",
+		"Can be purchased for [0] [Faith] [in all cities] <hidden from users>",
+		"Can only be built <in [Capital] cities> <hidden from users>",
+		"Can spend Gold to annex or puppet a City-State that has been your Ally for [0] turns",
+		"Cities are razed [100000] times as fast",
+		"City-State territory always counts as friendly territory",
+		"Connects trade routes over water",
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>",
+		"Enables [All] units to enter ocean tiles",
+		"Enables Defensive Pacts",
+		"Enables Open Borders agreements",
+		"Enables Research agreements",
+		"Enables construction of Spaceship parts",
+		"Enables conversion of city production to [Culture]",
+		"Enables conversion of city production to [Gold]",
+		"Enables conversion of city production to [Science]",
+		"Enemy [All] units must spend [10] extra movement points when inside your territory",
+		"Gifts of Gold to City-States generate [+100000]% more Influence",
+		"Influence of all other civilizations with all city-states degrades [1000]% faster",
+		"May buy [All] buildings for [0] [Faith] [in all cities]",
+		"May buy [All] units for [0] [Faith] [in all cities]",
+		"May heal outside of friendly territory",
+		"Military Units gifted from City-States start with [1000000] XP",
+		"New [All] units start with [1000000] XP [in all cities]",
+		"No damage penalty for wounded units",
+		"No defensive terrain penalty",
+		"No movement cost to pillage",
+		"Ranged attacks may be performed over obstacles",
+		"Removes extra unhappiness from annexed cities",
+		"Resting point for Influence with City-States is increased by [100000]",
+		"Roads connect tiles across rivers",
 		"Only available <if [MiniCake True] is constructed>",
-	  "Unbuildable <hidden from users>",
-	  "When defeating a [All] unit, earn [100000] Gold and recruit it" ]
-  },
-  {
+		"Unbuildable <hidden from users>",
+		"When defeating a [All] unit, earn [100000] Gold and recruit it" ]
+	},
+	{
 	"name": "1000 Resources",
 	"requiredBuilding": "MiniCake True",
 	"uniques": [
-	  "Provides [1000] [Aluminum]",
-	  "Provides [1000] [Citrus]",
-	  "Provides [1000] [Coal]",
-	  "Provides [1000] [Copper]",
-	  "Provides [1000] [Cotton]",
-	  "Provides [1000] [Crab]",
-	  "Provides [1000] [Dyes]",
-	  "Provides [1000] [Furs]",
-	  "Provides [1000] [Gems]",
-	  "Provides [1000] [Gold Ore]",
-	  "Provides [1000] [Horses]",
-	  "Provides [1000] [Incense]",
-	  "Provides [1000] [Iron]",
-	  "Provides [1000] [Jewelry]",
-	  "Provides [1000] [Marble]",
-	  "Provides [1000] [Oil]",
-	  "Provides [1000] [Pearls]",
-	  "Provides [1000] [Porcelain]",
-	  "Provides [1000] [Salt]",
-	  "Provides [1000] [Silk]",
-	  "Provides [1000] [Silver]",
-	  "Provides [1000] [Spices]",
-	  "Provides [1000] [Sugar]",
-	  "Provides [1000] [Truffles]",
-	  "Provides [1000] [Uranium]",
-	  "Provides [1000] [Whales]",
-	  "Provides [1000] [Wine]",			  
-	  "Destroyed when the city is captured <hidden from users>",
-	  "Only available <if [MiniCake True] is constructed>",
+		"Only available <in cities with a [MiniCake True]> <hidden from users>",
+		"Provides [1000] [Aluminum]",
+		"Provides [1000] [Citrus]",
+		"Provides [1000] [Coal]",
+		"Provides [1000] [Copper]",
+		"Provides [1000] [Cotton]",
+		"Provides [1000] [Crab]",
+		"Provides [1000] [Dyes]",
+		"Provides [1000] [Furs]",
+		"Provides [1000] [Gems]",
+		"Provides [1000] [Gold Ore]",
+		"Provides [1000] [Horses]",
+		"Provides [1000] [Incense]",
+		"Provides [1000] [Iron]",
+		"Provides [1000] [Jewelry]",
+		"Provides [1000] [Marble]",
+		"Provides [1000] [Oil]",
+		"Provides [1000] [Pearls]",
+		"Provides [1000] [Porcelain]",
+		"Provides [1000] [Salt]",
+		"Provides [1000] [Silk]",
+		"Provides [1000] [Silver]",
+		"Provides [1000] [Spices]",
+		"Provides [1000] [Sugar]",
+		"Provides [1000] [Truffles]",
+		"Provides [1000] [Uranium]",
+		"Provides [1000] [Whales]",
+		"Provides [1000] [Wine]",
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>",
+		"Only available <if [MiniCake True] is constructed>",
 	 "Unbuildable <hidden from users>", ]
-  },
-  {
+	},
+	{
 	"name": "True Culture",
 	"requiredBuilding": "MiniCake True",
 	"isWonder": true,
 	"uniques": [
-	  "[+100000]% [Culture] [in all cities]",
-	  "[-100000]% Culture cost of adopting new Policies",
-	  "[+100000]% Golden Age length",
-	  "Can only be built <in [Capital] cities> <hidden from users>",
+		"Only available <in cities with a [MiniCake True]> <hidden from users>",
+		"[+100000]% [Culture] [in all cities]",
+		"[-100000]% Culture cost of adopting new Policies",
+		"[+100000]% Golden Age length",
+		"Can only be built <in [Capital] cities> <hidden from users>",
 
-	  "Destroyed when the city is captured <hidden from users>",
-	  "Only available <if [MiniCake True] is constructed>",
-	  "Unbuildable <hidden from users>", ]
-  },
-  {
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>",
+		"Only available <if [MiniCake True] is constructed>",
+		"Unbuildable <hidden from users>", ]
+	},
+	{
 	"name": "True Faith",
 	"requiredBuilding": "MiniCake True",
 	"faith": 10000,
 	"isWonder": true,
 	"uniques": [
-	  "[+100000]% [Faith] [in all cities]",
-	  "[+100000]% Natural religion spread [in all cities]",
-	  "Can only be built <in [Capital] cities> <hidden from users>",
-	  "Destroyed when the city is captured <hidden from users>",
-	  "May choose [10] additional belief(s) of any type when [founding] a religion",
-	  "May choose [10] additional belief(s) of any type when [enhancing] a religion",
-	  "Only available <if [MiniCake True] is constructed>",
-	  "Unbuildable <hidden from users>", ]
-  },
-  {
+		"Only available <in cities with a [MiniCake True]> <hidden from users>",
+		"[+100000]% [Faith] [in all cities]",
+		"[+100000]% Natural religion spread [in all cities]",
+		"Can only be built <in [Capital] cities> <hidden from users>",
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>",
+		"May choose [10] additional belief(s) of any type when [founding] a religion",
+		"May choose [10] additional belief(s) of any type when [enhancing] a religion",
+		"Only available <if [MiniCake True] is constructed>",
+		"Unbuildable <hidden from users>", ]
+	},
+	{
 	"name": "True Food",
 	"requiredBuilding": "MiniCake True",
 	"food": 10000,
 	"isWonder": true,
 	"uniques": [
-	  "[+100000]% [Food] [in all cities]",
-	  "[+100000]% growth [in all cities]",
-	  "Can only be built <in [Capital] cities> <hidden from users>",
-	  "Destroyed when the city is captured <hidden from users>",
-	  "Only available <if [MiniCake True] is constructed>",
-	  "Unbuildable <hidden from users>", ]
-  },
-  {
+		"Only available <in cities with a [MiniCake True]> <hidden from users>",
+		"[+100000]% [Food] [in all cities]",
+		"[+100000]% growth [in all cities]",
+		"Can only be built <in [Capital] cities> <hidden from users>",
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>",
+		"Only available <if [MiniCake True] is constructed>",
+		"Unbuildable <hidden from users>", ]
+	},
+	{
 	"name": "True Gold",
 	"requiredBuilding": "MiniCake True",
 	"gold": 10000,
 	"isWonder": true,
 	"uniques": [
-	  "[+100000]% [Gold] [in all cities]",
-	  "[-100000]% maintenance costs",
-	  "Can only be built <in [Capital] cities> <hidden from users>",
-	  "Destroyed when the city is captured <hidden from users>",
-	  "No Maintenance costs for improvements in [All] tiles",
-	  "Only available <if [MiniCake True] is constructed>",
-	  "Unbuildable <hidden from users>", ]
-  },
-  {
+		"Only available <in cities with a [MiniCake True]> <hidden from users>",
+		"[+100000]% [Gold] [in all cities]",
+		"[-100000]% maintenance costs",
+		"Can only be built <in [Capital] cities> <hidden from users>",
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>",
+		"No Maintenance costs for improvements in [All] tiles",
+		"Only available <if [MiniCake True] is constructed>",
+		"Unbuildable <hidden from users>", ]
+	},
+	{
 	"name": "True Happiness",
 	"requiredBuilding": "MiniCake True",
 	"isWonder": true,
 	"uniques": [
-	  "[+100000]% [Happiness] [in all cities]",
-	  "[-100000]% Unhappiness from [Population] [in all cities]",
-	  "Can only be built <in [Capital] cities> <hidden from users>",
-	  "Destroyed when the city is captured <hidden from users>",
-	  "Only available <if [MiniCake True] is constructed>",
-	  "Unbuildable <hidden from users>", ]
-  },
-  {
+		"Only available <in cities with a [MiniCake True]> <hidden from users>",
+		"[+100000]% [Happiness] [in all cities]",
+		"[-100000]% Unhappiness from [Population] [in all cities]",
+		"Can only be built <in [Capital] cities> <hidden from users>",
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>",
+		"Only available <if [MiniCake True] is constructed>",
+		"Unbuildable <hidden from users>", ]
+	},
+	{
 	"name": "True Production",
 	"requiredBuilding": "MiniCake True",
 	"production": 10000,
 	"isWonder": true,
 	"uniques": [
-	  "[+100000]% [Production] [in all cities]",
-	  "[-100000]% construction time for [All] improvements",
-	  "Can only be built <in [Capital] cities> <hidden from users>",
-	  "Destroyed when the city is captured <hidden from users>",
-	  "Only available <if [MiniCake True] is constructed>",
-	  "Unbuildable <hidden from users>", ]
-  },
-  {
+		"Only available <in cities with a [MiniCake True]> <hidden from users>",
+		"[+100000]% [Production] [in all cities]",
+		"[-100000]% construction time for [All] improvements",
+		"Can only be built <in [Capital] cities> <hidden from users>",
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>",
+		"Only available <if [MiniCake True] is constructed>",
+		"Unbuildable <hidden from users>", ]
+	},
+	{
 	"name": "True Science",
 	"requiredBuilding": "MiniCake True",
 	"science": 100,
 	"isWonder": true,
 	"uniques": [
-	  "[+100000]% [Science] [in all cities]",
-	  "Can only be built <in [Capital] cities> <hidden from users>",
-	  "Destroyed when the city is captured <hidden from users>",
-	  "Only available <if [MiniCake True] is constructed>",
-	  "Unbuildable <hidden from users>", ]
-  }
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  //xsa003//hacky cheat
+		"Only available <in cities with a [MiniCake True]> <hidden from users>",
+		"[+100000]% [Science] [in all cities]",
+		"Can only be built <in [Capital] cities> <hidden from users>",
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>",
+		"Only available <if [MiniCake True] is constructed>",
+		"Unbuildable <hidden from users>", ]
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	//xsa003//hacky cheat
 
 { "name": "Hack Land Military Movement Hack", 
 	"requiredBuilding": "MiniCake Hack",
 "cost": 0, "uniques": [ 
+		"Only available <in cities with a [MiniCake Hack]> <hidden from users>",
 	"Only available <for [Human player] Civilizations> <hidden from users>", 
-	"Limited to [1] per Civilization <hidden from users>", 
-	"Destroyed when the city is captured <hidden from users>", 
+	"Limited to [1] per Civilization <hidden from users>",
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>",
 	"Can only be built <in [Capital] cities> <hidden from users>",
 	"[-1000]% Strength <when not at war>", 
 	"[+1000]% Strength <when not at war> <vs [Barbarians]>", 
@@ -1812,45 +1867,53 @@
 
 { "name": "Hack Land Military Range Hack", 
 	"requiredBuilding": "MiniCake Hack",
-"cost": 0,  "uniques": [ 
+"cost": 0,	"uniques": [ 
+		"Only available <in cities with a [MiniCake Hack]> <hidden from users>",
 	"Only available <for [Human player] Civilizations> <hidden from users>", 
 	"Limited to [1] per Civilization <hidden from users>",
-	"Destroyed when the city is captured <hidden from users>", 
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>",
 	"Can only be built <in [Capital] cities> <hidden from users>",
 	"[-1000]% Strength <when not at war>", 
 	"[+1000]% Strength <when not at war> <vs [Barbarians]>", 
 	"[+5] Range" 
-	] }  ,
+	] }	,
 
 { "name": "Hack Land Military Multi Attack Hack", 
 	"requiredBuilding": "MiniCake Hack",
 "cost": 0, "uniques": [ 
+		"Only available <in cities with a [MiniCake Hack]> <hidden from users>",
 	"Only available <for [Human player] Civilizations> <hidden from users>", 
 	"Limited to [1] per Civilization <hidden from users>",
-	"Destroyed when the city is captured <hidden from users>", 
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>",
 	"Can only be built <in [Capital] cities> <hidden from users>", 
 	"[-1000]% Strength <when not at war>", 
 	"[+1000]% Strength <when not at war> <vs [Barbarians]>", 
-	"[3] additional attacks per turn" ] }  ,
+	"[3] additional attacks per turn" ] }	,
 
 { "name": "Hack Land Military Recruiting Hack", 
 	"requiredBuilding": "MiniCake Hack",
-"cost": 0,  "uniques": [ "
-	Only available <for [Human player] Civilizations> <hidden from users>", 
+"cost": 0,	"uniques": [ 
+		"Only available <in cities with a [MiniCake Hack]> <hidden from users>",
+	"Only available <for [Human player] Civilizations> <hidden from users>", 
 	"Limited to [1] per Civilization <hidden from users>",
-	"Destroyed when the city is captured <hidden from users>", 
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>",
 	"Can only be built <in [Capital] cities> <hidden from users>", 
 	"[-1000]% Strength <when not at war>", 
 	"[+1000]% Strength <when not at war> <vs [Barbarians]>", 
 	"When defeating a [All] unit, earn [1000] Gold and recruit it" 
-	] }  ,
+	] }	,
 
 { "name": "Hack Land Military Defense Hack", 
 	"requiredBuilding": "MiniCake Hack",
-"cost": 0,  "uniques": [ 
+"cost": 0,	"uniques": [ 
+		"Only available <in cities with a [MiniCake Hack]> <hidden from users>",
 	"Only available <for [Human player] Civilizations> <hidden from users>",
-	"Limited to [1] per Civilization <hidden from users>", 
-	"Destroyed when the city is captured <hidden from users>", 
+	"Limited to [1] per Civilization <hidden from users>",
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>",
 	"Can only be built <in [Capital] cities> <hidden from users>",
 	"[-1000]% Strength <when not at war>", 
 	"[+1000]% Strength <when not at war> <vs [Barbarians]>", 
@@ -1861,9 +1924,11 @@
 { "name": "Hack Land Military Hack 2", 
 	"requiredBuilding": "MiniCake Hack",
 "cost": 0, "uniques": [ 
+		"Only available <in cities with a [MiniCake Hack]> <hidden from users>",
 	"Only available <for [Human player] Civilizations> <hidden from users>", 
-	"Limited to [1] per Civilization <hidden from users>", 
-	"Destroyed when the city is captured <hidden from users>", 
+	"Limited to [1] per Civilization <hidden from users>",
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>",
 	"Can only be built <in [Capital] cities> <hidden from users>",
 	"[-1000]% Strength <when not at war>", 
 	"[+1000]% Strength <when not at war> <vs [Barbarians]>", 
@@ -1873,9 +1938,11 @@
 { "name": "Hack Land Military Hack 1", 
 	"requiredBuilding": "MiniCake Hack",
 "cost": 0, "uniques": [ 
+		"Only available <in cities with a [MiniCake Hack]> <hidden from users>",
 	"Only available <for [Human player] Civilizations> <hidden from users>", 
 	"Limited to [1] per Civilization <hidden from users>", 
-	"Destroyed when the city is captured <hidden from users>", 
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>",
 	"Can only be built <in [Capital] cities> <hidden from users>", 
 	"[-1000]% Strength <when not at war>", 
 	"[+1000]% Strength <when not at war> <vs [Barbarians]>", 
@@ -1887,9 +1954,11 @@
 { "name": "Hack Land City-States Hack", 
 	"requiredBuilding": "MiniCake Hack",
 "cost": 0, "uniques": [ 
+		"Only available <in cities with a [MiniCake Hack]> <hidden from users>",
 	"Only available <for [Human player] Civilizations> <hidden from users>", 
 	"Limited to [1] per Civilization <hidden from users>", 
-	"Destroyed when the city is captured <hidden from users>", 
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>",
 	"Can only be built <in [Capital] cities> <hidden from users>", 
 	"[-1000]% Strength <when not at war>", 
 	"[+1000]% Strength <when not at war> <vs [Barbarians]>", 
@@ -1905,9 +1974,11 @@
 { "name": "Hack Land Gold Hack", 
 	"requiredBuilding": "MiniCake Hack",
 "cost": 0, "uniques": [ 
+		"Only available <in cities with a [MiniCake Hack]> <hidden from users>",
 	"Only available <for [Human player] Civilizations> <hidden from users>", 
-	"Limited to [1] per Civilization <hidden from users>", 
-	"Destroyed when the city is captured <hidden from users>", 
+	"Limited to [1] per Civilization <hidden from users>",
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>",
 	"Can only be built <in [Capital] cities> <hidden from users>", 
 	"[-1000]% Strength <when not at war>", 
 	"[+1000]% Strength <when not at war> <vs [Barbarians]>", 
@@ -1927,9 +1998,11 @@
 { "name": "Hack Land Culture Hack", 
 	"requiredBuilding": "MiniCake Hack",
 "cost": 0, "uniques": [ 
+		"Only available <in cities with a [MiniCake Hack]> <hidden from users>",
 	"Only available <for [Human player] Civilizations> <hidden from users>", 
 	"Limited to [1] per Civilization <hidden from users>", 
-	"Destroyed when the city is captured <hidden from users>", 
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>",
 	"Can only be built <in [Capital] cities> <hidden from users>",
 	"[-1000]% Strength <when not at war>", 
 	"[+1000]% Strength <when not at war> <vs [Barbarians]>", 
@@ -1937,13 +2010,15 @@
 	"[+1000]% [Culture] [in all cities]", 
 	"[+1000]% Golden Age length", 
 	"[-1000]% Culture cost of adopting new Policies" ] } ,
-  
+	
 { "name": "Hack Land Faith Hack", 
 	"requiredBuilding": "MiniCake Hack",
 "cost": 0, "uniques": [ 
+		"Only available <in cities with a [MiniCake Hack]> <hidden from users>",
 	"Only available <for [Human player] Civilizations> <hidden from users>", 
 	"Limited to [1] per Civilization <hidden from users>", 
-	"Destroyed when the city is captured <hidden from users>", 
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>",
 	"Can only be built <in [Capital] cities> <hidden from users>", 
 	"[-1000]% Strength <when not at war>", 
 	"[+1000]% Strength <when not at war> <vs [Barbarians]>", 
@@ -1957,9 +2032,11 @@
 { "name": "Hack Land Happiness Hack", 
 	"requiredBuilding": "MiniCake Hack",
 "cost": 1, "uniques": [ 
+		"Only available <in cities with a [MiniCake Hack]> <hidden from users>",
 	"Only available <for [Human player] Civilizations> <hidden from users>", 
 	"Limited to [1] per Civilization <hidden from users>", 
-	"Destroyed when the city is captured <hidden from users>", 
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>",
 	"Can only be built <in [Capital] cities> <hidden from users>",
 	"[-1000]% Strength <when not at war>", 
 	"[+1000]% Strength <when not at war> <vs [Barbarians]>", 
@@ -1972,9 +2049,11 @@
 { "name": "Hack Land Food Hack", 
 	"requiredBuilding": "MiniCake Hack",
 "cost": 0, "uniques": [ 
+		"Only available <in cities with a [MiniCake Hack]> <hidden from users>",
 	"Only available <for [Human player] Civilizations> <hidden from users>", 
-	"Limited to [1] per Civilization <hidden from users>", 
-	"Destroyed when the city is captured <hidden from users>", 
+	"Limited to [1] per Civilization <hidden from users>",
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>",
 	"Can only be built <in [Capital] cities> <hidden from users>",
 	"[-1000]% Strength <when not at war>",
 	"[+1000]% Strength <when not at war> <vs [Barbarians]>", 
@@ -1986,9 +2065,11 @@
 { "name": "Hack Land Science Hack", 
 	"requiredBuilding": "MiniCake Hack",
 "cost": 0, "uniques": [ 
+		"Only available <in cities with a [MiniCake Hack]> <hidden from users>",
 	"Only available <for [Human player] Civilizations> <hidden from users>", 
 	"Limited to [1] per Civilization <hidden from users>", 
-	"Destroyed when the city is captured <hidden from users>", 
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>",
 	"Can only be built <in [Capital] cities> <hidden from users>",
 	"[-1000]% Strength <when not at war>", 
 	"[+1000]% Strength <when not at war> <vs [Barbarians]>", 
@@ -1998,9 +2079,11 @@
 { "name": "Hack Land Production Hack", 
 	"requiredBuilding": "MiniCake Hack",
 "cost": 0, "uniques": [ 
+		"Only available <in cities with a [MiniCake Hack]> <hidden from users>",
 	"Only available <for [Human player] Civilizations> <hidden from users>", 
 	"Limited to [1] per Civilization <hidden from users>", 
-	"Destroyed when the city is captured <hidden from users>", 
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>",
 	"Can only be built <in [Capital] cities> <hidden from users>",
 	 "[-1000]% Strength <when not at war>", 
 	 "[+1000]% Strength <when not at war> <vs [Barbarians]>", 
@@ -2031,29 +2114,29 @@
 	] },
 
 
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
  //xsa//sandboxcheat
 	{
 		"name": "Infinite gold",
@@ -2065,7 +2148,8 @@
 		"uniques": [
 			"Only available <in cities with a [MiniCake cSandbox]> <hidden from users>",
 			"Cost increases by [10] per owned city<hidden from users>",
-			"Destroyed when the city is captured <hidden from users>"
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>"
 			]
 	},
 	{
@@ -2079,7 +2163,8 @@
 		"uniques": [
 			"Only available <in cities with a [MiniCake cSandbox]> <hidden from users>",
 			"Cost increases by [10] per owned city<hidden from users>",
-			"Destroyed when the city is captured <hidden from users>"
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>"
 			]
 	},
 	{
@@ -2093,7 +2178,8 @@
 		"uniques": [
 			"Only available <in cities with a [MiniCake cSandbox]> <hidden from users>",
 			"Cost increases by [10] per owned city<hidden from users>",
-			"Destroyed when the city is captured <hidden from users>",
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>",
 			"Only available <when religion is enabled>",
 			]
 	},
@@ -2108,7 +2194,8 @@
 		"uniques": [
 			"Only available <in cities with a [MiniCake cSandbox]> <hidden from users>",
 			"Cost increases by [10] per owned city<hidden from users>",
-			"Destroyed when the city is captured <hidden from users>"
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>"
 			]
 	},
 	{
@@ -2122,7 +2209,8 @@
 		"uniques": [
 			"Only available <in cities with a [MiniCake cSandbox]> <hidden from users>",
 			"Cost increases by [10] per owned city<hidden from users>",
-			"Destroyed when the city is captured <hidden from users>"
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>"
 			]
 	},
 	{
@@ -2135,8 +2223,10 @@
 		"uniques": [
 			"Only available <in cities with a [MiniCake cSandbox]> <hidden from users>",
 			"Cost increases by [10] per owned city<hidden from users>",
-			"Destroyed when the city is captured <hidden from users>",
-			"New [Military] units start with [9999] XP [in this city]"		]
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>",
+			"New [Military] units start with [9999] XP [in this city]"
+			]
 	},
 	{
 		"name": "Increased city defense",
@@ -2150,7 +2240,8 @@
 		"uniques": [
 			"Only available <in cities with a [MiniCake cSandbox]> <hidden from users>",
 			"Cost increases by [10] per owned city<hidden from users>",
-			"Destroyed when the city is captured <hidden from users>"
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>"
 			]
 	},
 	{
@@ -2164,7 +2255,8 @@
 		"uniques": [
 			"Only available <in cities with a [MiniCake cSandbox]> <hidden from users>",
 			"Cost increases by [10] per owned city<hidden from users>",
-			"Destroyed when the city is captured <hidden from users>"
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>"
 			]
 	},
 	{
@@ -2178,7 +2270,8 @@
 		"uniques": [
 			"Only available <in cities with a [MiniCake cSandbox]> <hidden from users>",
 			"Cost increases by [10] per owned city<hidden from users>",
-			"Destroyed when the city is captured <hidden from users>"
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>"
 			]
 	},
 	{
@@ -2192,7 +2285,8 @@
 		"uniques": [
 			"Only available <in cities with a [MiniCake cSandbox]> <hidden from users>",
 			"Cost increases by [10] per owned city<hidden from users>",
-			"Destroyed when the city is captured <hidden from users>"
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>"
 			]
 	},
 	{
@@ -2206,7 +2300,8 @@
 		"uniques": [
 			"Only available <in cities with a [MiniCake cSandbox]> <hidden from users>",
 			"Cost increases by [10] per owned city<hidden from users>",
-			"Destroyed when the city is captured <hidden from users>"
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>"
 			]
 	},
 	{
@@ -2220,7 +2315,8 @@
 		"uniques": [
 			"Only available <in cities with a [MiniCake cSandbox]> <hidden from users>",
 			"Cost increases by [10] per owned city<hidden from users>",
-			"Destroyed when the city is captured <hidden from users>"
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>"
 			]
 	},
 
@@ -2252,8 +2348,10 @@
 		"cost":200,
 		"requiredTech":"Civil Service",
 		"uniques":[
+		"Only available <in cities with a [MiniCake cFocus]> <hidden from users>",
 				"Only available <in cities without a [Focus on Wonder Construction]>",
-				"Destroyed when the city is captured <hidden from users>",
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>",
 				"Can be purchased for [100] [Culture] [in all cities]",
 		"Unsellable <for [20] turns>",
 	
@@ -2267,8 +2365,10 @@
 		"cost":200,
 		"requiredTech":"Civil Service",
 		"uniques":[
+		"Only available <in cities with a [MiniCake cFocus]> <hidden from users>",
 			"Only available <in cities without a [Focus on Military Production]>",
-			"Destroyed when the city is captured <hidden from users>",
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>",
 			"Can be purchased for [100] [Culture] [in all cities]",
 			"Unsellable <for [20] turns>",
 		
@@ -2285,8 +2385,10 @@
 		"food": 20
 	},
 		"uniques":[
+		"Only available <in cities with a [MiniCake cFocus]> <hidden from users>",
 			"Only available <in cities without a [Focus on Growing our Wealth]>",
-			"Destroyed when the city is captured <hidden from users>",
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>",
 			"Can be purchased for [100] [Culture] [in all cities]",
 			"Unsellable <for [20] turns>",
 
@@ -2301,8 +2403,10 @@
 		"cost":200,
 		"requiredTech":"Civil Service",
 		"uniques":[
+		"Only available <in cities with a [MiniCake cFocus]> <hidden from users>",
 			"Only available <in cities without a [Focus on Feeding the People]>",
-			"Destroyed when the city is captured <hidden from users>",
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>",
 			"Can be purchased for [100] [Culture] [in all cities]",
 			"Unsellable <for [20] turns>",
 
@@ -2320,8 +2424,10 @@
 	},
 		"requiredTech":"Civil Service",
 		"uniques":[
+		"Only available <in cities with a [MiniCake cFocus]> <hidden from users>",
 			"Only available <in cities without a [Focus on Social Exchange]>",
-			"Destroyed when the city is captured <hidden from users>",
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>",
 			"Can be purchased for [100] [Culture] [in all cities]",
 			"Unsellable <for [20] turns>",
 
@@ -2341,8 +2447,10 @@
 			"faith": 10
 		},
 		"uniques":[
+		"Only available <in cities with a [MiniCake cFocus]> <hidden from users>",
 			"Only available <in cities without a [Focus on National Production]>",
-			"Destroyed when the city is captured <hidden from users>",
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>",
 			"Can be purchased for [100] [Culture] [in all cities]",
 			"Unsellable <for [20] turns>",
 
@@ -2456,10 +2564,11 @@
 							"requiredBuilding": "MiniCake Challenges",
 		"cost": 0,
 		"uniques": [
-		    	"Only available <in cities with a [MiniCake Challenges]> <hidden from users>",
-		        "Destroyed when the city is captured <hidden from users>",
-		        "Unsellable",
-		        "Only available <before discovering [AI Treats]>",
+				"Only available <in cities with a [MiniCake Challenges]> <hidden from users>",
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>",
+				"Unsellable",
+				"Only available <before discovering [AI Treats]>",
 				"Only available <before adopting [Challenges]>",
 				"Only available <before adopting [Tradition]>",
 				"Only available <before adopting [Liberty]>",
@@ -2474,15 +2583,16 @@
 							"requiredBuilding": "MiniCake Challenges",
 				"cost": 1,
 				"uniques": [
-		        	"Only available <in cities with a [MiniCake Challenges]> <hidden from users>",
-		            "Destroyed when the city is captured <hidden from users>",
-				    "[41]% growth [in this city] <during We Love The King Day>",
-	    			"Nullifies [Science] [in this city] <during We Love The King Day>",
+					"Only available <in cities with a [MiniCake Challenges]> <hidden from users>",
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>",
+					"[41]% growth [in this city] <during We Love The King Day>",
+					"Nullifies [Science] [in this city] <during We Love The King Day>",
 					"Nullifies [Production] [in this city] <during We Love The King Day>",
 					"Nullifies [Gold] [in this city] <during We Love The King Day>",
 					"[+15]% [Culture] [in this city] <during We Love The King Day>"
-        	]
-    },
+			]
+	},
 
 
 
@@ -2510,7 +2620,10 @@
 		"name": "Biofuel Farm",
 		"maintenance": 3,
 		"hurryCostModifier": 25,
-		"uniques": ["Provides [1] [Coal]","Provides [1] [Oil]","Only available <in cities with a [Stable]>"],
+		"uniques": [
+		    "Provides [1] [Coal]",
+		    "Provides [1] [Oil]",
+		    "Only available <in cities with a [Stable]>"],
 		"requiredBuilding": "Stable",
 		"requiredResource": "Horses",
 		"requiredTech": "Biology"
@@ -2519,11 +2632,14 @@
 		"name": "Ore Refinery",
 		"maintenance": 3,
 		"hurryCostModifier": 25,
-		"uniques": ["Provides [1] [Aluminum]","Provides [1] [Uranium]","Only available <in cities with a [Forge]>"],
+		"uniques": [
+		    "Provides [1] [Aluminum]",
+		    "Provides [1] [Uranium]",
+		    "Only available <in cities with a [Forge]>"],
 		"requiredBuilding": "Forge",
 		"requiredResource": "Iron",
 		"requiredTech": "Atomic Theory"
-	}
+	},
 		
 	
 	
@@ -2561,18 +2677,26 @@
 		"isNationalWonder": true,
 		"hurryCostModifier": 1000,
 		"maintenance": 0,
-		"uniques": ["Moves to new capital when capital changes"],
+		"uniques": [
+			"Only available <in cities with a [MiniCake Godmode]>",
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>"
+			],
 		"quote": "You have made your choice. God Mode (cheats) Activated!"
 	},
 	{
 		"name": "Divine Mint",
 		"requiredBuilding": "MiniCake Godmode",
 		"cost": 3,
-		"gold": 1999,
+		"gold": 999999,
 		"hurryCostModifier": 1,
 		"maintenance": 0,
 		"requiredBuilding": "Divine Gate",
-		"uniques": ["Only available <in cities with a [Divine Gate]>","Moves to new capital when capital changes"]
+		"uniques": [
+			"Only available <in cities with a [MiniCake Godmode]>",
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>",
+		]
 	},
 	{
 		"name": "Planning HQ",
@@ -2582,13 +2706,15 @@
 		"maintenance": 0,
 		"requiredBuilding": "Divine Gate",
 		"uniques": [
-			"Only available <in cities with a [Divine Gate]>",
+			"Only available <in cities with a [MiniCake Godmode]>",
 			"[-50]% Gold cost of acquiring tiles [in all cities]",
 			"[Gold] cost of purchasing items in cities [-50]%",
 			"[Gold] cost of purchasing [All] buildings [-50]%",
 			"[Gold] cost of purchasing [All] units [-50]%",
 			"[-50]% Gold cost of upgrading",
-			"Moves to new capital when capital changes"]
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>"
+		]
 	},
 	
 	
@@ -2654,7 +2780,8 @@
 			"Discover [Iron Working]",
 			"Only available <before discovering [1 Ancient Era Tech Inhibit]><hidden from users>",
 			"Unbuildable <hidden from users>",
-			"Moves to new capital when capital changes <hidden from users>"	
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>	
 		]
 	},
 	{
@@ -2676,7 +2803,8 @@
 			"Discover [Steel]",
 			"Only available <before discovering [2 Classical Era Tech Inhibit]><hidden from users>",
 			"Unbuildable <hidden from users>",
-			"Moves to new capital when capital changes <hidden from users>"	
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>	
 		]
 	},
 	{
@@ -2698,7 +2826,8 @@
 			"Discover [Chemistry]",
 			"Only available <before discovering [3 Medieval Era Tech Inhibit]><hidden from users>",
 			"Unbuildable <hidden from users>",
-			"Moves to new capital when capital changes <hidden from users>"	
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>	
 		]
 	},
 	{
@@ -2720,7 +2849,8 @@
 			"Discover [Dynamite]",
 			"Only available <before discovering [4 Renaissance Era Tech Inhibit]><hidden from users>",
 			"Unbuildable <hidden from users>",
-			"Moves to new capital when capital changes <hidden from users>"	
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>	
 		]
 	},
 	{
@@ -2741,7 +2871,8 @@
 			"Discover [Combustion]",
 			"Only available <before discovering [5 Industrial Era Tech Inhibit]><hidden from users>",
 			"Unbuildable <hidden from users>",
-			"Moves to new capital when capital changes <hidden from users>"	
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>	
 		]
 	},
 	{
@@ -2761,7 +2892,8 @@
 			"Discover [Computers]",
 			"Only available <before discovering [6 Modern Era Tech Inhibit]><hidden from users>",
 			"Unbuildable <hidden from users>",
-			"Moves to new capital when capital changes <hidden from users>"	
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>	
 		]
 	},
 	{
@@ -2784,7 +2916,8 @@
 			"Discover [Stealth]",
 			"Only available <before discovering [7 Atomic Era Tech Inhibit]><hidden from users>",
 			"Unbuildable <hidden from users>",
-			"Moves to new capital when capital changes <hidden from users>"	
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>	
 		]
 	},
 	{
@@ -2797,7 +2930,8 @@
 			"Discover [Future Tech]",
 			"Only available <before discovering [8 Information Era Tech Inhibit]><hidden from users>",
 			"Unbuildable <hidden from users>",
-			"Moves to new capital when capital changes <hidden from users>"	
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>	
 		]
 	},
 
@@ -2827,10 +2961,12 @@
 		"hurryCostModifier": 1,
 		"maintenance": 0,
 		"uniques": [
+			"Only available <in cities with a [MiniCake Unlock Inhibitor]>",
 			"Discover [1 Ancient Era Tech Inhibit]",
 			"Only available <before discovering [1 Ancient Era Tech Inhibit]><hidden from users>",
 			"Unbuildable <hidden from users>",
-			"Moves to new capital when capital changes <hidden from users>"	
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>	
 		]
 	},
 	{
@@ -2840,11 +2976,13 @@
 		"hurryCostModifier": 1,
 		"maintenance": 0,
 		"uniques": [
+			"Only available <in cities with a [MiniCake Unlock Inhibitor]>",
 			"Discover [1 Ancient Era Tech Inhibit]",
 			"Discover [2 Classical Era Tech Inhibit]",
 			"Only available <before discovering [2 Classical Era Tech Inhibit]><hidden from users>",
 			"Unbuildable <hidden from users>",
-			"Moves to new capital when capital changes <hidden from users>"	
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>	
 		]
 	},
 	{
@@ -2854,12 +2992,14 @@
 		"hurryCostModifier": 1,
 		"maintenance": 0,
 		"uniques": [
+			"Only available <in cities with a [MiniCake Unlock Inhibitor]>",
 			"Discover [1 Ancient Era Tech Inhibit]",
 			"Discover [2 Classical Era Tech Inhibit]",
 			"Discover [3 Medieval Era Tech Inhibit]",
 			"Only available <before discovering [3 Medieval Era Tech Inhibit]><hidden from users>",
 			"Unbuildable <hidden from users>",
-			"Moves to new capital when capital changes <hidden from users>"	
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>	
 		]
 	},
 	{
@@ -2869,13 +3009,15 @@
 		"hurryCostModifier": 1,
 		"maintenance": 0,
 		"uniques": [
+			"Only available <in cities with a [MiniCake Unlock Inhibitor]>",
 			"Discover [1 Ancient Era Tech Inhibit]",
 			"Discover [2 Classical Era Tech Inhibit]",
 			"Discover [3 Medieval Era Tech Inhibit]",
 			"Discover [4 Renaissance Era Tech Inhibit]",
 			"Only available <before discovering [4 Renaissance Era Tech Inhibit]><hidden from users>",
 			"Unbuildable <hidden from users>",
-			"Moves to new capital when capital changes <hidden from users>"	
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>	
 		]
 	},
 	{
@@ -2885,6 +3027,7 @@
 		"hurryCostModifier": 1,
 		"maintenance": 0,
 		"uniques": [
+			"Only available <in cities with a [MiniCake Unlock Inhibitor]>",
 			"Discover [1 Ancient Era Tech Inhibit]",
 			"Discover [2 Classical Era Tech Inhibit]",
 			"Discover [3 Medieval Era Tech Inhibit]",
@@ -2892,7 +3035,8 @@
 			"Discover [5 Industrial Era Tech Inhibit]",
 			"Only available <before discovering [5 Industrial Era Tech Inhibit]><hidden from users>",
 			"Unbuildable <hidden from users>",
-			"Moves to new capital when capital changes <hidden from users>"	
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>	
 		]
 	},
 	{
@@ -2902,6 +3046,7 @@
 		"hurryCostModifier": 1,
 		"maintenance": 0,
 		"uniques": [
+			"Only available <in cities with a [MiniCake Unlock Inhibitor]>",
 			"Discover [1 Ancient Era Tech Inhibit]",
 			"Discover [2 Classical Era Tech Inhibit]",
 			"Discover [3 Medieval Era Tech Inhibit]",
@@ -2910,7 +3055,8 @@
 			"Discover [6 Modern Era Tech Inhibit]",
 			"Only available <before discovering [6 Modern Era Tech Inhibit]><hidden from users>",
 			"Unbuildable <hidden from users>",
-			"Moves to new capital when capital changes <hidden from users>"	
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>	
 		]
 	},
 	{
@@ -2920,6 +3066,7 @@
 		"hurryCostModifier": 1,
 		"maintenance": 0,
 		"uniques": [
+			"Only available <in cities with a [MiniCake Unlock Inhibitor]>",
 			"Discover [1 Ancient Era Tech Inhibit]",
 			"Discover [2 Classical Era Tech Inhibit]",
 			"Discover [3 Medieval Era Tech Inhibit]",
@@ -2929,7 +3076,8 @@
 			"Discover [7 Atomic Era Tech Inhibit]",
 			"Only available <before discovering [7 Atomic Era Tech Inhibit]><hidden from users>",
 			"Unbuildable <hidden from users>",
-			"Moves to new capital when capital changes <hidden from users>"	
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>	
 		]
 	},
 	{
@@ -2939,6 +3087,7 @@
 		"hurryCostModifier": 1,
 		"maintenance": 0,
 		"uniques": [
+			"Only available <in cities with a [MiniCake Unlock Inhibitor]>",
 			"Discover [1 Ancient Era Tech Inhibit]",
 			"Discover [2 Classical Era Tech Inhibit]",
 			"Discover [3 Medieval Era Tech Inhibit]",
@@ -2949,7 +3098,8 @@
 			"Discover [8 Information Era Tech Inhibit]",
 			"Only available <before discovering [8 Information Era Tech Inhibit]><hidden from users>",
 			"Unbuildable <hidden from users>",
-			"Moves to new capital when capital changes <hidden from users>"	
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>	
 		]
 	},
 	{
@@ -2959,9 +3109,11 @@
 		"hurryCostModifier": 1,
 		"maintenance": 0,
 		"uniques": [
+			"Only available <in cities with a [MiniCake Unlock Inhibitor]>",
 //			"Only available <before discovering [7 Atomic Tech Inhibit]><hidden from users>",
 			"Unbuildable <hidden from users>",
-			"Moves to new capital when capital changes <hidden from users>"	
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>	
 		]
 	},
 
@@ -2993,6 +3145,7 @@
 		"hurryCostModifier": 1,
 		"maintenance": 0,
 		"uniques": [
+			"Only available <in cities with a [MiniCake Unlock Policy]>",
 			"Adopt [Tradition]<before adopting [Tradition]>",
 			"Adopt [Liberty]<before adopting [Liberty]>",
 			"Adopt [Honor]<before adopting [Honor]>",
@@ -3004,7 +3157,8 @@
 			"Adopt [Autocracy]<before adopting [Autocracy]>",
 			"Adopt [Order]<before adopting [Order]>",
 			"Unbuildable <hidden from users>",
-			"Moves to new capital when capital changes <hidden from users>"	
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>	
 		]
 	},
 
@@ -3016,6 +3170,7 @@
 		"hurryCostModifier": 1,
 		"maintenance": 0,
 		"uniques": [
+			"Only available <in cities with a [MiniCake Unlock Policy]>",
 			"Adopt [Tradition]<before adopting [Tradition]>",
 			"Adopt [Aristocracy]<before adopting [Aristocracy]>",
 			"Adopt [Legalism]<before adopting [Legalism]>",
@@ -3024,7 +3179,8 @@
 			"Adopt [Monarchy]<before adopting [Monarchy]>",
 //			"Adopt [Tradition Complete]<before adopting [Tradition Complete]>",
 			"Unbuildable <hidden from users>",
-			"Moves to new capital when capital changes <hidden from users>"	
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>	
 		]
 	},
 	{
@@ -3034,6 +3190,7 @@
 		"hurryCostModifier": 1,
 		"maintenance": 0,
 		"uniques": [
+			"Only available <in cities with a [MiniCake Unlock Policy]>",
 			"Adopt [Liberty]<before adopting [Liberty]>",
 			"Adopt [Republic]<before adopting [Republic]>",
 			"Adopt [Citizenship]<before adopting [Citizenship]>",
@@ -3042,7 +3199,8 @@
 			"Adopt [Meritocracy]<before adopting [Meritocracy]>",
 //			"Adopt [Liberty Complete]<before adopting [Liberty Complete]>",
 			"Unbuildable <hidden from users>",
-			"Moves to new capital when capital changes <hidden from users>"	
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>	
 		]
 	},
 	{
@@ -3052,6 +3210,7 @@
 		"hurryCostModifier": 1,
 		"maintenance": 0,
 		"uniques": [
+			"Only available <in cities with a [MiniCake Unlock Policy]>",
 			"Adopt [Honor]<before adopting [Honor]>",
 			"Adopt [Warrior Code]<before adopting [Warrior Code]>",
 			"Adopt [Discipline]<before adopting [Discipline]>",
@@ -3060,7 +3219,8 @@
 			"Adopt [Professional Army]<before adopting [Professional Army]>",
 //			"Adopt [Honor Complete]<before adopting [Honor Complete]>",
 			"Unbuildable <hidden from users>",
-			"Moves to new capital when capital changes <hidden from users>"	
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>	
 		]
 	},
 	{
@@ -3070,6 +3230,7 @@
 		"hurryCostModifier": 1,
 		"maintenance": 0,
 		"uniques": [
+			"Only available <in cities with a [MiniCake Unlock Policy]>",
 			"Adopt [Piety]<before adopting [Piety]>",
 			"Adopt [Organized Religion]<before adopting [Organized Religion]>",
 			"Adopt [Mandate Of Heaven]<before adopting [Mandate Of Heaven]>",
@@ -3078,7 +3239,8 @@
 			"Adopt [Free Religion]<before adopting [Free Religion]>",
 //			"Adopt [Piety Complete]<before adopting [Piety Complete]>",
 			"Unbuildable <hidden from users>",
-			"Moves to new capital when capital changes <hidden from users>"	
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>	
 		]
 	},
 	{
@@ -3088,6 +3250,7 @@
 		"hurryCostModifier": 1,
 		"maintenance": 0,
 		"uniques": [
+			"Only available <in cities with a [MiniCake Unlock Policy]>",
 			"Adopt [Patronage]<before adopting [Patronage]>",
 			"Adopt [Philantropy]<before adopting [Philantropy]>",
 			"Adopt [Aesthetics]<before adopting [Aesthetics]>",
@@ -3096,7 +3259,8 @@
 			"Adopt [Educated Elite]<before adopting [Educated Elite]>",
 //			"Adopt [Patronage Complete]<before adopting [Patronage Complete]>",
 			"Unbuildable <hidden from users>",
-			"Moves to new capital when capital changes <hidden from users>"	
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>	
 		]
 	},
 	{
@@ -3105,7 +3269,8 @@
 		"cost": 10,
 		"hurryCostModifier": 1,
 		"maintenance": 0,
-		"uniques": [			
+		"uniques": [
+			"Only available <in cities with a [MiniCake Unlock Policy]>",
 			"Adopt [Commerce]<before adopting [Commerce]>",
 			"Adopt [Naval Tradition]<before adopting [Naval Tradition]>",
 			"Adopt [Trade Unions]<before adopting [Trade Unions]>",
@@ -3114,7 +3279,8 @@
 			"Adopt [Protectionism]<before adopting [Protectionism]>",
 //			"Adopt [Commerce Complete]<before adopting [Commerce Complete]>",
 			"Unbuildable <hidden from users>",
-			"Moves to new capital when capital changes <hidden from users>"	
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>	
 		]
 	},
 	{
@@ -3124,6 +3290,7 @@
 		"hurryCostModifier": 1,
 		"maintenance": 0,
 		"uniques": [
+			"Only available <in cities with a [MiniCake Unlock Policy]>",
 			"Adopt [Rationalism]<before adopting [Rationalism]>",
 			"Adopt [Secularism]<before adopting [Secularism]>",
 			"Adopt [Humanism]<before adopting [Humanism]>",
@@ -3132,7 +3299,8 @@
 			"Adopt [Sovereignty]<before adopting [Sovereignty]>",
 //			"Adopt [Rationalism Complete]<before adopting [Rationalism Complete]>",
 			"Unbuildable <hidden from users>",
-			"Moves to new capital when capital changes <hidden from users>"	
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>	
 		]
 	},
 	{
@@ -3142,6 +3310,7 @@
 		"hurryCostModifier": 1,
 		"maintenance": 0,
 		"uniques": [
+			"Only available <in cities with a [MiniCake Unlock Policy]>",
 			"Adopt [Freedom]<before adopting [Freedom]>",
 			"Adopt [Constitution]<before adopting [Constitution]>",
 			"Adopt [Universal Suffrage]<before adopting [Universal Suffrage]>",
@@ -3150,7 +3319,8 @@
 			"Adopt [Democracy]<before adopting [Democracy]>",
 //			"Adopt [Freedom Complete]<before adopting [Freedom Complete]>",
 			"Unbuildable <hidden from users>",
-			"Moves to new capital when capital changes <hidden from users>"	
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>	
 		]
 	},
 	{
@@ -3160,6 +3330,7 @@
 		"hurryCostModifier": 1,
 		"maintenance": 0,
 		"uniques": [
+			"Only available <in cities with a [MiniCake Unlock Policy]>",
 			"Adopt [Autocracy]<before adopting [Autocracy]>",
 			"Adopt [Populism]<before adopting [Populism]>",
 			"Adopt [Militarism]<before adopting [Militarism]>",
@@ -3168,7 +3339,8 @@
 			"Adopt [Total War]<before adopting [Total War]>",
 //			"Adopt [Autocracy Complete]<before adopting [Autocracy Complete]>",
 			"Unbuildable <hidden from users>",
-			"Moves to new capital when capital changes <hidden from users>"	
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>	
 		]
 	},
 	{
@@ -3178,6 +3350,7 @@
 		"hurryCostModifier": 1,
 		"maintenance": 0,
 		"uniques": [
+			"Only available <in cities with a [MiniCake Unlock Policy]>",
 			"Adopt [Order]<before adopting [Order]>",
 			"Adopt [United Front]<before adopting [United Front]>",
 			"Adopt [Planned Economy]<before adopting [Planned Economy]>",
@@ -3186,7 +3359,8 @@
 			"Adopt [Communism]<before adopting [Communism]>",
 //			"Adopt [Order Complete]<before adopting [Order Complete]>",
 			"Unbuildable <hidden from users>",
-			"Moves to new capital when capital changes <hidden from users>"	
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>	
 		]
 	},
 
@@ -3219,12 +3393,14 @@
 		"maintenance": 0,
 		"requiredBuilding": "Divine Gate",
 		"uniques": [
-			"Only available <in cities with a [Divine Gate]>",
+			"Only available <in cities with a [MiniCake Godmode]>",
 			"[+2] Movement <for [All] units>",
 			"[+50]% Strength <for [All] units>",
 			"[+50]% to Flank Attack bonuses",
 			"[+50]% XP gained from combat",
-			"Moves to new capital when capital changes"]
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>	
+		]
 	},
 	{
 		"name": "Corporate HQ",
@@ -3234,14 +3410,16 @@
 		"maintenance": 0,
 		"requiredBuilding": "Divine Gate",
 		"uniques": [
-			"Only available <in cities with a [Divine Gate]>",
+			"Only available <in cities with a [MiniCake Godmode]>",
 			"[50]% [Production] [in all cities]",
 			"[50]% [Food] [in all cities]",
 			"[50]% [Happiness] [in all cities]",
 			"[50]% [Science] [in all cities]",
 			"[50]% [Culture] [in all cities]",
 			"[+100]% [Strategic] resource production",
-			"Moves to new capital when capital changes"]
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>	
+		]
 	},
 	{
 		"name": "Defense Tower",
@@ -3251,10 +3429,12 @@
 		"maintenance": 0,
 		"requiredBuilding": "Divine Gate",
 		"uniques": [
-			"Only available <in cities with a [Divine Gate]>",
+			"Only available <in cities with a [MiniCake Godmode]>",
 			"[+100]% City Strength from defensive buildings",
 			"[+100]% Strength for cities",
-			"Destroyed when the city is captured <hidden from users>"]
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>	
+		]
 	},
 	{
 		"name": "Agency HQ",
@@ -3264,12 +3444,14 @@
 		"maintenance": 0,
 		"requiredBuilding": "Divine Gate",
 		"uniques": [
-		    "Unavailable <when number of Completed Policy branchees is less than 1>",
+			"Unavailable <when number of Completed Policy branchees is less than 1>",
 			"Hidden until [1] social policy branches have been completed",
-			"Only available <in cities with a [Divine Gate]>",
+			"Only available <in cities with a [MiniCake Godmode]>",,
 			"[+100]% Great Person generation [in all cities]",
-			"Moves to new capital when capital changes"]
-	}
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>	
+		]
+	},
 	
 
 	
@@ -3310,6 +3492,7 @@
 		"name": "1ReadMe",
 				"requiredBuilding": "MiniCake UCheat",
 		"uniques": [ 
+			"Only available <in cities with a [MiniCake UCheat]>",
 			"Comment [All of these buildings are Unbuildable for AIs so no need to worry + destroyed if city is captured]",
 			"Can be purchased for [0] [Gold] [in this city] <hidden from users>",
 			"Only available <for [Human player] Civilizations> <hidden from users>",
@@ -3323,9 +3506,11 @@
 		"hurryCostModifier": 0,
 		"maintenance": 0,
 		"uniques": [
+			"Only available <in cities with a [MiniCake UCheat]>",
 			"Can be purchased for [0] [Gold] [in this city] <hidden from users>",
 			"Can only be built <in [in capital] cities> <hidden from users>",
-			"Destroyed when the city is captured <hidden from users>",
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>",
 			"Only available <in cities without a [cheated]> <hidden from users>",
 			"Only available <in cities without a [Password]> <hidden from users>",
 			"Only available <in cities without a [Real]> <hidden from users>",
@@ -3339,6 +3524,7 @@
 		"hurryCostModifier": 0,
 		"maintenance": 0,
 		"uniques": [
+			"Only available <in cities with a [MiniCake UCheat]>",
 			"Can be purchased for [0] [Gold] [in this city] <hidden from users>",
 			"Can only be built <in [in capital] cities> <hidden from users>",
 			"Only available <in cities without a [CheatActivator]> <hidden from users>",
@@ -3347,7 +3533,8 @@
 			"Remove [xyzplan] [in this city] <hidden from users>",
 			"Remove [iS] [in this city] <hidden from users>",
 			"Remove [Real] [in this city] <hidden from users>",
-			"Destroyed when the city is captured <hidden from users>"]
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>"]
 	},
 	{
 		"name": "Oknice911",
@@ -3356,10 +3543,12 @@
 		"hurryCostModifier": 0,
 		"maintenance": 0,
 		"uniques": [
+			"Only available <in cities with a [MiniCake UCheat]>",
 			"Can be purchased for [0] [Gold] [in this city] <hidden from users>",
 			"Can only be built <in [in capital] cities> <hidden from users>",
 			"Automatically built in all cities where it is buildable <hidden from users>",
-			"Destroyed when the city is captured <hidden from users>"]
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>"]
 	},
 	{
 		"name": "Password",
@@ -3368,11 +3557,13 @@
 		"hurryCostModifier": 0,
 		"maintenance": 0,
 		"uniques": [
+			"Only available <in cities with a [MiniCake UCheat]>",
 			"Can be purchased for [0] [Gold] [in this city] <hidden from users>",
 			"Can only be built <in [in capital] cities> <hidden from users>",
 			"Only available <in cities with a [CheatActivator]> <hidden from users>",
 			"Remove [CheatActivator] [in this city] <hidden from users>",
-			"Destroyed when the city is captured <hidden from users>"]
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>"]
 	},
 	{
 		"name": "xyzplan",
@@ -3381,12 +3572,14 @@
 		"hurryCostModifier": 0,
 		"maintenance": 0,
 		"uniques": [
+			"Only available <in cities with a [MiniCake UCheat]>",
 			"Can be purchased for [0] [Gold] [in this city] <hidden from users>",
 			"Can only be built <in [in capital] cities> <hidden from users>",
 			"Only available <in cities with a [Password]> <hidden from users>",
 			"Only available <in cities without a [fake]> <hidden from users>",
 			"Only available <in cities without a [100 Real]> <hidden from users>",
-			"Destroyed when the city is captured <hidden from users>"]
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>"]
 	},
 	{
 		"name": "iS",
@@ -3395,11 +3588,13 @@
 		"hurryCostModifier": 0,
 		"maintenance": 0,
 		"uniques": [
+			"Only available <in cities with a [MiniCake UCheat]>",
 			"Can be purchased for [0] [Gold] [in this city] <hidden from users>",
 			"Can only be built <in [in capital] cities> <hidden from users>",
 			"Only available <in cities with a [xyzplan]> <hidden from users>",
 			"Only available <in cities without a [fake]> <hidden from users>",
-			"Destroyed when the city is captured <hidden from users>"]
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>"]
 	},
 	{
 		"name": "100 Real",
@@ -3408,6 +3603,7 @@
 		"hurryCostModifier": 0,
 		"maintenance": 0,
 		"uniques": [
+			"Only available <in cities with a [MiniCake UCheat]>",
 			"Can be purchased for [0] [Gold] [in this city] <hidden from users>",
 			"Can only be built <in [in capital] cities> <hidden from users>",
 			"Only available <in cities with a [iS]> <hidden from users>",
@@ -3415,7 +3611,8 @@
 			"Remove [iS] [in this city] <hidden from users>",
 			"Remove [Password] [in this city] <hidden from users>",
 		"Remove [100 Real] [in this city] <hidden from users>",
-			"Destroyed when the city is captured <hidden from users>"]
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>"]
 	},
 	{
 		"name": "Real",
@@ -3424,6 +3621,7 @@
 		"hurryCostModifier": 0,
 		"maintenance": 0,
 		"uniques": [
+			"Only available <in cities with a [MiniCake UCheat]>",
 			"Can be purchased for [0] [Gold] [in this city] <hidden from users>",
 			"Can only be built <in [in capital] cities> <hidden from users>",
 			"Only available <in cities with a [iS]> <hidden from users>",
@@ -3431,7 +3629,8 @@
 			"Remove [xyzplan] [in this city] <hidden from users>",
 			"Remove [iS] [in this city] <hidden from users>",
 			"Remove [Password] [in this city] <hidden from users>",
-			"Destroyed when the city is captured <hidden from users>"]
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>"]
 	},
 	{
 		"name": "fake",
@@ -3440,6 +3639,7 @@
 		"hurryCostModifier": 0,
 		"maintenance": 0,
 		"uniques": [
+			"Only available <in cities with a [MiniCake UCheat]>",
 			"Can be purchased for [0] [Gold] [in this city] <hidden from users>",
 			"Can only be built <in [in capital] cities> <hidden from users>",
 			"Only available <in cities with a [iS]> <hidden from users>",
@@ -3447,7 +3647,8 @@
 			"Remove [iS] [in this city] <hidden from users>",
 			"Remove [Password] [in this city] <hidden from users>",
 			"Remove [fake] [in this city] <hidden from users>",
-			"Destroyed when the city is captured <hidden from users>"]
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>"]
 	},
 	{
 	 "name": "cheated",
@@ -3456,11 +3657,13 @@
 	"hurryCostModifier": 0,
 	"maintenance": 0,
 	"uniques": [
+			"Only available <in cities with a [MiniCake UCheat]>",
 		"Can be purchased for [0] [Gold] [in this city] <hidden from users>",
 		"Can only be built <in [in capital] cities> <hidden from users>",
 		"Only available <in cities without a [CheatActivator]> <hidden from users>",
 		"Only available <in cities with a [CheatActivated]> <hidden from users>",
 		"Remove [CheatActivated] [in this city] <hidden from users>",
+		"Moves to new capital when capital changes<hidden from users>",
 		"Destroyed when the city is captured <hidden from users>"]
 	},
 	{
@@ -3470,10 +3673,12 @@
 		"hurryCostModifier": 0,
 		"maintenance": 0,
 		"uniques": [ 
+			"Only available <in cities with a [MiniCake UCheat]>",
 			"Comment [You Gain 2 units in total]",
 			"Only available <in cities with a [cheated]> <hidden from users>",
 			"Can be purchased for [0] [Gold] [in this city] <hidden from users>",
-			"Destroyed when the city is captured <hidden from users>",
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>",
 			"Remove [Starter Pack] [in this city] <hidden from users>",
 			"Limited to [1] per Civilization <hidden from users>",
 			"[+1] free [Normal Worker] units appear <hidden from users>",
@@ -3486,10 +3691,12 @@
 		"hurryCostModifier": 0,
 		"maintenance": 0,
 		"uniques": [ 
+			"Only available <in cities with a [MiniCake UCheat]>",
 			"Comment [+5 every stats except faith in your cities]",
 			"Only available <in cities with a [cheated]> <hidden from users>",
 			"Can be purchased for [0] [Gold] [in this city] <hidden from users>",
-			"Destroyed when the city is captured <hidden from users>",
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>",
 				"Instantly provides [1] [+stats1] <hidden from users>", 
 			"Instantly consumes [1] [-stats1] <hidden from users>",
 			"Unavailable <when above [9] [+stats1]> <hidden from users>",
@@ -3504,10 +3711,12 @@
 		"hurryCostModifier": 0,
 		"maintenance": 0,
 		"uniques": [ 
+			"Only available <in cities with a [MiniCake UCheat]>",
 			"Comment [-5 every stats except faith in your cities]",
 			"Only available <in cities with a [cheated]> <hidden from users>",
 			"Can be purchased for [0] [Gold] [in this city] <hidden from users>",
-			"Destroyed when the city is captured <hidden from users>",
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>",
 				"Instantly provides [1] [-stats1] <hidden from users>", 
 			"Instantly consumes [1] [+stats1] <hidden from users>",
 			"Unavailable <when above [-1] [-stats1]> <hidden from users>",
@@ -3522,10 +3731,12 @@
 		"hurryCostModifier": 0,
 		"maintenance": 0,
 		"uniques": [ 
+			"Only available <in cities with a [MiniCake UCheat]>",
 			"Comment [+5 faith in your cities]",
 			"Only available <in cities with a [cheated]> <hidden from users>",
 			"Can be purchased for [0] [Gold] [in this city] <hidden from users>",
-			"Destroyed when the city is captured <hidden from users>",
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>",
 			"Only available <for [Human player] Civilizations> <hidden from users>",
 			"Limited to [1] per Civilization <hidden from users>",
 			"[+5 Faith] [in all cities] <hidden from users>",
@@ -3538,11 +3749,13 @@
 		"hurryCostModifier": 0,
 		"maintenance": 0,
 		"uniques": [ 
+			"Only available <in cities with a [MiniCake UCheat]>",
 			"Comment [More -10 unhappiness everytime u buy it]",
 			"Only available <in cities with a [cheated]> <hidden from users>",
 			"Comment [Not Buildable for AIs + Destroyed if this city is captured]", 
 			"Can be purchased for [0] [Gold] [in this city] <hidden from users>",
-			"Destroyed when the city is captured <hidden from users>",
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>",
 			"Instantly provides [1] [-Unhappiness] <hidden from users>", 
 			"Instantly consumes [1] [+Unhappiness] <hidden from users>",
 			"Unavailable <when above [9] [-Unhappiness]> <hidden from users>",
@@ -3558,6 +3771,7 @@
 		"hurryCostModifier": 0,
 		"maintenance": 0,
 		"uniques": [ 
+			"Only available <in cities with a [MiniCake UCheat]>",
 			"Comment [More +10 unhappiness everytime u buy it]",
 			"Only available <in cities with a [cheated]> <hidden from users>",
 			"Comment [Not Buildable for AIs + Destroyed if this city is captured]", 
@@ -3565,7 +3779,8 @@
 			"Instantly provides [1] [+Unhappiness] <hidden from users>", 
 			"Instantly consumes [1] [-Unhappiness] <hidden from users>",
 			"Unavailable <when above [-1] [+Unhappiness]> <hidden from users>",
-			"Destroyed when the city is captured <hidden from users>",
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>",
 			"Remove [100 to 0% happiness] [in this city] <hidden from users>",
 			"Limited to [1] per Civilization <hidden from users>",
 			"[+10]% Unhappiness from [Population] [in all cities] <for [999999] turns> <hidden from users>",
@@ -3578,9 +3793,11 @@
 		"hurryCostModifier": 0,
 		"maintenance": 0,
 		"uniques": [ 
+			"Only available <in cities with a [MiniCake UCheat]>",
 			"Can be purchased for [0] [Gold] [in this city] <hidden from users>",
 			"Only available <in cities with a [cheated]> <hidden from users>",
-			"Destroyed when the city is captured <hidden from users>",
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>",
 			"Instantly provides [1] [+Food Carry] <hidden from users>", 
 			"Instantly consumes [1] [-Food Carry] <hidden from users>",
 			"Unavailable <when above [9] [+Food Carry]> <hidden from users>",
@@ -3595,9 +3812,11 @@
 		"hurryCostModifier": 0,
 		"maintenance": 0,
 		"uniques": [ 
+			"Only available <in cities with a [MiniCake UCheat]>",
 			"Can be purchased for [0] [Gold] [in this city] <hidden from users>",
 			"Only available <in cities with a [cheated]> <hidden from users>",
-			"Destroyed when the city is captured <hidden from users>",
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>",
 			"Instantly provides [1] [-Food Carry] <hidden from users>", 
 			"Instantly consumes [1] [+Food Carry] <hidden from users>",
 			"Unavailable <when above [-1] [-Food Carry]> <hidden from users>",
@@ -3612,9 +3831,11 @@
 		"hurryCostModifier": 0,
 		"maintenance": 0,
 		"uniques": [ 
+			"Only available <in cities with a [MiniCake UCheat]>",
 			"Only available <in cities with a [cheated]> <hidden from users>",
 			"Can be purchased for [0] [Gold] [in this city] <hidden from users>",
-			"Destroyed when the city is captured <hidden from users>",
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>",
 			"Instantly provides [1] [-Culture Cost Border] <hidden from users>", 
 			"Instantly consumes [1] [+Culture Cost Border] <hidden from users>",
 			"Unavailable <when above [9] [-Culture Cost Border]> <hidden from users>",
@@ -3629,9 +3850,11 @@
 		"hurryCostModifier": 0,
 		"maintenance": 0,
 		"uniques": [ 
+			"Only available <in cities with a [MiniCake UCheat]>",
 			"Only available <in cities with a [cheated]> <hidden from users>",
 			"Can be purchased for [0] [Gold] [in this city] <hidden from users>",
-			"Destroyed when the city is captured <hidden from users>",
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>",
 			"Instantly provides [1] [+Culture Cost Border] <hidden from users>", 
 			"Instantly consumes [1] [-Culture Cost Border] <hidden from users>",
 			"Unavailable <when above [-1] [+Culture Cost Border]> <hidden from users>",
@@ -3646,9 +3869,11 @@
 		"hurryCostModifier": 0,
 		"maintenance": 0,
 		"uniques": [ 
+			"Only available <in cities with a [MiniCake UCheat]>",
 			"Only available <in cities with a [cheated]> <hidden from users>",
 			"Can be purchased for [0] [Gold] [in this city] <hidden from users>",
-			"Destroyed when the city is captured <hidden from users>",
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>",
 			"Limited to [1] per Civilization <hidden from users>",
 			"[+9999999]% Golden Age length <hidden from users>"]
 	},
@@ -3659,10 +3884,12 @@
 		"hurryCostModifier": 0,
 		"maintenance": 0,
 		"uniques": [ 
+			"Only available <in cities with a [MiniCake UCheat]>",
 			"Only available <in cities with a [cheated]> <hidden from users>",
 			"Can be purchased for [0] [Gold] [in this city] <hidden from users>",
 			"Limited to [1] per Civilization <hidden from users>",
-			"Destroyed when the city is captured <hidden from users>",
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>",
 			"[Military] units gain the [Slavery-888] promotion <if [Slavery-888] is constructed>" ]
 	},
 	{
@@ -3672,10 +3899,12 @@
 		"hurryCostModifier": 0,
 		"maintenance": 0,
 		"uniques": [ 
+			"Only available <in cities with a [MiniCake UCheat]>",
 			"Only available <in cities with a [cheated]> <hidden from users>",
 			"Can be purchased for [0] [Gold] [in this city] <hidden from users>",
 			"Limited to [1] per Civilization <hidden from users>",
-			"Destroyed when the city is captured <hidden from users>",
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>",
 			"[Military] units gain the [Pillage-cheat] promotion <if [Pillage-cheat] is constructed>" ]
 	},
 	{
@@ -3685,10 +3914,12 @@
 		"hurryCostModifier": 0,
 		"maintenance": 0,
 		"uniques": [ 
+			"Only available <in cities with a [MiniCake UCheat]>",
 			"Only available <in cities with a [cheated]> <hidden from users>",
 			"Can be purchased for [0] [Gold] [in this city] <hidden from users>",
 			"Limited to [1] per Civilization <hidden from users>",
-			"Destroyed when the city is captured <hidden from users>",
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>",
 			"[Military] units gain the [Omnipotence] promotion <every [1] turns> <if [Immortal Units] is constructed>" ]
 	},
 	{
@@ -3698,10 +3929,12 @@
 		"hurryCostModifier": 0,
 		"maintenance": 0,
 		"uniques": [ 
+			"Only available <in cities with a [MiniCake UCheat]>",
 			"Only available <in cities with a [cheated]> <hidden from users>",
 			"Can be purchased for [0] [Gold] [in this city] <hidden from users>",
 			"Limited to [1] per Civilization <hidden from users>",
-			"Destroyed when the city is captured <hidden from users>",
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>",
 			"[Military] units gain the [More Invulnerability] promotion <every [1] turns> <if [Invulnerable Units] is constructed>" ]
 	},
 	{
@@ -3711,9 +3944,11 @@
 		"hurryCostModifier": 0,
 		"maintenance": 0,
 		"uniques":[ 
+			"Only available <in cities with a [MiniCake UCheat]>",
 			"Only available <in cities with a [cheated]> <hidden from users>",
 			"Can be purchased for [0] [Gold] [in this city] <hidden from users>",
-			"Destroyed when the city is captured <hidden from users>",
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>",
 			"Limited to [1] per Civilization <hidden from users>",
 		"[Military] units gain the [Knowledgeable] promotion <every [1] turns> <if [Knowledgeable Units] is constructed>"]
 	},
@@ -3724,10 +3959,12 @@
 		"hurryCostModifier": 0,
 		"maintenance": 0,
 		"uniques": [ 
+			"Only available <in cities with a [MiniCake UCheat]>",
 			"Only available <in cities with a [cheated]> <hidden from users>",
 			"Can be purchased for [0] [Gold] [in this city] <hidden from users>",
 			"Limited to [1] per Civilization <hidden from users>",
-			"Destroyed when the city is captured <hidden from users>",
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>",
 			"[+99999999]% Strength for cities <when defending> <hidden from users>" ]
 	},
 	{
@@ -3737,12 +3974,14 @@
 		"hurryCostModifier": 0,
 		"maintenance": 0,
 		"uniques": [ 
+			"Only available <in cities with a [MiniCake UCheat]>",
 			"Only available <in cities with a [cheated]> <hidden from users>",
 			"Can be purchased for [0] [Gold] [in this city] <hidden from users>",
 			"Instantly provides [1] [-Maintenance] <hidden from users>", 
 			"Instantly consumes [1] [+Maintenance] <hidden from users>",
 			"Unavailable <when above [9] [-Maintenance]> <hidden from users>",
-			"Destroyed when the city is captured <hidden from users>",
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>",
 			"Limited to [1] per Civilization <hidden from users>",
 			"Remove [0 to -100% Maintenance] [in this city] <hidden from users>",
 			"[-10]% maintenance cost for [All] buildings [in all cities] <for [999999] turns> <hidden from users>",
@@ -3757,9 +3996,11 @@
 		"hurryCostModifier": 0,
 		"maintenance": 0,
 		"uniques": [ 
+			"Only available <in cities with a [MiniCake UCheat]>",
 			"Only available <in cities with a [cheated]> <hidden from users>",
 			"Can be purchased for [0] [Gold] [in this city] <hidden from users>",
-			"Destroyed when the city is captured <hidden from users>",
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>",
 			"Instantly provides [1] [+Maintenance] <hidden from users>", 
 			"Instantly consumes [1] [-Maintenance] <hidden from users>",
 			"Unavailable <when above [-1] [+Maintenance]> <hidden from users>",
@@ -3777,9 +4018,11 @@
 		"hurryCostModifier": 0,
 		"maintenance": 0,
 		"uniques": [ 
+			"Only available <in cities with a [MiniCake UCheat]>",
 			"Only available <in cities with a [cheated]> <hidden from users>",
 			"Can be purchased for [0] [Gold] [in this city] <hidden from users>",
-			"Destroyed when the city is captured <hidden from users>",
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>",
 			"Limited to [1] per Civilization <hidden from users>",
 			"May buy [All] buildings for [0] [Culture] [in all cities] <hidden from users>",
 			"May buy [All] buildings for [0] [Gold] [in all cities] <hidden from users>",
@@ -3793,9 +4036,11 @@
 		"hurryCostModifier": 0,
 		"maintenance": 0,
 		"uniques": [ 
+			"Only available <in cities with a [MiniCake UCheat]>",
 			"Only available <in cities with a [cheated]> <hidden from users>",
 			"Can be purchased for [0] [Gold] [in this city] <hidden from users>",
-			"Destroyed when the city is captured <hidden from users>",			
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>",
 			"Limited to [1] per Civilization <hidden from users>",
 			"May buy [Military] units for [0] [Culture] [in all cities] <hidden from users>",
 			"May buy [Military] units for [0] [Gold] [in all cities] <hidden from users>",
@@ -3809,9 +4054,11 @@
 		"hurryCostModifier": 0,
 		"maintenance": 0,
 		"uniques": [ 
+			"Only available <in cities with a [MiniCake UCheat]>",
 			"Only available <in cities with a [cheated]> <hidden from users>",
 			"Can be purchased for [0] [Gold] [in this city] <hidden from users>",
-			"Destroyed when the city is captured <hidden from users>",
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>",
 			"Limited to [1] per Civilization <hidden from users>",
 			"[100] Unit Supply per city <hidden from users>"]
 	},
@@ -3822,9 +4069,11 @@
 		"hurryCostModifier": 0,
 		"maintenance": 0,
 		"uniques": [ 
+			"Only available <in cities with a [MiniCake UCheat]>",
 			"Only available <in cities with a [cheated]> <hidden from users>",
 			"Can be purchased for [0] [Gold] [in this city] <hidden from users>",
-			"Destroyed when the city is captured <hidden from users>",
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>",
 			"Limited to [1] per Civilization <hidden from users>",
 			"[5] Unit Supply per [1] population [in all cities] <hidden from users>"]
 	},
@@ -3835,9 +4084,11 @@
 		"hurryCostModifier": 0,
 		"maintenance": 0,
 		"uniques": [ 
+			"Only available <in cities with a [MiniCake UCheat]>",
 			"Only available <in cities with a [cheated]> <hidden from users>",
 			"Can be purchased for [0] [Gold] [in this city] <hidden from users>",
-			"Destroyed when the city is captured <hidden from users>",
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>",
 			"Limited to [1] per Civilization <hidden from users>",
 			"[-99]% construction time for [All] improvements <hidden from users>"]
 	},
@@ -3848,13 +4099,15 @@
 		"hurryCostModifier": 0,
 		"maintenance": 0,
 		"uniques": [ 
+			"Only available <in cities with a [MiniCake UCheat]>",
 			"Only available <in cities with a [cheated]> <hidden from users>",
 			"Can be purchased for [0] [Gold] [in this city] <hidden from users>",
 			"Instantly provides [1] [+Unit Production] <hidden from users>", 
 			"Instantly consumes [1] [-Unit Production] <hidden from users>",
 			"Unavailable <when above [99] [+Unit Production]> <hidden from users>",
 			"Remove [0 to 10000% Unit Production] [in this city] <hidden from users>",
-			"Destroyed when the city is captured <hidden from users>",
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>",
 			"Limited to [1] per Civilization <hidden from users>",
 			"[+100]% Production when constructing [All] units [in all cities] <for [999999] turns> <hidden from users>"]
 	},
@@ -3865,13 +4118,15 @@
 		"hurryCostModifier": 0,
 		"maintenance": 0,
 		"uniques": [ 
+			"Only available <in cities with a [MiniCake UCheat]>",
 			"Only available <in cities with a [cheated]> <hidden from users>",
 			"Can be purchased for [0] [Gold] [in this city] <hidden from users>",
 			"Instantly provides [1] [-Unit Production] <hidden from users>",
 			"Instantly consumes [1] [+Unit Production] <hidden from users>",
 			"Unavailable <when above [-1] [-Unit Production]> <hidden from users>",
 			"Remove [10000 to 0% Unit Production] [in this city] <hidden from users>",
-			"Destroyed when the city is captured <hidden from users>",
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>",
 			"Limited to [1] per Civilization <hidden from users>",
 			"[-100]% Production when constructing [All] units [in all cities] <for [999999] turns> <hidden from users>"]
 	},
@@ -3882,9 +4137,11 @@
 		"hurryCostModifier": 0,
 		"maintenance": 0,
 		"uniques": [ 
+			"Only available <in cities with a [MiniCake UCheat]>",
 			"Only available <in cities with a [cheated]> <hidden from users>",
 			"Can be purchased for [0] [Gold] [in this city] <hidden from users>",
-			"Destroyed when the city is captured <hidden from users>",
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>",
 			"Instantly provides [1] [+Buildings Production] <hidden from users>", 
 			"Instantly consumes [1] [-Buildings Production] <hidden from users>",
 			"Unavailable <when above [99] [+Buildings Production]> <hidden from users>",
@@ -3899,9 +4156,11 @@
 		"hurryCostModifier": 0,
 		"maintenance": 0,
 		"uniques": [ 
+			"Only available <in cities with a [MiniCake UCheat]>",
 			"Only available <in cities with a [cheated]> <hidden from users>",
 			"Can be purchased for [0] [Gold] [in this city] <hidden from users>",
-			"Destroyed when the city is captured <hidden from users>",
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>",
 			"Instantly provides [1] [-Buildings Production] <hidden from users>", 
 			"Instantly consumes [1] [+Buildings Production] <hidden from users>",
 			"Unavailable <when above [-1] [-Buildings Production]> <hidden from users>",
@@ -3916,9 +4175,11 @@
 		"hurryCostModifier": 0,
 		"maintenance": 0,
 		"uniques": [ 
+			"Only available <in cities with a [MiniCake UCheat]>",
 			"Only available <in cities with a [cheated]> <hidden from users>",
 			"Can be purchased for [0] [Gold] [in this city] <hidden from users>",
-			"Destroyed when the city is captured <hidden from users>",
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>",
 			"Instantly provides [1] [+Wonders Production] <hidden from users>", 
 			"Instantly consumes [1] [-Wonders Production] <hidden from users>",
 			"Unavailable <when above [99] [+Wonders Production]> <hidden from users>",
@@ -3933,9 +4194,11 @@
 		"hurryCostModifier": 0,
 		"maintenance": 0,
 		"uniques": [ 
+			"Only available <in cities with a [MiniCake UCheat]>",
 			"Only available <in cities with a [cheated]> <hidden from users>",
 			"Can be purchased for [0] [Gold] [in this city] <hidden from users>",
-			"Destroyed when the city is captured <hidden from users>",
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>",
 			"Instantly provides [1] [-Wonders Production] <hidden from users>", 
 			"Instantly consumes [1] [+Wonders Production] <hidden from users>",
 			"Unavailable <when above [-1] [-Wonders Production]> <hidden from users>",
@@ -3950,9 +4213,11 @@
 		"hurryCostModifier": 0,
 		"maintenance": 0,
 		"uniques": [ 
+			"Only available <in cities with a [MiniCake UCheat]>",
 			"Only available <in cities with a [cheated]> <hidden from users>",
 			"Can be purchased for [0] [Gold] [in this city] <hidden from users>",
-			"Destroyed when the city is captured <hidden from users>",
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>",
 			"Limited to [1] per Civilization <hidden from users>",
 			"Notified of new Barbarian encampments <hidden from users>", 
 			"Earn [+150]% of killed [All] unit's [Strength] as [Gold] <hidden from users>",
@@ -3969,9 +4234,11 @@
 		"hurryCostModifier": 0,
 		"maintenance": 0,
 		"uniques": [ 
+			"Only available <in cities with a [MiniCake UCheat]>",
 			"Only available <in cities with a [cheated]> <hidden from users>",
 			"Can be purchased for [0] [Gold] [in this city] <hidden from users>",
-			"Destroyed when the city is captured <hidden from users>",
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>",
 			"Limited to [1] per Civilization <hidden from users>",
 			"Earn [+100]% of killed [All] unit's [Strength] as [Faith] <hidden from users>",
 			"Earn [+100]% of the damage done to [All] units as [Faith] <hidden from users>",
@@ -3983,9 +4250,11 @@
 		"hurryCostModifier": 0,
 		"maintenance": 0,
 		"uniques": [ 
+			"Only available <in cities with a [MiniCake UCheat]>",
 			"Only available <in cities with a [cheated]> <hidden from users>",
 			"Can be purchased for [0] [Gold] [in this city] <hidden from users>",
-			"Destroyed when the city is captured <hidden from users>",
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>",
 			"Limited to [1] per Civilization <hidden from users>"]
 	},
 	{	"name": "C-S cheat",
@@ -3994,6 +4263,7 @@
 		"hurryCostModifier": 0,
 		"maintenance": 0,
 		"uniques": [ 
+			"Only available <in cities with a [MiniCake UCheat]>",
 			"Only available <in cities with a [cheated]> <hidden from users>",
 			"Can be purchased for [0] [Gold] [in this city] <hidden from users>",
 			"City-State territory always counts as friendly territory <hidden from users>",
@@ -4013,7 +4283,8 @@
 			"Influence of all other civilizations with all city-states degrades [999]% faster <hidden from users>",
 			"[100]% Happiness from luxury resources gifted by City-States <hidden from users>",
 			"[100]% resources gifted by City-States <hidden from users>",
-			"Destroyed when the city is captured <hidden from users>",
+		"Moves to new capital when capital changes<hidden from users>",
+		"Destroyed when the city is captured <hidden from users>",
 			"Limited to [1] per Civilization <hidden from users>"]
 	}
 		
