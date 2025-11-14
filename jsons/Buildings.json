@@ -2781,7 +2781,7 @@
 			"Only available <before discovering [1 Ancient Era Tech Inhibit]><hidden from users>",
 			"Unbuildable <hidden from users>",
 		"Moves to new capital when capital changes<hidden from users>",
-		"Destroyed when the city is captured <hidden from users>	
+		"Destroyed when the city is captured <hidden from users>"	
 		]
 	},
 	{
@@ -2804,7 +2804,7 @@
 			"Only available <before discovering [2 Classical Era Tech Inhibit]><hidden from users>",
 			"Unbuildable <hidden from users>",
 		"Moves to new capital when capital changes<hidden from users>",
-		"Destroyed when the city is captured <hidden from users>	
+		"Destroyed when the city is captured <hidden from users>"	
 		]
 	},
 	{
@@ -2827,7 +2827,7 @@
 			"Only available <before discovering [3 Medieval Era Tech Inhibit]><hidden from users>",
 			"Unbuildable <hidden from users>",
 		"Moves to new capital when capital changes<hidden from users>",
-		"Destroyed when the city is captured <hidden from users>	
+		"Destroyed when the city is captured <hidden from users>"	
 		]
 	},
 	{
@@ -2850,7 +2850,7 @@
 			"Only available <before discovering [4 Renaissance Era Tech Inhibit]><hidden from users>",
 			"Unbuildable <hidden from users>",
 		"Moves to new capital when capital changes<hidden from users>",
-		"Destroyed when the city is captured <hidden from users>	
+		"Destroyed when the city is captured <hidden from users>"	
 		]
 	},
 	{
@@ -2872,7 +2872,7 @@
 			"Only available <before discovering [5 Industrial Era Tech Inhibit]><hidden from users>",
 			"Unbuildable <hidden from users>",
 		"Moves to new capital when capital changes<hidden from users>",
-		"Destroyed when the city is captured <hidden from users>	
+		"Destroyed when the city is captured <hidden from users>"	
 		]
 	},
 	{
@@ -2893,7 +2893,7 @@
 			"Only available <before discovering [6 Modern Era Tech Inhibit]><hidden from users>",
 			"Unbuildable <hidden from users>",
 		"Moves to new capital when capital changes<hidden from users>",
-		"Destroyed when the city is captured <hidden from users>	
+		"Destroyed when the city is captured <hidden from users>"	
 		]
 	},
 	{
@@ -2917,7 +2917,7 @@
 			"Only available <before discovering [7 Atomic Era Tech Inhibit]><hidden from users>",
 			"Unbuildable <hidden from users>",
 		"Moves to new capital when capital changes<hidden from users>",
-		"Destroyed when the city is captured <hidden from users>	
+		"Destroyed when the city is captured <hidden from users>"	
 		]
 	},
 	{
@@ -2931,7 +2931,7 @@
 			"Only available <before discovering [8 Information Era Tech Inhibit]><hidden from users>",
 			"Unbuildable <hidden from users>",
 		"Moves to new capital when capital changes<hidden from users>",
-		"Destroyed when the city is captured <hidden from users>	
+		"Destroyed when the city is captured <hidden from users>"	
 		]
 	},
 
@@ -2966,7 +2966,7 @@
 			"Only available <before discovering [1 Ancient Era Tech Inhibit]><hidden from users>",
 			"Unbuildable <hidden from users>",
 		"Moves to new capital when capital changes<hidden from users>",
-		"Destroyed when the city is captured <hidden from users>	
+		"Destroyed when the city is captured <hidden from users>"	
 		]
 	},
 	{
@@ -2982,7 +2982,7 @@
 			"Only available <before discovering [2 Classical Era Tech Inhibit]><hidden from users>",
 			"Unbuildable <hidden from users>",
 		"Moves to new capital when capital changes<hidden from users>",
-		"Destroyed when the city is captured <hidden from users>	
+		"Destroyed when the city is captured <hidden from users>"	
 		]
 	},
 	{
@@ -2999,7 +2999,7 @@
 			"Only available <before discovering [3 Medieval Era Tech Inhibit]><hidden from users>",
 			"Unbuildable <hidden from users>",
 		"Moves to new capital when capital changes<hidden from users>",
-		"Destroyed when the city is captured <hidden from users>	
+		"Destroyed when the city is captured <hidden from users>"	
 		]
 	},
 	{
@@ -3017,7 +3017,7 @@
 			"Only available <before discovering [4 Renaissance Era Tech Inhibit]><hidden from users>",
 			"Unbuildable <hidden from users>",
 		"Moves to new capital when capital changes<hidden from users>",
-		"Destroyed when the city is captured <hidden from users>	
+		"Destroyed when the city is captured <hidden from users>"	
 		]
 	},
 	{
@@ -3036,7 +3036,7 @@
 			"Only available <before discovering [5 Industrial Era Tech Inhibit]><hidden from users>",
 			"Unbuildable <hidden from users>",
 		"Moves to new capital when capital changes<hidden from users>",
-		"Destroyed when the city is captured <hidden from users>	
+		"Destroyed when the city is captured <hidden from users>"	
 		]
 	},
 	{
@@ -3056,7 +3056,7 @@
 			"Only available <before discovering [6 Modern Era Tech Inhibit]><hidden from users>",
 			"Unbuildable <hidden from users>",
 		"Moves to new capital when capital changes<hidden from users>",
-		"Destroyed when the city is captured <hidden from users>	
+		"Destroyed when the city is captured <hidden from users>"	
 		]
 	},
 	{
@@ -3077,7 +3077,7 @@
 			"Only available <before discovering [7 Atomic Era Tech Inhibit]><hidden from users>",
 			"Unbuildable <hidden from users>",
 		"Moves to new capital when capital changes<hidden from users>",
-		"Destroyed when the city is captured <hidden from users>	
+		"Destroyed when the city is captured <hidden from users>"	
 		]
 	},
 	{
@@ -3099,7 +3099,7 @@
 			"Only available <before discovering [8 Information Era Tech Inhibit]><hidden from users>",
 			"Unbuildable <hidden from users>",
 		"Moves to new capital when capital changes<hidden from users>",
-		"Destroyed when the city is captured <hidden from users>	
+		"Destroyed when the city is captured <hidden from users>"	
 		]
 	},
 	{
@@ -3113,7 +3113,7 @@
 //			"Only available <before discovering [7 Atomic Tech Inhibit]><hidden from users>",
 			"Unbuildable <hidden from users>",
 		"Moves to new capital when capital changes<hidden from users>",
-		"Destroyed when the city is captured <hidden from users>	
+		"Destroyed when the city is captured <hidden from users>"	
 		]
 	},
 
@@ -3158,7 +3158,7 @@
 			"Adopt [Order]<before adopting [Order]>",
 			"Unbuildable <hidden from users>",
 		"Moves to new capital when capital changes<hidden from users>",
-		"Destroyed when the city is captured <hidden from users>	
+		"Destroyed when the city is captured <hidden from users>"	
 		]
 	},
 
@@ -3180,7 +3180,7 @@
 //			"Adopt [Tradition Complete]<before adopting [Tradition Complete]>",
 			"Unbuildable <hidden from users>",
 		"Moves to new capital when capital changes<hidden from users>",
-		"Destroyed when the city is captured <hidden from users>	
+		"Destroyed when the city is captured <hidden from users>"	
 		]
 	},
 	{
@@ -3200,7 +3200,7 @@
 //			"Adopt [Liberty Complete]<before adopting [Liberty Complete]>",
 			"Unbuildable <hidden from users>",
 		"Moves to new capital when capital changes<hidden from users>",
-		"Destroyed when the city is captured <hidden from users>	
+		"Destroyed when the city is captured <hidden from users>"	
 		]
 	},
 	{
@@ -3220,7 +3220,7 @@
 //			"Adopt [Honor Complete]<before adopting [Honor Complete]>",
 			"Unbuildable <hidden from users>",
 		"Moves to new capital when capital changes<hidden from users>",
-		"Destroyed when the city is captured <hidden from users>	
+		"Destroyed when the city is captured <hidden from users>"	
 		]
 	},
 	{
@@ -3240,7 +3240,7 @@
 //			"Adopt [Piety Complete]<before adopting [Piety Complete]>",
 			"Unbuildable <hidden from users>",
 		"Moves to new capital when capital changes<hidden from users>",
-		"Destroyed when the city is captured <hidden from users>	
+		"Destroyed when the city is captured <hidden from users>"	
 		]
 	},
 	{
@@ -3260,7 +3260,7 @@
 //			"Adopt [Patronage Complete]<before adopting [Patronage Complete]>",
 			"Unbuildable <hidden from users>",
 		"Moves to new capital when capital changes<hidden from users>",
-		"Destroyed when the city is captured <hidden from users>	
+		"Destroyed when the city is captured <hidden from users>"	
 		]
 	},
 	{
@@ -3280,7 +3280,7 @@
 //			"Adopt [Commerce Complete]<before adopting [Commerce Complete]>",
 			"Unbuildable <hidden from users>",
 		"Moves to new capital when capital changes<hidden from users>",
-		"Destroyed when the city is captured <hidden from users>	
+		"Destroyed when the city is captured <hidden from users>"	
 		]
 	},
 	{
@@ -3300,7 +3300,7 @@
 //			"Adopt [Rationalism Complete]<before adopting [Rationalism Complete]>",
 			"Unbuildable <hidden from users>",
 		"Moves to new capital when capital changes<hidden from users>",
-		"Destroyed when the city is captured <hidden from users>	
+		"Destroyed when the city is captured <hidden from users>"	
 		]
 	},
 	{
@@ -3320,7 +3320,7 @@
 //			"Adopt [Freedom Complete]<before adopting [Freedom Complete]>",
 			"Unbuildable <hidden from users>",
 		"Moves to new capital when capital changes<hidden from users>",
-		"Destroyed when the city is captured <hidden from users>	
+		"Destroyed when the city is captured <hidden from users>"	
 		]
 	},
 	{
@@ -3340,7 +3340,7 @@
 //			"Adopt [Autocracy Complete]<before adopting [Autocracy Complete]>",
 			"Unbuildable <hidden from users>",
 		"Moves to new capital when capital changes<hidden from users>",
-		"Destroyed when the city is captured <hidden from users>	
+		"Destroyed when the city is captured <hidden from users>"	
 		]
 	},
 	{
@@ -3360,7 +3360,7 @@
 //			"Adopt [Order Complete]<before adopting [Order Complete]>",
 			"Unbuildable <hidden from users>",
 		"Moves to new capital when capital changes<hidden from users>",
-		"Destroyed when the city is captured <hidden from users>	
+		"Destroyed when the city is captured <hidden from users>"	
 		]
 	},
 
@@ -3399,7 +3399,7 @@
 			"[+50]% to Flank Attack bonuses",
 			"[+50]% XP gained from combat",
 		"Moves to new capital when capital changes<hidden from users>",
-		"Destroyed when the city is captured <hidden from users>	
+		"Destroyed when the city is captured <hidden from users>"	
 		]
 	},
 	{
@@ -3418,7 +3418,7 @@
 			"[50]% [Culture] [in all cities]",
 			"[+100]% [Strategic] resource production",
 		"Moves to new capital when capital changes<hidden from users>",
-		"Destroyed when the city is captured <hidden from users>	
+		"Destroyed when the city is captured <hidden from users>"	
 		]
 	},
 	{
@@ -3433,7 +3433,7 @@
 			"[+100]% City Strength from defensive buildings",
 			"[+100]% Strength for cities",
 		"Moves to new capital when capital changes<hidden from users>",
-		"Destroyed when the city is captured <hidden from users>	
+		"Destroyed when the city is captured <hidden from users>"	
 		]
 	},
 	{
@@ -3449,7 +3449,7 @@
 			"Only available <in cities with a [MiniCake Godmode]>",,
 			"[+100]% Great Person generation [in all cities]",
 		"Moves to new capital when capital changes<hidden from users>",
-		"Destroyed when the city is captured <hidden from users>	
+		"Destroyed when the city is captured <hidden from users>"	
 		]
 	},
 	
