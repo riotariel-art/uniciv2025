@@ -465,7 +465,7 @@
 			"May capture killed [All] units",
 			"[2] Sight <for [Embarked] units>",
 			"May attack when embarked",
-			"+100% Strength when defending (when Embarked)", 
+			"[+100]% Strength <when defending>", 
 			"Eliminates combat penalty for attacking across a coast",
 			"Eliminates combat penalty for attacking over a river",
 			"[1] Movement point cost to embark",
