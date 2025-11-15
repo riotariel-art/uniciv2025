@@ -880,13 +880,18 @@
             "Scientific": 0
         },
         "uniques": [
+            "[-100]% weight to this choice for AI decisions <hidden from users>",
+	    	"Only available <for [Human player] Civilizations> <hidden from users>",
             "Only available <before discovering [AI Treats]>",
+            "Only available <after discovering [Human Treats]>",
             "Free Social Policy"
         ],
         "policies": [
             {
                 "name": "Challenge Palace Nullifier",
                 "uniques": [
+            "[-100]% weight to this choice for AI decisions <hidden from users>",
+	    	"Only available <for [Human player] Civilizations> <hidden from users>",
                     "Free Social Policy",
                     "[-3 Production, -3 Science, -3 Gold, -1 Culture] from every [Palace]",
                     "Triggers the following global alert: [. Palace Nullifier Challenge was chosen!]"
@@ -897,6 +902,8 @@
             {
                 "name": "No Culture Challenge",
                 "uniques": [
+            "[-100]% weight to this choice for AI decisions <hidden from users>",
+	    	"Only available <for [Human player] Civilizations> <hidden from users>",
                     "Nullifies [Culture] [in all cities]",
                     "Free Social Policy",
                     "Triggers the following global alert: [. No Culture Challenge was chosen!]"
@@ -907,6 +914,8 @@
             {
                 "name": "Blind Challenge",
                 "uniques": [
+            "[-100]% weight to this choice for AI decisions <hidden from users>",
+	    	"Only available <for [Human player] Civilizations> <hidden from users>",
                     "[-2] Sight <for [Military] units>"
                     "Free Social Policy",
                     "Triggers the following global alert: [. Blind Challenge was chosen!]"
@@ -917,6 +926,8 @@
             {
                 "name": "No Ranged Units Challenge",
                 "uniques": [
+            "[-100]% weight to this choice for AI decisions <hidden from users>",
+	    	"Only available <for [Human player] Civilizations> <hidden from users>",
                     "Cannot build [Archery] units",
                     "Cannot build [Ranged Gunpowder] units",
                     "Cannot build [Siege] units",
@@ -933,6 +944,8 @@
             {
                 "name": "No Melee Units Challenge",
                 "uniques": [
+            "[-100]% weight to this choice for AI decisions <hidden from users>",
+	    	"Only available <for [Human player] Civilizations> <hidden from users>",
                     "Cannot build [Sword] units",
                     "Cannot build [Gunpowder] units",
                     "Cannot build [Mounted] units",
@@ -949,6 +962,8 @@
             {
                 "name": "No Planes Challenge",
                 "uniques": [
+            "[-100]% weight to this choice for AI decisions <hidden from users>",
+	    	"Only available <for [Human player] Civilizations> <hidden from users>",
                     "Cannot build [Fighter] units",
                     "Cannot build [Bomber] units",
                     "Cannot build [Atomic Bomber] units",
@@ -965,6 +980,8 @@
             {
                 "name": "No Civilian Challenge",
                 "uniques": [
+            "[-100]% weight to this choice for AI decisions <hidden from users>",
+	    	"Only available <for [Human player] Civilizations> <hidden from users>",
                     "Cannot build [Civilian] units",
                     "Cannot build [Civilian Water] units",
                     "[-999]% Great Person generation [in all cities]",
@@ -978,6 +995,8 @@
             {
                 "name": "Cursed March Challenge",
                 "uniques": [
+            "[-100]% weight to this choice for AI decisions <hidden from users>",
+	    	"Only available <for [Human player] Civilizations> <hidden from users>",
                     "[-3] Movement <for [Land] units>"
                     "Free Social Policy",
                     "Triggers the following global alert: [. Cursed March Challenge was chosen!]"
@@ -989,6 +1008,8 @@
             {
                 "name": "Cursed Swim Challenge",
                 "uniques": [
+            "[-100]% weight to this choice for AI decisions <hidden from users>",
+	    	"Only available <for [Human player] Civilizations> <hidden from users>",
                     "[-6] Movement <for [Water] units>"
                     "Free Social Policy",
                     "Triggers the following global alert: [. Cursed Swim Challenge was chosen!]"
@@ -1000,6 +1021,8 @@
             {
                 "name": "No Wonders Challenge",
                 "uniques": [
+            "[-100]% weight to this choice for AI decisions <hidden from users>",
+	    	"Only available <for [Human player] Civilizations> <hidden from users>",
                   "Free Social Policy",
                   "[-999]% Production when constructing [All] wonders [in all cities]",
                   "Triggers the following global alert: [. No Wonders Challenge was chosen!]"
@@ -1012,6 +1035,8 @@
             {
                 "name": "No Faith Challenge",
                 "uniques": [
+            "[-100]% weight to this choice for AI decisions <hidden from users>",
+	    	"Only available <for [Human player] Civilizations> <hidden from users>",
                   "Free Social Policy",
                   "Nullifies [Faith] [in all cities]",
                   "Triggers the following global alert: [. No Faith Challenge was chosen!]"
@@ -1023,6 +1048,8 @@
             {
                 "name": "Totally Blind Challenge",
                 "uniques": [
+            "[-100]% weight to this choice for AI decisions <hidden from users>",
+	    	"Only available <for [Human player] Civilizations> <hidden from users>",
                     "[All] units gain the [Totally Blind] promotion"
                     "Free Social Policy",
                     //"I have no idea how this is supposed to be beatable"
@@ -1036,6 +1063,8 @@
             {
                 "name": "Constant Riots",
                 "uniques": [
+            "[-100]% weight to this choice for AI decisions <hidden from users>",
+	    	"Only available <for [Human player] Civilizations> <hidden from users>",
                   "Free Social Policy",
                   "Rebel units may spawn",
                   "[-33]% Strength <vs [Barbarian] units>",
@@ -1048,6 +1077,8 @@
             {
                 "name": "Barbarian Traits Challenge",
                 "uniques": [
+            "[-100]% weight to this choice for AI decisions <hidden from users>",
+	    	"Only available <for [Human player] Civilizations> <hidden from users>",
                   "Free Social Policy",
                   "Can only heal by pillaging",
                   "Triggers the following global alert: [. Barbarian Traits Challenge was chosen!]"
@@ -1059,6 +1090,8 @@
             {
                 "name": "Too Much Beer Challenge",
                 "uniques": [
+            "[-100]% weight to this choice for AI decisions <hidden from users>",
+	    	"Only available <for [Human player] Civilizations> <hidden from users>",
                   "Free Social Policy",
                   "Gain a free [Party] [in all cities]",
                   "This halts Science, Production and Gold output of a city during WLTK day, but enhances Culture output a bit and Accelerates Growth",
@@ -1072,7 +1105,9 @@
             {
                 "name": "Cursed March Challenge Extreme",
                 "uniques": [
-                    "[Military] units gain the [No Move] promotion"
+            "[-100]% weight to this choice for AI decisions <hidden from users>",
+	    	"Only available <for [Human player] Civilizations> <hidden from users>",
+                    "[Military] units gain the [No Move] promotion",
                     "Free Social Policy",
                     "I have no idea how this is supposed to be beatable"
                     "Dm me if you can beat Domination victory with this enabled (Difficulty Immortal/Deity)"
@@ -1085,6 +1120,8 @@
             {
                 "name": "End Challenge Selection",
                 "uniques": [
+            "[-100]% weight to this choice for AI decisions <hidden from users>",
+	    	"Only available <for [Human player] Civilizations> <hidden from users>",
                   "Stops the selection without giving you more Policies"
                 ],
                 //"requires": ["Legalism"],
@@ -1094,6 +1131,8 @@
             {
                 "name": "Challenges Complete",
                 "uniques": [
+            "[-100]% weight to this choice for AI decisions <hidden from users>",
+	    	"Only available <for [Human player] Civilizations> <hidden from users>",
                     "Your Crazy!"
                 ]
             }
