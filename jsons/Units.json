@@ -49,7 +49,22 @@
   		"attackSound": "machinegun"
 	},
   
-  
+	{
+		"name": "United Guided Missile",
+		"unitType": "Missile",
+		"movement": 1,
+		"strength": 60,
+		"rangedStrength": 60,
+		"range": 15,
+		"cost": 150,
+//		"requiredTech": "Advanced Ballistics",
+		"uniques": [
+			"Never appears as a Barbarian unit",
+		 		"Only available <for [Human player] Civilizations> <hidden from users>",
+		    "[-100]% maintenance costs"
+		    ],
+		"attackSound": "missile"
+	},
 
   
   
@@ -241,7 +256,7 @@
 		"uniques": [
 		    "Can build [Land] improvements on tiles", 
 		    "Automation is a primary action",
-		    "Limited to [3] per Civilization"
+		    "Limited to [2] per Civilization"
 		    ],
 		"cost": 70,
 		
@@ -252,7 +267,7 @@
 		"movement": 2,
 		"cost": 106,
 		"uniques": [
-		    "Limited to [5] per Civilization",
+		    "Limited to [3] per Civilization",
 			"Founds a new city", 
 			"Excess Food converted to Production when under construction",
 			"Can move immediately once bought", 
@@ -282,7 +297,7 @@
 		"name": "Missionary",
 		"unitType": "Civilian",
 		"uniques": [
-		    "Limited to [3] per Civilization",
+		    "Limited to [1] per Civilization",
             "Can Spread Religion <for [4] movement> <[2] times> <after which this unit is consumed>",
             "May enter foreign tiles without open borders, but loses [250] religious strength each turn it ends there",
 			"Can be purchased with [Faith] [in all cities in which the majority religion is a major religion]",
@@ -813,11 +828,12 @@
 		"unitType": "Civilian",
 		"uniques": [
 			"Limited to [1] per Civilization <hidden from users>",
-			"Gain a free [Divine Gate] [in capital] <by consuming this unit>",
-			"Unbuildable",
-			"Uncapturable",
-			"Reveals the entire map",
-			"Only available <for [Human player] Civilizations> <hidden from users>"
+			"Unavailable <hidden from users>",
+			"Unbuildable <hidden from users>",
+			"Uncapturable <hidden from users>",
+//			"Reveals the entire map",
+//			"Only available <for [Human player] Civilizations> <hidden from users>",
+			"Gain a free [Divine Gate] [in capital] <by consuming this unit>"
 		],
 		"movement": 2
 	}
